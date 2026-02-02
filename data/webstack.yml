@@ -5,241 +5,241 @@
     links:
     - title: ETtoday新聞雲 | Today is my day
       url: https://www.ettoday.net/?from=logo
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.ettoday.net&sz=64
       description: ''
     - title: 首页 | 路透中文网
       url: http://cn.reuters.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=cn.reuters.com&sz=64
       description: ''
     - title: https://www.youtube.com
       url: https://www.youtube.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.youtube.com&sz=64
       description: ''
     - title: Google Play 上的 Andr​​oid 应用
       url: https://play.google.com/store
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=play.google.com&sz=64
       description: ''
     - title: Google AdSense
       url: https://www.google.com/adsense/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.google.com&sz=64
       description: ''
     - title: 华尔街日报中文网_突发新闻，商业，经济，金融，财经，国际新闻，多媒体，视频_华尔街日报中文版_WSJ_The Wall Street Journal
       url: http://cn.wsj.com/gb/index.asp
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=cn.wsj.com&sz=64
       description: ''
     - title: OpenVZ 平台 Google BBR 一键安装脚本 | 扩软博客
       url: https://blog.kuoruan.com/116.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=blog.kuoruan.com&sz=64
       description: ''
     - title: PieCloud
       url: https://speedpie.net/user/node
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=speedpie.net&sz=64
       description: ''
     - title: Waiting
       url: https://mapi.yuansfer.com/app-redirect-record/yuansfer-redirect-record/355778425248347336
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=mapi.yuansfer.com&sz=64
       description: ''
     - title: 192.168.99.3:25500/sub 订阅转换地址
       url: http://192.168.99.3:25500/sub
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=192.168.99.3:25500&sz=64
       description: ''
     - title: immortalwrt/immortalwrt：针对中国大陆用户的开源OpenWrt变体。
       url: https://github.com/immortalwrt/immortalwrt
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: zashboard |▶【代理】◀251
       url: https://tgg.zyweb.top:8443/ui/zashboard/#/proxies
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=tgg.zyweb.top:8443&sz=64
       description: ''
     - title: zashboard | ▶【代理】◀253
       url: https://mb.zyweb.top:8443/ui/?hostname=mb.zyweb.top&port=8443&secret=fugang520123#/proxies
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=mb.zyweb.top:8443&sz=64
       description: ''
     - title: Portainer | local 京东云
       url: http://117.72.163.60:9000/#!/2/docker/containers
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=117.72.163.60:9000&sz=64
       description: ''
     - title: ServerStatus US-CD2
       url: http://185.77.225.20:8080/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=185.77.225.20:8080&sz=64
       description: ''
     - title: Cfan•Home
       url: https://h.10588.dpdns.org:8443/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=h.10588.dpdns.org:8443&sz=64
       description: ''
     - title: 洛杉矶-DC2/2T=宝塔Linux面板
       url: https://185.77.225.20:16204/d3c4fe24
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=185.77.225.20:16204&sz=64
       description: ''
     - title: Kindle天气台历
       url: https://kw6.netlify.app/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=kw6.netlify.app&sz=64
       description: ''
     - title: CF-fqdl(订阅中心）黑
       url: https://fqdl.ncn.qzz.io/cfan
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=fqdl.ncn.qzz.io&sz=64
       description: ''
     - title: Shadowsocks 订阅中心
       url: https://ss.cnidm.eu.org/17bb1db8-81ef-4274-bfc6-0a90c4ad7a98
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=ss.cnidm.eu.org&sz=64
       description: ''
     - title: Snippets订阅链接
       url: https://snip.cnidm.eu.org/32f09d72-4af9-42df-866b-2733e7a290b4
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=snip.cnidm.eu.org&sz=64
       description: ''
     - title: LaoWang Sub-converter - 订阅转换器
       url: https://sub-dl.vercel.app/converter
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=sub-dl.vercel.app&sz=64
       description: ''
     - title: Sub Store 订阅地址
       url: https://sub.ncn.qzz.io:8443/subs?api=https://sub.ncn.qzz.io:8443/T3B9dgzBzdRbBF8Acfan
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=sub.ncn.qzz.io:8443&sz=64
       description: ''
   - term: 公共VPN分享
     links:
     - title: 'VPN Gate: 公共 VPN 中继服务器列表'
       url: https://www.vpngate.net/cn/#LIST
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.vpngate.net&sz=64
       description: ''
     - title: 所有国家代理服务器 - SOCKS5
       url: http://free-proxy.cz/en/proxylist/country/all/socks5/ping/all
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=free-proxy.cz&sz=64
       description: ''
     - title: 免费袜子 - 袜子代理 - 袜子5名单 - 袜子4名单 - 美国袜子 - 活袜子代理 - 新鲜袜子代理
       url: http://www.gatherproxy.com/sockslist
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.gatherproxy.com&sz=64
       description: ''
     - title: 免费的SOCKS代理服务器列表，socks4和socks5代理
       url: http://spys.one/en/socks-proxy-list/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=spys.one&sz=64
       description: ''
     - title: 高级代理服务| 主页
       url: https://premproxy.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=premproxy.com&sz=64
       description: ''
     - title: 'VPN Gate: 公共 VPN 中继服务器列表'
       url: https://www.vpngate.net/cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.vpngate.net&sz=64
       description: ''
   - term: 工具
     links:
     - title: YouTube 和视频网络扩展] 丰富您的体验和选择！🧰180 多个选项和巧妙的功能📌设置+忘记📌最长久的（但单独使用却很少见且很难。请帮助/加入🧩我们👨‍👩‍👧‍👧）..⋮{播放|内容发现|播放器|额外按钮|干扰|相关视频|短片|广告|质量|编解码器|全标签|全屏}
       url: https://github.com/code-charity/youtube
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 从 YouTube 下载视频和播放列表
       url: https://github.com/Tyrrrz/YoutubeDownloader
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 原版Shadowsocks - 一个安全的Socks5代理
       url: https://github.com/shadowsocks
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 安卓历史版本、shadowsocks/
       url: https://github.com/shadowsocks/shadowsocks-android/releases
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: GitHub - 科学发现/welcome ssr
       url: https://github.com/Kejifaxian/welcome
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: Releases · Qv2ray/Qv2ray · GitHub
       url: https://github.com/Qv2ray/Qv2ray/releases
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 定制适用于您设备的OpenWrt固件
       url: https://supes.top/?version=22.03&target=x86%2F64&id=generic
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=supes.top&sz=64
       description: ''
     - title: sirpdboy X86_openwrt/README.md at master · sirpdboy/openwrt · GitHub
       url: https://github.com/sirpdboy/openwrt/blob/master/README.md#%E5%9B%BA%E4%BB%B6%E4%B8%8B%E8%BD%BD
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 骷髅 骨头Releases · DHDAXCW/OpenWRT_x86_x64 · GitHub
       url: https://github.com/DHDAXCW/OpenWRT_x86_x64/releases
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: Bleach OpenWrt | lede/x86_64
       url: https://openwrt.mpdn.fun:8443/?dir=lede%2Fx86_64
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=openwrt.mpdn.fun:8443&sz=64
       description: ''
     - title: GitHub - KTgo/iStoreOS
       url: https://github.com/KTgo/iStoreOS
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: iStore扩展插件包X86
       url: https://github.com/AUK9527/Are-u-ok/tree/main/x86
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 'GitHub - linkease/istore-packages: 缓存一些软件包，以避免一些插件的未知的更新改动，带给固件的不稳定性。'
       url: https://github.com/linkease/istore-packages
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: Are-u-ok/apps at main · AUK9527/Are-u-ok · GitHub
       url: https://github.com/AUK9527/Are-u-ok/tree/main/apps
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: Clash For Windows 客户端中文汉化教程 - 彧繎博客
       url: https://opssh.cn/fenxiang/204.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=opssh.cn&sz=64
       description: ''
     - title: GitHub - bleach1991/lede 这个openw X86好用
       url: https://github.com/bleach1991/lede
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 黑洞加速防失联发布页 - 黑洞加速
       url: https://x-go.gitbook.io/hdong
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=x-go.gitbook.io&sz=64
       description: ''
     - title: Releases · zzzgydi/Clash Verge
       url: https://github.com/zzzgydi/clash-verge/releases
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 两元店
       url: https://xn--5hqx9equq.com/#/dashboard
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=xn--5hqx9equq.com&sz=64
       description: ''
     - title: Service Configuration - Just My Socks
       url: https://justmysocks.net/members/sunshine.php?serviceId=664761&page=home
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=justmysocks.net&sz=64
       description: ''
     - title: 赔钱机场
       url: https://xn--mes358aby2apfg.com/#/plan
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=xn--mes358aby2apfg.com&sz=64
       description: ''
     - title: 发布 Hitomi Downloader v3.7h · KurtBestor/Hitomi-Downloader · GitHub
       url: https://github.com/KurtBestor/Hitomi-Downloader/releases/tag/v3.7h
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: nexitally | Control Panel
       url: https://nexitallysafe.com/main.aspx
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=nexitallysafe.com&sz=64
       description: ''
     - title: 'GitHub - BlueSkyXN/AdGuardHomeRules: 高达百万级规则！由我原创&整理的AdGuardHomeRules
         ADH广告拦截过滤规则！打造全网最强最全规则集'
       url: https://github.com/BlueSkyXN/AdGuardHomeRules
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: Releases · MatsuriDayo/nekoray Windows版 好用多协议
       url: https://github.com/MatsuriDayo/nekoray/releases/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 原版Shadowsocks - 一个安全的Socks5代理
       url: http://shadowsocks.org/en/index.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=shadowsocks.org&sz=64
       description: ''
     - title: 黑洞Cloud_地址发布页
       url: https://a.hdyun.icu/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=a.hdyun.icu&sz=64
       description: ''
     - title: 'KaringX/karing: Simple & Powerful proxy utility, Support routing rules
         for clash/sing-box'
       url: https://github.com/KaringX/karing
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 'wukongdaily/RunFilesBuilder: 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于iStoreOS/ImmortalWrt用的run自解压包'
       url: https://github.com/wukongdaily/RunFilesBuilder
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
 - taxonomy: 交互
   icon: fas fa-folder fa-lg
@@ -248,303 +248,303 @@
     links:
     - title: 爱快云 - 网络巡检 - 概览
       url: https://yun.ikuai8.com/#/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=yun.ikuai8.com&sz=64
       description: ''
     - title: My private cloud
       url: http://192.168.99.3/index.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=192.168.99.3&sz=64
       description: ''
     - title: AC68U-192.168.99.1
       url: http://192.168.99.1/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=192.168.99.1&sz=64
       description: ''
     - title: 192.168.99.3 Synology DiskStation
       url: http://192.168.99.3:5000/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=192.168.99.3:5000&sz=64
       description: ''
     - title: dsm2018 - Synology DiskStation
       url: http://fu5502.f3322.net:5000/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=fu5502.f3322.net:5000&sz=64
       description: ''
     - title: Dsm6 - Synology DiskStation
       url: http://fu5502.iask.in:5000/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=fu5502.iask.in:5000&sz=64
       description: ''
     - title: Dsm6 - Synology DiskStation
       url: http://zyweb.top:5000/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=zyweb.top:5000&sz=64
       description: ''
     - title: 我的签到
       url: http://192.168.99.3:8888/my/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=192.168.99.3:8888&sz=64
       description: ''
     - title: 公开的签到模板
       url: https://qiandao.today/tpls/public
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=qiandao.today&sz=64
       description: ''
     - title: 桥转路由设置
       url: http://192.168.1.1:8080/bridge_route.gch
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=192.168.1.1:8080&sz=64
       description: ''
     - title: 黑洞云 Pro
       url: https://blackholeservices.com/#/dashboard
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=blackholeservices.com&sz=64
       description: ''
     - title: CentOS/Linux 网卡设置 IP地址配置_Linux教程_Linux公社-Linux系统门户网站
       url: http://www.linuxidc.com/Linux/2015-02/112964.htm
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.linuxidc.com&sz=64
       description: ''
     - title: 宽带自主智能提速
       url: http://hb.189.cn/pages/selfservice/business/co/speed/index.jsp
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=hb.189.cn&sz=64
       description: ''
     - title: 百度地图
       url: http://map.baidu.com/?newmap=1&shareurl=1&l=14&tn=B_NORMAL_MAP&hb=B_SATELLITE_STREET&c=12302987,3368899&mapShareId=6706415d0f3bd0acf12d8303
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=map.baidu.com&sz=64
       description: ''
     - title: 控制台
       url: https://www.dnspod.cn/console/user/security
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.dnspod.cn&sz=64
       description: ''
     - title: GitHub - Mrs4s /百度下载：百度网盘不限速下载工具
       url: https://github.com/Mrs4s/BaiduPanDownload
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: https://raw.githubusercontent.com/vokins/yhosts/master/hosts
       url: https://raw.githubusercontent.com/vokins/yhosts/master/hosts
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=raw.githubusercontent.com&sz=64
       description: ''
     - title: 内涵段子【官网】之电脑版【内涵社区】内涵图,漫画,笑话,内涵图吧 - 内涵社区(neihanshequ.com)
       url: http://neihanshequ.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=neihanshequ.com&sz=64
       description: ''
     - title: NC返回
       url: http://www.niuxsd.cn/auth/login
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.niuxsd.cn&sz=64
       description: ''
     - title: 提交票 - ChangeIP
       url: https://www.changeip.com/accounts/submitticket.php?step=2&deptid=1
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.changeip.com&sz=64
       description: ''
     - title: 控制面板
       url: https://vpscp.rectified.net/login.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=vpscp.rectified.net&sz=64
       description: ''
     - title: 逗比根据地 - 世界那么逗，我想出去看看
       url: https://doub.io/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=doub.io&sz=64
       description: ''
     - title: 首页 - 大淘客推广中心
       url: http://www.dataoke.com/pmc/index.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.dataoke.com&sz=64
       description: ''
     - title: 小浩博客 - 关注互联网及网站建设
       url: https://www.xhsay.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.xhsay.com&sz=64
       description: ''
     - title: wordpress自动采集插件 my-autopost-pro v3.7破解版 | 资源分享部
       url: http://ziyuanbu.cn/post-3002.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=ziyuanbu.cn&sz=64
       description: ''
     - title: Tint主题常见问题&常用代码插件 - 酷ACG资源网
       url: https://www.kuacg.com/18630.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.kuacg.com&sz=64
       description: ''
     - title: 莲山课件--免费课件--首页
       url: http://www.5ykj.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.5ykj.com&sz=64
       description: ''
     - title: 客户区 - Hostens
       url: https://billing.hostens.com/clientarea/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=billing.hostens.com&sz=64
       description: ''
     - title: 试用活动网
       url: http://www.trylist.com/shiyong/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.trylist.com&sz=64
       description: ''
     - title: 免费试用 | 免费赠品 - Free9免费资源网
       url: http://www.free9.net/others/gift/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.free9.net&sz=64
       description: ''
     - title: CEX|Global Leading Digital Asset Exchange
       url: https://www.cex.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.cex.com&sz=64
       description: ''
     - title: Gate.io - The Gate of Blockchain Assets Exchange
       url: https://gate.io/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=gate.io&sz=64
       description: ''
     - title: ParaEx
       url: https://www.paraex.me/my/pwds
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.paraex.me&sz=64
       description: ''
     - title: CF
       url: https://www.cfquantum.org/account/info
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.cfquantum.org&sz=64
       description: ''
     - title: 账户余额 - 全球领先的比特币/数字货币交易平台 | OKEX.com
       url: https://www.okex.com/spot/trade/accountBalance.do
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.okex.com&sz=64
       description: ''
     - title: godaddy产品
       url: https://account.godaddy.com/products/#/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=account.godaddy.com&sz=64
       description: ''
     - title: Vultr的SSD VPS服务器，云服务器和云托管 - Vultr.com
       url: https://www.vultr.com/?ref=7281374
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.vultr.com&sz=64
       description: ''
     - title: Teamviewer由商业许可证转换为免费许可证（增加改ID版本） | 轻时代
       url: https://lighti.me/539.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=lighti.me&sz=64
       description: ''
     - title: Project V · Project V 官方网站
       url: https://www.v2ray.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.v2ray.com&sz=64
       description: ''
     - title: MKOnlinePlayer v2.3 发布 & v2.32更新 | 孟坤博客
       url: https://mkblog.cn/1060/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=mkblog.cn&sz=64
       description: ''
     - title: AppCan文档中心-AppCanIDE安装下载
       url: http://newdocx.appcan.cn/newdocx/docx?type=1236_1234
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=newdocx.appcan.cn&sz=64
       description: ''
     - title: v.youku.com/v_show/id_XODMxNTY0MjA4.html
       url: http://v.youku.com/v_show/id_XODMxNTY0MjA4.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=v.youku.com&sz=64
       description: ''
     - title: MKOnlinePlayer v2.4
       url: http://lab.mkblog.cn/music/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=lab.mkblog.cn&sz=64
       description: ''
     - title: K码礼包信息录入
       url: https://tech-service.phicomm.com/index.php/home/login/search.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=tech-service.phicomm.com&sz=64
       description: ''
     - title: 热销市场
       url: https://re.1688.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=re.1688.com&sz=64
       description: ''
     - title: 超级简历 WonderCV
       url: https://www.wondercv.com/zh-CN/cvs/mcu1OQI/editor###
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.wondercv.com&sz=64
       description: ''
     - title: checkra1n硬件漏洞越狱
       url: https://checkra.in/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=checkra.in&sz=64
       description: ''
     - title: unc0ver
       url: https://unc0ver.dev/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=unc0ver.dev&sz=64
       description: ''
     - title: ↖️首页-左上角是菜单← - 悟空百科
       url: https://didiboy0702.gitbook.io/wukongdaily/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=didiboy0702.gitbook.io&sz=64
       description: ''
     - title: 宝塔Windows面板
       url: http://127.0.0.1:8888/Gxam5jXP/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=127.0.0.1:8888&sz=64
       description: ''
     - title: 节点列表 — 我艹
       url: https://gowocaoveego.xyz/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=gowocaoveego.xyz&sz=64
       description: ''
   - term: PT
     links:
     - title: '馒头——M-Team - TP :: 用户详情- fu5502 - Powered by NexusPHP'
       url: https://kp.m-team.cc/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=kp.m-team.cc&sz=64
       description: ''
     - title: '春天——SSD :: 首页 - Powered by NexusPHP'
       url: https://springsunday.net/index.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=springsunday.net&sz=64
       description: ''
     - title: 'PT时间 :: 登录 - Powered by NexusPHP'
       url: https://www.pttime.org/attendance.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.pttime.org&sz=64
       description: ''
     - title: '猪猪网 :: 种子 - Powered by NexusPHP'
       url: https://piggo.me/torrents.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=piggo.me&sz=64
       description: ''
     - title: '比特校园——BTSCHOOL :: 用户详情 - 比特校园PT小乐园 - Powered by NexusPHP'
       url: https://pt.btschool.club/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=pt.btschool.club&sz=64
       description: ''
     - title: '海棠PT :: 论坛 - Powered by NexusPHP'
       url: https://www.htpt.cc/torrents.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.htpt.cc&sz=64
       description: ''
     - title: '时光——HDTIME :: 种子 高清时间 | pt｜下载｜10bit |HDTimePT - Powered by NexusPHP'
       url: https://hdtime.org/torrents.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=hdtime.org&sz=64
       description: ''
     - title: 'TTG ::'
       url: https://totheglory.im/userdetails.php?id=163930
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=totheglory.im&sz=64
       description: ''
     - title: '海豚首页 :: Great Poster Wall'
       url: https://greatposterwall.com/index.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=greatposterwall.com&sz=64
       description: ''
     - title: '高清杜比-HD Dolby :: RSS订阅 - Powered by NexusPHP'
       url: https://www.hddolby.com/getrss.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.hddolby.com&sz=64
       description: ''
     - title: '高清视界HDArea: High Definition Area|高清视界 - Powered by NexusPHP'
       url: https://www.hdarea.co/torrents.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.hdarea.co&sz=64
       description: ''
     - title: 我堡OurBits - Powered by NexusPHP
       url: https://ourbits.club/login.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=ourbits.club&sz=64
       description: ''
     - title: Cfan个人导航页 - Cloudflare Workers Nav
       url: https://cnidm.eu.org/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=cnidm.eu.org&sz=64
       description: ''
     - title: 'CHDBits :: 首页 - Powered by NexusPHP'
       url: https://ptchdbits.co/index.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=ptchdbits.co&sz=64
       description: ''
     - title: '新闻 :: HappyFappy'
       url: https://www.happyfappy.org/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.happyfappy.org&sz=64
       description: ''
     - title: 'ＰＴ之友俱乐部 :: 种子 PTerClub'
       url: https://pterclub.net/torrents.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=pterclub.net&sz=64
       description: ''
   - term: 脚本
     links:
     - title: GitHub - SuMaiKaDe/bot
       url: https://github.com/SuMaiKaDe/bot
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: JD_Diy/README.md at master · chiupam/JD_Diy · GitHub
       url: https://github.com/chiupam/JD_Diy/blob/master/README.md
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 'GitHub - shufflewzc/faker2: 不知名大佬备份'
       url: https://github.com/shufflewzc/faker2
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 唤醒我的Google Voice - IFTTT
       url: https://ifttt.com/applets/88289967d-google-voice
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=ifttt.com&sz=64
       description: ''
     - title: Emby Premiere 白嫖方案 | (๑•̀ㅂ•́)و✧ | Phoenix Xie
       url: https://blog.phoenixxie.xyz/Emby_Premiere_%E7%99%BD%E5%AB%96%E6%96%B9%E6%A1%88.(%E0%B9%91%E2%80%A2%CC%80%E3%85%82%E2%80%A2%CC%81)%D9%88%E2%9C%A7/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=blog.phoenixxie.xyz&sz=64
       description: ''
     - title: emby伪验证服务器 | OPENOS-服务器-路由器-黑群晖-NAS-网络存储-虚拟化
       url: https://www.openos.org/threads/emby.3587/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.openos.org&sz=64
       description: ''
     - title: '解决 Docker 安装 Jellyfin 封面图和部分中文字幕变方块 - 川叶 :: 不舍昼夜'
       url: https://blog.lishun.me/docker-jellyfin-chinese-fonts
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=blog.lishun.me&sz=64
       description: ''
 - taxonomy: 多媒体
   icon: fas fa-folder fa-lg
@@ -553,190 +553,190 @@
     links:
     - title: 网易云音乐 听见好时光
       url: http://music.163.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=music.163.com&sz=64
       description: ''
     - title: 网盘小站-阿里云盘资源共享第一站
       url: https://wpxz.top/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=wpxz.top&sz=64
       description: ''
     - title: 急诊室-纪实台-央视网_央视网(cctv.com)
       url: http://jishi.cntv.cn/special/jizhenshi/index.shtml
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=jishi.cntv.cn&sz=64
       description: ''
     - title: 每天一小时纪录片-好看的纪录片全集下载_1080P高清纪录片大全
       url: http://www.onehourlife.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.onehourlife.com&sz=64
       description: ''
     - title: 豆瓣电影
       url: https://movie.douban.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=movie.douban.com&sz=64
       description: ''
     - title: 经.典评书相声7x24小时轮播 - 娛樂大放送 - 哔哩哔哩直播，二次元弹幕直播平台
       url: https://live.bilibili.com/6617518?visit_id=8gvr05gka3c0
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=live.bilibili.com&sz=64
       description: ''
     - title: 开播设置 - 个人中心 - bilibili link
       url: https://link.bilibili.com/p/center/index?visit_id=6059uqvtk9w0#/my-room/start-live
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=link.bilibili.com&sz=64
       description: ''
     - title: 哔哩哔哩饭贩
       url: https://play-live.bilibili.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=play-live.bilibili.com&sz=64
       description: ''
     - title: 降央卓玛 -《中国之声-经典珍藏版》BSCD[FLAC]_eD2k地址_其它音乐_音乐下载_ED2000资源共享
       url: http://www.ed2000.com/ShowFile.asp?FileID=324402
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.ed2000.com&sz=64
       description: ''
     - title: 百度音乐-听到极致
       url: http://play.baidu.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=play.baidu.com&sz=64
       description: ''
     - title: 中国自制视频
       url: http://mybigbangtheory.space/Cazn2
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=mybigbangtheory.space&sz=64
       description: ''
     - title: 字幕下载！！！！ - Sub HD
       url: http://subhd.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=subhd.com&sz=64
       description: ''
     - title: 主页·tianlula
       url: https://github.com/tianlula/xindz002/wiki
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: Pornhub
       url: https://cn.pornhub.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=cn.pornhub.com&sz=64
       description: ''
     - title: 中国自制视频
       url: http://91.vido.ws/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=91.vido.ws&sz=64
       description: ''
     - title: BT Kitty - 专业BT种子搜索神器、下载利器，免费下载各种BT种子
       url: http://btkitty.biz/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=btkitty.biz&sz=64
       description: ''
     - title: BT福利 - 最好用的BT种子搜索引擎
       url: http://www.btfuli.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.btfuli.net&sz=64
       description: ''
     - title: m.youjizz.com
       url: http://m.youjizz.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=m.youjizz.com&sz=64
       description: ''
     - title: M.MyFreeCams.com - Mobile Site Beta
       url: http://m.myfreecams.com/models
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=m.myfreecams.com&sz=64
       description: ''
     - title: 草榴社區主論壇 - t66y.com
       url: http://t66y.com/index.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=t66y.com&sz=64
       description: ''
     - title: xp.1024hegongchang.org/bbs/
       url: http://xp.1024hegongchang.org/bbs/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=xp.1024hegongchang.org&sz=64
       description: ''
     - title: 只身在荒岛 下载 - 奥视纪录片天地 - jlpcn.net
       url: http://www.jlpcn.net/vodhtml/1016.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.jlpcn.net&sz=64
       description: ''
     - title: 钢琴歌曲 , Piano - 一听音乐网
       url: http://www.1ting.com/genre/g131p0.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.1ting.com&sz=64
       description: ''
     - title: 百度音乐-听到极致
       url: http://music.baidu.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=music.baidu.com&sz=64
       description: ''
     - title: 喜马拉雅FM,中国最大的音频分享平台，随时随地听我想听!
       url: http://www.ximalaya.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.ximalaya.com&sz=64
       description: ''
     - title: 中国高清论坛-btchina联盟|mkv电影下载|3d电影下载|1080p、720P高清电影下载|mp4电影下载|高清动漫下载 - Powered
         by Discuz!
       url: http://www.49lou.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.49lou.com&sz=64
       description: ''
     - title: 字幕库(zimuku) -- 字幕下载网站
       url: http://www.zimuku.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.zimuku.cn&sz=64
       description: ''
     - title: SongTasty - 用音乐倾听彼此
       url: https://songtasty.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=songtasty.com&sz=64
       description: ''
     - title: DJ多多
       url: https://www.djduoduo.com/share/index.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.djduoduo.com&sz=64
       description: ''
     - title: 中国高清网 | 高清电影网|720P|1080P|蓝光原盘|磁力链迅雷下载高清的电影天堂
       url: http://gaoqing.la/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=gaoqing.la&sz=64
       description: ''
     - title: 智能YouTube电视
       url: https://smartyoutubetv.github.io/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=smartyoutubetv.github.io&sz=64
       description: ''
     - title: 熊猫无损音乐免费下载网站-WAV|FLAC|MP3|APE,提供在线简谱,在线歌词,最新最全免费的无损音乐下载网站www.xmwav.com
       url: https://www.xmwav.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.xmwav.com&sz=64
       description: ''
     - title: 书伴 – 你的电子书伴侣
       url: https://bookfere.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=bookfere.com&sz=64
       description: ''
     - title: Nexus mods 和社区中的游戏
       url: https://www.nexusmods.com/games
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.nexusmods.com&sz=64
       description: ''
     - title: api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=131186344
       url: https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=131186344
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=api.xiaoheihe.cn&sz=64
       description: ''
     - title: LIBVIO在线影院
       url: https://www.libvio.vip/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.libvio.vip&sz=64
       description: ''
     - title: DJ多多 - 这曲600万人上头《2019顶级嗨曲》多年以后你和谁深情似海！
       url: http://www.djduoduo.com/share/index.php?id=521562&plf=ios&src=
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.djduoduo.com&sz=64
       description: ''
     - title: 肥羊影视/教程汇总
       url: https://pan.v1.mk/%E6%AF%8F%E6%9C%9F%E8%A7%86%E9%A2%91%E4%B8%AD%E7%94%A8%E5%88%B0%E7%9A%84%E6%96%87%E4%BB%B6%E5%88%86%E4%BA%AB/allinone%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%96%87%E4%BB%B6/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=pan.v1.mk&sz=64
       description: ''
     - title: 影视 - 我的小站-阿里云盘资源共享站
       url: https://pan666.net/t/video
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=pan666.net&sz=64
       description: ''
   - term: 直播源
     links:
     - title: 直播源批量测试工具2025 - M3U8播放检测 | IPTV流畅度测试 [Allinone]
       url: http://tools.iptv-search.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=tools.iptv-search.com&sz=64
       description: ''
     - title: 直播源转换工具,TXT转M3U,M3U转TXT
       url: https://xhztv.pro/m3u2txt
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=xhztv.pro&sz=64
       description: ''
     - title: IPTV抓包数据解析工具 v3.1
       url: https://gyssi.link/iptv/888.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=gyssi.link&sz=64
       description: ''
     - title: 提供EPG的频道列表，实时更新
       url: http://epg.51zmt.top:8000/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=epg.51zmt.top:8000&sz=64
       description: ''
     - title: 直播源测试工具,TXT/M3U格式测试
       url: https://xhztv.pro/tvtester
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=xhztv.pro&sz=64
       description: ''
     - title: 直播源格式转换器
       url: http://jh.d7g.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=jh.d7g.cn&sz=64
       description: ''
     - title: B站弹幕姬 - 开源、简洁的B站直播弹幕工具
       url: https://www.danmuji.org/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.danmuji.org&sz=64
       description: ''
 - taxonomy: 娱乐
   icon: fas fa-folder fa-lg
@@ -745,115 +745,115 @@
     links:
     - title: 游民星空 - 大型单机游戏媒体 提供最具特色单机游戏资讯、下载
       url: http://www.gamersky.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.gamersky.com&sz=64
       description: ''
     - title: 侠盗猎车5_3DM论坛_侠盗猎车5破解版下载_侠盗猎车5攻略秘籍_3DMGAME_侠盗猎车5汉化_侠盗猎车5中文版下载_GTA5 - Powered
         by Discuz!
       url: http://bbs.3dmgame.com/forum.php?mod=forumdisplay&fid=796&page=1
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=bbs.3dmgame.com&sz=64
       description: ''
     - title: '[6.12]-【右手出品】Xbox360 自制资源&教程汇总帖(爆发) - XBOX360软硬技术区 - A9VG电玩部落论坛'
       url: http://wap.a9vg.com/thread-1421973-1-1.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=wap.a9vg.com&sz=64
       description: ''
     - title: XBOX360 主机平台区 - A9VG电玩部落论坛
       url: http://wap.a9vg.com/forum.php?gid=349
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=wap.a9vg.com&sz=64
       description: ''
     - title: XBOX360安装quickboot详细流程教程 _k73电玩之家
       url: http://www.k73.com/3ds/13008.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.k73.com&sz=64
       description: ''
     - title: 游侠网所有XBOX360下载索引(15年12月12更新) 3618款游戏 - 游侠TV游戏资源下载区 - 游侠NETSHOW论坛 - Powered
         by Discuz!
       url: http://game.ali213.net/thread-4870118-1-1.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=game.ali213.net&sz=64
       description: ''
     - title: XBOX360中文网_微软XBOX360_XBOX360游戏下载 - 多玩XBOX360专区 - tv.duowan.com/xbox360
       url: http://tv.duowan.com/xbox360/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=tv.duowan.com&sz=64
       description: ''
     - title: 【11.21.13】《暗黑破坏神3（Diablo 3 ）》[GOD][简体中文][4.7G][3DM轩辕汉化组内核汉化 基于TU3制作 已重传]
         - XBOX360/XBOXONE新作发布区 - 3DMGAME论坛 - Powered by Discuz!
       url: http://bbs.3dmgame.com/thread-4135574-1-1.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=bbs.3dmgame.com&sz=64
       description: ''
     - title: Xbox360之家 Xbox360游戏 Xbox360教程 Xbox360 - 电玩网 www.emu999.net
       url: http://www.emu999.net/XBOX360/index.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.emu999.net&sz=64
       description: ''
     - title: XboxUnity interface | Access to title updates, covers and link rooms
       url: http://xboxunity.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=xboxunity.net&sz=64
       description: ''
     - title: 【尘埃JY】《古墓丽影：崛起》中文实况（简体中文+普通话配音+实况攻略+非速攻）【完结】内含多语言对比视频 - 《古墓丽影：崛起》 - 3DMGAME论坛
         - Powered by Discuz!
       url: http://bbs.3dmgame.com/thread-4968384-1-1.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=bbs.3dmgame.com&sz=64
       description: ''
     - title: 英雄列表-英雄介绍-王者荣耀官方网站-腾讯游戏
       url: http://pvp.qq.com/web201605/herolist.shtml
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=pvp.qq.com&sz=64
       description: ''
     - title: 王者荣耀直播_王者荣耀视频解说攻略_游戏直播平台_虎牙直播
       url: https://www.huya.com/g/wzry#tag332
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.huya.com&sz=64
       description: ''
     - title: 装备介绍-王者荣耀官方网站-腾讯游戏
       url: https://pvp.qq.com/web201605/item.shtml
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=pvp.qq.com&sz=64
       description: ''
     - title: 王者荣耀装备数据库_装备_物品_道具_18183王者荣耀专区
       url: http://db.18183.com/wzry/equip/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=db.18183.com&sz=64
       description: ''
     - title: 单机游戏_单机游戏下载_单机游戏门户_游侠网
       url: https://www.ali213.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.ali213.net&sz=64
       description: ''
     - title: 单机资源下载_一键下载安装游戏资源,辅助工具_3DM下载
       url: https://dl.3dmgame.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=dl.3dmgame.com&sz=64
       description: ''
     - title: Switch520
       url: https://www.gamer520.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.gamer520.com&sz=64
       description: ''
     - title: 单机游戏_单机游戏下载_单机游戏大全中文版下载_3DM游戏网
       url: https://www.3dmgame.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.3dmgame.com&sz=64
       description: ''
     - title: vika.cn/share/shrp3sCcnRU2WRTqnmcUh/fodDZQSfi9d35
       url: https://vika.cn/share/shrp3sCcnRU2WRTqnmcUh/fodDZQSfi9d35
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=vika.cn&sz=64
       description: ''
     - title: 咸鱼单机-电脑单机游戏下载-switch游戏下载-免费单机下载-咸鱼单机官网
       url: https://www.xianyudanji.ai/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.xianyudanji.ai&sz=64
       description: ''
     - title: switch520–专业的switch游戏下载网站
       url: https://www.520switch.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.520switch.com&sz=64
       description: ''
     - title: PC游戏|飞星游戏网 - 高质量单机游戏网盘下载站 | 免费Steam资源
       url: https://www.feixing66.cc/pc
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.feixing66.cc&sz=64
       description: ''
     - title: 在电脑上免费下载 torrent 游戏 | ByRutor
       url: https://repack-byrutor.org/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=repack-byrutor.org&sz=64
       description: ''
     - title: Switch固件和key
       url: https://prodkeys.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=prodkeys.net&sz=64
       description: ''
     - title: 发布 · Ryubing / Canary 发布频道 · GitLab
       url: https://git.ryujinx.app/ryubing/canary/-/releases
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=git.ryujinx.app&sz=64
       description: ''
     - title: 地图
       url: https://www.bilibili.com/opus/1047735827124191239
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.bilibili.com&sz=64
       description: ''
 - taxonomy: 开发
   icon: fas fa-folder fa-lg
@@ -862,144 +862,144 @@
     links:
     - title: https://chat.openai.com
       url: https://chat.openai.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=chat.openai.com&sz=64
       description: ''
     - title: Google Gemini 会员截止2026-11
       url: https://gemini.google.com/app
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=gemini.google.com&sz=64
       description: ''
     - title: 聊天 | M365 Copilot
       url: https://m365.cloud.microsoft/chat/?auth=2&home=1
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=m365.cloud.microsoft&sz=64
       description: ''
     - title: 应用管理中心_腾讯开放平台 OPEN.QQ.COM
       url: http://op.open.qq.com/index.php?mod=appinfo&act=main&appid=1103412532
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=op.open.qq.com&sz=64
       description: ''
     - title: Perplexity pro 一年会员
       url: https://www.perplexity.ai/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.perplexity.ai&sz=64
       description: ''
     - title: 我的应用
       url: http://open.weibo.com/apps
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=open.weibo.com&sz=64
       description: ''
     - title: 百度开发者平台
       url: http://app.baidu.com/apps
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=app.baidu.com&sz=64
       description: ''
     - title: Cydia Impactor
       url: http://www.cydiaimpactor.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.cydiaimpactor.com&sz=64
       description: ''
     - title: 发布·pwn20wndstuff / Undecimus·GitHub
       url: https://github.com/pwn20wndstuff/Undecimus/releases
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: autMan帮助文档
       url: https://hdbjlizhe.github.io/fanli/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=hdbjlizhe.github.io&sz=64
       description: ''
     - title: 自建Proxy来反代Telegram Bot API - 科技玩家
       url: https://www.kejiwanjia.com/jiaocheng/95460.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.kejiwanjia.com&sz=64
       description: ''
     - title: cloudflare DNS污染国内无法访问解决办法 - 科技玩家
       url: https://www.kejiwanjia.com/jiaocheng/94695.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.kejiwanjia.com&sz=64
       description: ''
     - title: 【免越狱】IOS第三方软件永久安装方法汇总！绕过证书限制！大部分系 统版本适用！附各种第三方软件分享：Tiktok、多开微信、unc0ver
         - 科技玩家
       url: https://www.kejiwanjia.com/jiaocheng/112423.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.kejiwanjia.com&sz=64
       description: ''
     - title: Tuna - Updates | OBS Forums
       url: https://obsproject.com/forum/resources/tuna.843/updates
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=obsproject.com&sz=64
       description: ''
     - title: CasaOS - A simple, easy-to-use, elegant open-source home cloud system
       url: https://www.casaos.io/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.casaos.io&sz=64
       description: ''
     - title: Overview - OpenAI API
       url: https://platform.openai.com/overview
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=platform.openai.com&sz=64
       description: ''
     - title: 获取虚拟手机号码。短期手机号码。手机短信激活服务
       url: https://sms-activate.org/getNumber
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=sms-activate.org&sz=64
       description: ''
     - title: 'Coze: Next-Gen AI Chatbot Developing Platform'
       url: https://www.coze.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.coze.com&sz=64
       description: ''
     - title: 使用 AI 创作艺术作品或修改图像
       url: https://openart.ai/home
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=openart.ai&sz=64
       description: ''
     - title: stabilityai (Stability AI)
       url: https://huggingface.co/stabilityai
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=huggingface.co&sz=64
       description: ''
     - title: LiblibAI·哩布哩布AI - 中国领先的AI创作平台
       url: https://www.liblib.art/modelinfo/8317151296294a64985531310ac8f0ae
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.liblib.art&sz=64
       description: ''
     - title: eSheep(内测中) - 一站式的AIGC社区
       url: https://www.esheep.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.esheep.com&sz=64
       description: ''
     - title: 'Civitai: The Home of Open-Source Generative AI'
       url: https://civitai.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=civitai.com&sz=64
       description: ''
     - title: Comfy Workflows 工作流页面
       url: https://comfyworkflows.com/workflows
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=comfyworkflows.com&sz=64
       description: ''
     - title: Cron - 在线Cron表达式生成器
       url: https://cron.ciding.cc/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=cron.ciding.cc&sz=64
       description: ''
     - title: Kimi 是一个有着超大“内存”的智能助手，可以一口气读完二十万字的小说，还会上网冲浪，快来跟他聊聊吧
       url: https://kimi.moonshot.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=kimi.moonshot.cn&sz=64
       description: ''
     - title: 豆包 - 字节跳动旗下 AI 智能助手
       url: https://www.doubao.com/chat/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.doubao.com&sz=64
       description: ''
     - title: DeepSeek - 探索未至之境
       url: https://chat.deepseek.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=chat.deepseek.com&sz=64
       description: ''
     - title: 可灵 AI - 新一代 AI 创意生产力平台
       url: https://klingai.kuaishou.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=klingai.kuaishou.com&sz=64
       description: ''
     - title: 即梦AI - 一站式AI创作平台
       url: https://jimeng.jianying.com/ai-tool/home/?utm_medium=baiduads&utm_source=pinzhuan&utm_campaign=title
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=jimeng.jianying.com&sz=64
       description: ''
     - title: 灵图AI辅助设计平台_LingVisions_在线智能设计_AI绘画神器_灵图科技
       url: https://www.lingvisions.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.lingvisions.com&sz=64
       description: ''
     - title: Viggle AI
       url: https://www.viggle.ai/home
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.viggle.ai&sz=64
       description: ''
     - title: 免费AI配音神器 - 文本转语音&声音克隆 | Noiz AI
       url: https://noiz.ai/landing
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=noiz.ai&sz=64
       description: ''
     - title: Grok
       url: https://grok.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=grok.com&sz=64
       description: ''
     - title: 谷歌人工智能工作室
       url: https://aistudio.google.com/apps
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=aistudio.google.com&sz=64
       description: ''
 - taxonomy: 数码
   icon: fas fa-folder fa-lg
@@ -1008,63 +1008,63 @@
     links:
     - title: iPhone 15 - 社区 - 威锋 - 千万果粉大本营
       url: https://www.feng.com/forum/115
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.feng.com&sz=64
       description: ''
     - title: 远景论坛-微软极客社区
       url: http://bbs.pcbeta.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=bbs.pcbeta.com&sz=64
       description: ''
     - title: macOS Sonoma - 远景论坛 - 微软极客社区
       url: https://bbs.pcbeta.com/forum-571-1.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=bbs.pcbeta.com&sz=64
       description: ''
     - title: 充电头 - Powered by Discuz!
       url: http://bbs.chongdiantou.com/default.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=bbs.chongdiantou.com&sz=64
       description: ''
     - title: IT之家 - 数码，科技，生活 - 软媒旗下
       url: http://www.ithome.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.ithome.com&sz=64
       description: ''
     - title: Download APK Files Directly From Google Play - APK Downloader
       url: http://apk-dl.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=apk-dl.com&sz=64
       description: ''
     - title: 《时经帖》—— 准备入手两年付费 SS 服务，搜罗这么多家，花眼求推荐！ - V2EX
       url: https://www.v2ex.com/t/144975
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.v2ex.com&sz=64
       description: ''
     - title: 手机游戏攻略第一发布-搞趣网攻略频道
       url: http://gl.gao7.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=gl.gao7.com&sz=64
       description: ''
     - title: 在线多引擎病毒扫描,在线杀毒-绿色下载吧
       url: http://www.xiazaiba.com/virusscan.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.xiazaiba.com&sz=64
       description: ''
     - title: The Open GApps Project
       url: http://opengapps.org/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=opengapps.org&sz=64
       description: ''
     - title: 话题_酷安网
       url: http://www.coolapk.com/topic/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.coolapk.com&sz=64
       description: ''
     - title: 电脑讨论(新) - Chiphell - 分享与交流用户体验
       url: https://www.chiphell.com/forum-146-1.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.chiphell.com&sz=64
       description: ''
     - title: 论坛 - 无忧启动论坛 - Powered by Discuz!
       url: http://bbs.wuyou.net/forum.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=bbs.wuyou.net&sz=64
       description: ''
     - title: (3) LINUX DO - 新的理想型社区
       url: https://linux.do/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=linux.do&sz=64
       description: ''
     - title: NodeSeek
       url: https://www.nodeseek.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.nodeseek.com&sz=64
       description: ''
 - taxonomy: 杂项
   icon: fas fa-folder fa-lg
@@ -1073,91 +1073,91 @@
     links:
     - title: 老付 骑行11.89公里，时间39分26秒 - 行者骑行软件
       url: http://www.imxingzhe.com/xing/629901/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.imxingzhe.com&sz=64
       description: ''
     - title: 恩山无线论坛 - Powered by Discuz!
       url: http://www.right.com.cn/forum/forum.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.right.com.cn&sz=64
       description: ''
     - title: 无线论坛!中国最大最专业的无线网络社区门户!Anywhere WLAN!随时随地无线! - Powered by Discuz!
       url: http://forum.anywlan.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=forum.anywlan.com&sz=64
       description: ''
     - title: 数码之家－最具人气的拆机DIY社区
       url: http://bbs.mydigit.cn/index.php?m=bbs
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=bbs.mydigit.cn&sz=64
       description: ''
     - title: V2EX
       url: https://v2ex.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=v2ex.com&sz=64
       description: ''
     - title: Speedtest.net 测速测速测速测速测速测速
       url: http://www.speedtest.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.speedtest.net&sz=64
       description: ''
     - title: 淘宝联盟-我的舞台！致力于成为全球领先的开放、分享和责任的电子商务联盟！
       url: http://pub.alimama.com/myunion.htm?spm=0.0.0.0.b4bX4B#!/promo/self/items
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=pub.alimama.com&sz=64
       description: ''
     - title: 网页短信轰炸机-在线短信轰炸机-免费短信轰炸机-迷你轰炸平台-免费网页电话
       url: http://www.80x08.com/sms/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.80x08.com&sz=64
       description: ''
     - title: 手机短信炸弹合集包【不断更新】 | 嘉靖博客
       url: http://blog.liangjinjin.cn/?p=85
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=blog.liangjinjin.cn&sz=64
       description: ''
     - title: 迅雷远程下载，随时随地，想下就下
       url: http://yuancheng.xunlei.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=yuancheng.xunlei.com&sz=64
       description: ''
     - title: 电脑 - Chiphell - 分享与交流用户体验的最佳平台
       url: https://www.chiphell.com/forum.php?gid=3
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.chiphell.com&sz=64
       description: ''
     - title: 网站测速|网站速度测试|网速测试|电信|联通|网通|全国|监控|CDN|PING|DNS 17CE.COM
       url: https://www.17ce.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.17ce.com&sz=64
       description: ''
     - title: 'GitHub - DDS-Derek/xiaoya-alist: 小雅Alist的相关周边'
       url: https://github.com/DDS-Derek/xiaoya-alist
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: mall.hb.189.cn/offermallsale/getBroadBandCityHB.shtml
       url: http://mall.hb.189.cn/offermallsale/getBroadBandCityHB.shtml
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=mall.hb.189.cn&sz=64
       description: ''
     - title: 中国科学技术大学测速网站
       url: https://test.ustc.edu.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=test.ustc.edu.cn&sz=64
       description: ''
     - title: 家庭网络中枢地址-roxmox Virtual Environment
       url: 'https://192.168.99.2:8006/#v1:0:=qemu%2F101:4:::::8::'
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=192.168.99.2:8006&sz=64
       description: ''
     - title: 奈飞测速
       url: https://fast.com/#
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=fast.com&sz=64
       description: ''
     - title: Check My NAT测试
       url: https://www.checkmynat.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.checkmynat.com&sz=64
       description: ''
     - title: 俄勒冈州地址生成器 - 美国地址生成器 - 美国身份生成器
       url: https://www.meiguodizhi.com/usa-address/oregon
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.meiguodizhi.com&sz=64
       description: ''
     - title: 随机信用卡号生成器 -生成后虚拟卡后再去验证01-验证02 Namsogen
       url: https://namso-gen.com/?tab=advance&network=random
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=namso-gen.com&sz=64
       description: ''
     - title: 虚拟卡验证01---史上最佳免费信用卡验证工具 | chkr.cc
       url: https://chkr.cc/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=chkr.cc&sz=64
       description: ''
     - title: 虚拟卡验证02 支付 - 模拟
       url: https://mock.payate.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=mock.payate.com&sz=64
       description: ''
 - taxonomy: 素材
   icon: fas fa-folder fa-lg
@@ -1166,357 +1166,357 @@
     links:
     - title: 光厂(VJ师网)_正版视频素材下载
       url: https://www.vjshi.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.vjshi.com&sz=64
       description: ''
     - title: AI Excel表格处理工具大全 | AI工具集
       url: https://ai-bot.cn/favorites/ai-excel-sheet-tools/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=ai-bot.cn&sz=64
       description: ''
     - title: 昵图网_素材设计共享平台 www.nipic.com
       url: http://www.nipic.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.nipic.com&sz=64
       description: ''
     - title: psd素材_懒人图库
       url: http://www.lanrentuku.com/psd/p3.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.lanrentuku.com&sz=64
       description: ''
     - title: 识字体网-在线图片字体识别扫一扫网站
       url: https://www.likefont.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.likefont.com&sz=64
       description: ''
     - title: 广告牌生成器 - BannerMaker
       url: http://banner.alimama.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=banner.alimama.com&sz=64
       description: ''
     - title: ps字体下载大全_ps笔刷下载_ps滤镜插件下载_psd素材下载 - Photoshop资源站_Ps123.Net
       url: http://www.ps123.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.ps123.net&sz=64
       description: ''
     - title: 素材,素材中国,图片素材,矢量素材,音效素材,图标素材-素材中国站长站
       url: http://sc.chinaz.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=sc.chinaz.com&sz=64
       description: ''
     - title: UI设计_软件界面设计欣赏_后台界面-UI制造者-专注UI界面设计
       url: http://www.uimaker.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.uimaker.com&sz=64
       description: ''
     - title: 站酷（ZCOOL） - 设计师互动平台 - 交流设计.分享快乐
       url: http://www.zcool.com.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.zcool.com.cn&sz=64
       description: ''
     - title: 找字网-找字网,字体下载,字体在线预览后下载字体,免费中文字体下载,英文字体下载,电脑字体库下载,个性字体下载,实时字库预览
       url: http://www.zhaozi.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.zhaozi.cn&sz=64
       description: ''
     - title: 网页特效代码(www.7stk.com)-提供最新免费网页制作特效代码
       url: http://www.7stk.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.7stk.com&sz=64
       description: ''
     - title: 照片处理网 __ 首页-专业照片PS教程,photoshop模板下载,照片PS论坛交流,欧美剪贴scrapbook素材,照片模版下载
       url: http://www.photops.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.photops.com&sz=64
       description: ''
     - title: 网页图片特效_图片切换效果_图片切换特效_网页特效代码_网页特效代码大全_网页图片特效_网页特效代码集锦_图片切换效果_芯晴网页特效_让你的网页炫起来~~！网页特效代码集锦_网页特效代码
       url: http://www.csrcode.cn/html/txdm/txtx/index_3.htm
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.csrcode.cn&sz=64
       description: ''
     - title: 勇哥代码站 - 网页特效代码|网页制作特效|js特效代码大全
       url: http://xu123.lingd.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=xu123.lingd.net&sz=64
       description: ''
     - title: 织梦吧(DedeCMS8.COM) dede,织梦CMS模板下载,织梦建站视频,DedeCMS建站培训
       url: http://www.dedecms8.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.dedecms8.com&sz=64
       description: ''
     - title: 百度创意专家
       url: http://chuangyi.baidu.com/?castk=LTE%3D
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=chuangyi.baidu.com&sz=64
       description: ''
     - title: 中文字库__西西软件站
       url: http://www.cr173.com/fontlist/s_131_1.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.cr173.com&sz=64
       description: ''
     - title: 源码哥 (ymg.cc) - 精品源码分享，商业源码下载，免费VIP源码下载！
       url: http://www.ymg.cc/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.ymg.cc&sz=64
       description: ''
     - title: 千图网_中国最大免费素材下载网站
       url: http://www.58pic.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.58pic.com&sz=64
       description: ''
     - title: IconPng.com 爱看图标网，免费中文图标搜索引擎！
       url: http://www.iconpng.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.iconpng.com&sz=64
       description: ''
     - title: 经典版式设计,包装设计,字体设计欣赏,最新平面设计软件,ps滤镜,在线书法字体,日韩文字体,coreldraw教程免费下载_亿品元素设计资源
       url: http://www.epinv.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.epinv.com&sz=64
       description: ''
     - title: 制图网，免费的专业在线制作Banner logo 站标 店招 店标 名片 闪字闪图等图片
       url: http://www.makepic.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.makepic.net&sz=64
       description: ''
     - title: 网站模板_jQuery_PHP_网站源码_网页素材_素材火
       url: http://www.sucaihuo.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.sucaihuo.com&sz=64
       description: ''
     - title: 草料二维码管理中心
       url: http://user.cli.im/center
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=user.cli.im&sz=64
       description: ''
     - title: 微信公众号 文章排行榜-2016-09-25每日更新-微小宝
       url: http://top.wxb.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=top.wxb.com&sz=64
       description: ''
     - title: ppt模板,幻灯片模板,ppt素材,ppt图表,ppt特效,ppt教程——51PPT模板网
       url: http://www.51pptmoban.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.51pptmoban.com&sz=64
       description: ''
     - title: 千库网-免费png图片背景素材库588ku.com
       url: http://588ku.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=588ku.com&sz=64
       description: ''
     - title: CorelDraw X6【CDR X6】官方简体中文版【32/64位】【64位WIN7亲测可用】 - 设计软件 - 思缘论坛 平面设计,Photoshop,PSD,矢量,模板,打造最好的素材和设计论坛
       url: http://www.missyuan.com/thread-717286-1-1.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.missyuan.com&sz=64
       description: ''
     - title: PPT模板下载_免费PPT模板下载_精美免费PPT模板下载 - 优品PPT
       url: http://www.ypppt.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.ypppt.com&sz=64
       description: ''
     - title: 免费logo在线制作-艺术字体在线生成-logo设计-U钙网
       url: http://www.uugai.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.uugai.com&sz=64
       description: ''
     - title: Logo设计在线制作神器，智能标志logo生成器 - LOGO生成.cn
       url: http://www.logosc.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.logosc.cn&sz=64
       description: ''
     - title: 字体大全-书法艺术字体字库大全-第一字体网
       url: http://www.diyiziti.com/List
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.diyiziti.com&sz=64
       description: ''
     - title: 素材中国_免费素材共享平台www.sccnn.com
       url: http://www.sccnn.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.sccnn.com&sz=64
       description: ''
     - title: PPT模板_PPT模板下载_幻灯片模板_PPT模版免费下载 -【第一PPT】
       url: http://www.1ppt.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.1ppt.com&sz=64
       description: ''
     - title: 红动网 - 找设计！上红动
       url: http://www.redocn.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.redocn.com&sz=64
       description: ''
     - title: 觅元素_设计元素的免费下载网站_免抠素材51yuansu.com
       url: http://www.51yuansu.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.51yuansu.com&sz=64
       description: ''
     - title: 素材地址链接 下载 一天有限
       url: https://downloader.la/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=downloader.la&sz=64
       description: ''
     - title: 美图秀秀网页版 官方网站_在线制作图片及图片处理工具
       url: http://xiuxiu.web.meitu.com/main.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=xiuxiu.web.meitu.com&sz=64
       description: ''
     - title: 爱给网_音效配乐_3D模型_视频素材_游戏素材_免费下载
       url: https://www.aigei.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.aigei.com&sz=64
       description: ''
     - title: B站分享的素材模板（不定时更新） - 幕布
       url: https://mubu.com/doc/5RKnESqLVzj#o-3bc1707cbb08e715d
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=mubu.com&sz=64
       description: ''
     - title: 【图精灵】_免费PNG图片下载_高清背景图片素材_自由设计
       url: http://616pic.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=616pic.com&sz=64
       description: ''
     - title: 淘声网 - toSound声音搜索引擎 - 免费音效素材资源|视频游戏配乐下载
       url: https://www.tosound.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.tosound.com&sz=64
       description: ''
     - title: '黑罐头: 一站式素材共享平台'
       url: https://www.heycan.com/home
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.heycan.com&sz=64
       description: ''
     - title: 文本转AI真人语音，免费微软AI语音 - 在线工具 - ToolB
       url: https://toolb.cn/textspeech
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=toolb.cn&sz=64
       description: ''
     - title: 首页 — 我艹
       url: https://wocaovee.com/user##
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=wocaovee.com&sz=64
       description: ''
     - title: 33台词 - 通过台词找影片素材
       url: http://33.agilestudio.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=33.agilestudio.cn&sz=64
       description: ''
     - title: 33搜帧 - 视频帧画面搜索引擎
       url: http://fse.agilestudio.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=fse.agilestudio.cn&sz=64
       description: ''
     - title: 找台词
       url: http://www.zhaotaici.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.zhaotaici.cn&sz=64
       description: ''
     - title: ProcessOn思维导图、流程图-思维导图模板_思维导图软件免费下载_在线作图协作工具
       url: https://www.processon.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.processon.com&sz=64
       description: ''
     - title: ProcessOn - 脑图流程图我的文件
       url: https://www.processon.com/diagrams
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.processon.com&sz=64
       description: ''
     - title: iconfont-阿里巴巴矢量图标库
       url: https://www.iconfont.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.iconfont.cn&sz=64
       description: ''
     - title: Illustrations | unDraw
       url: https://undraw.co/illustrations
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=undraw.co&sz=64
       description: ''
     - title: Download 1000's of free SVG brand logos | VectorWiki
       url: https://vectorwiki.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=vectorwiki.com&sz=64
       description: ''
     - title: 无版权可商用免费中文字体下载大全图文版 - 猫啃网
       url: https://www.maoken.com/all-fonts-imgs
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.maoken.com&sz=64
       description: ''
     - title: 汽车BGM--Power | Music Licensing | Musicbed
       url: https://www.musicbed.com/playlists/power/3389
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.musicbed.com&sz=64
       description: ''
     - title: Openfootage Footage overview-视频
       url: https://www.openfootage.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.openfootage.net&sz=64
       description: ''
     - title: AI放大图片10倍-nightmareai/real-esrgan – Run with an API on Replicate
       url: https://replicate.com/nightmareai/real-esrgan
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=replicate.com&sz=64
       description: ''
     - title: 平面图标-FLAT ICON DESIGN -フラットアイコンデザイン- | フラットデザインに最適！WEBサイトやDTPですぐ使える商用利用可能なフラットアイコン素材がフリー（無料）ダウンロードできるサイト『FLAT
         ICON DESIGN』
       url: http://flat-icon-design.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=flat-icon-design.com&sz=64
       description: ''
     - title: 视频素材-可商用Free Stock Video Footage HD Royalty-Free Videos Download
       url: https://mazwai.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=mazwai.com&sz=64
       description: ''
     - title: 混剪侠 - 剪辑师网址导航
       url: https://www.yugaopian.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.yugaopian.cn&sz=64
       description: ''
     - title: '[法拍车视频素材]图片下载_法拍车视频素材设计模板大全(8237张)_【包图网】'
       url: https://ibaotu.com/tupian/fapaiche/7-0-0-0-0-0-0.html?format_type=0
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=ibaotu.com&sz=64
       description: ''
     - title: 免费素材图片
       url: https://www.pexels.com/zh-cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.pexels.com&sz=64
       description: ''
     - title: 超过 420 万张令人惊叹的免费图片可在任何地方使用 - Pixabay上的
       url: https://pixabay.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=pixabay.com&sz=64
       description: ''
     - title: 视频-图库图片、免版税图片、插图、矢量图和视频 - iStock
       url: https://www.istockphoto.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.istockphoto.com&sz=64
       description: ''
     - title: Mixkit - 为您的下一个视频项目提供很棒的免费资源
       url: https://mixkit.co/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=mixkit.co&sz=64
       description: ''
     - title: 12 个免费视频素材of the Best Free Stock Video Websites for Great Footage
       url: https://blog.hootsuite.com/free-stock-videos-sites/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=blog.hootsuite.com&sz=64
       description: ''
     - title: 国外视频下载SaveTube - Best Online Video Downloader ( 4K, 8K, FHD, 1080p, HDR
         )
       url: https://save.tube/en34/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=save.tube&sz=64
       description: ''
     - title: 花瓣素材-设计素材图库-专业设计模版下载
       url: https://huaban.com/materials
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=huaban.com&sz=64
       description: ''
     - title: 免抠图片网|免抠素材|透明背景图片|免费图片素材|png图片|透明背景素材|设计素材
       url: https://miankoutupian.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=miankoutupian.com&sz=64
       description: ''
     - title: 摄图新视界-正版商业图片下载平台-高清图片素材库
       url: https://xsj.699pic.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=xsj.699pic.com&sz=64
       description: ''
     - title: zhaotuwang在线设计_在线作图_图片在线编辑器-找图网
       url: https://www.zhaotu.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.zhaotu.com&sz=64
       description: ''
     - title: 新片场素材 - 正版视频素材,AE模板,音乐,图片素材交易平台
       url: https://stock.xinpianchang.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=stock.xinpianchang.com&sz=64
       description: ''
     - title: dashboard-icons/ICONS.md at main · walkxcode/dashboard-icons · GitHub
       url: https://github.com/walkxcode/dashboard-icons/blob/main/ICONS.md
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: lmbox凌萌盒©|专业的国产中文Pr&Ae素材管理扩展
       url: https://sockite.com/lmbox/lab/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=sockite.com&sz=64
       description: ''
     - title: 胖胖座头鲸分享资源汇总 - 飞书云文档
       url: https://s1xn7caf8w7.feishu.cn/docx/I9cFdsimwouUnDxuWoYc0L6TnVb
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=s1xn7caf8w7.feishu.cn&sz=64
       description: ''
     - title: 在线微信对话生成器
       url: https://wechat.sxcto.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=wechat.sxcto.com&sz=64
       description: ''
     - title: 免费库存视频素材高清 4K 下载免版税剪辑
       url: https://www.videvo.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.videvo.net&sz=64
       description: ''
     - title: 高清免费视频素材下载
       url: https://www.freepik.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.freepik.com&sz=64
       description: ''
     - title: 项目分享页
       url: https://www.yueliu.cn/v20/#/share/list/6300a2dbcd506?path=38705417
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.yueliu.cn&sz=64
       description: ''
     - title: 免费高清视频素材 | GA
       url: https://ga.nasuyun.com/video
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=ga.nasuyun.com&sz=64
       description: ''
     - title: Browse icons | Dashboard Icons
       url: https://dashboardicons.com/icons
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=dashboardicons.com&sz=64
       description: ''
     - title: api接口
       url: https://api.suyanw.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=api.suyanw.cn&sz=64
       description: ''
     - title: Release MobaXterm_Portable_v24.3_chs · RipplePiam/MobaXterm-Chinese-Simplified
       url: https://github.com/RipplePiam/MobaXterm-Chinese-Simplified/releases/tag/v0.24.3.10
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 工具邦
       url: https://cn.piliapp.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=cn.piliapp.com&sz=64
       description: ''
     - title: 小鸟壁纸
       url: https://front.birdpaper.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=front.birdpaper.cn&sz=64
       description: ''
     - title: 视觉中国VCG.COM-正版商用图片,视频,音乐,字体,插画_素材库
       url: https://www.vcg.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.vcg.com&sz=64
       description: ''
     - title: Iconify - home of open source icons
       url: https://icon-sets.iconify.design/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=icon-sets.iconify.design&sz=64
       description: ''
 - taxonomy: 网建
   icon: fas fa-folder fa-lg
@@ -1525,176 +1525,176 @@
     links:
     - title: Cloudflare | Web Performance & Security
       url: https://dash.cloudflare.com/login?lang=zh-hans-cn
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=dash.cloudflare.com&sz=64
       description: ''
     - title: CSDN 下载频道 首页
       url: http://download.csdn.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=download.csdn.net&sz=64
       description: ''
     - title: 搜虎精品社区 www.souho.net,搜虎商业源码,搜虎精品源码,搜虎源码下载,搜虎网站调试,搜虎网站建设,搜虎软件,搜虎精品,精益求精,免费共享！
         - Powered by Discuz!
       url: http://www.souho.net/index.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.souho.net&sz=64
       description: ''
     - title: 站长下载 - 源码下载,站长工具,精品软件 - 中国站长站
       url: http://down.chinaz.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=down.chinaz.com&sz=64
       description: ''
     - title: 落伍者站长论坛 im286,为中国站长服务!
       url: http://www.im286.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.im286.com&sz=64
       description: ''
     - title: 1-2 CSS概念及语法-我要自学网
       url: http://www.51zxw.net/show.aspx?id=26170&cid=393
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.51zxw.net&sz=64
       description: ''
     - title: zzcms专业做招商网的程序源码
       url: http://demo.zzcms.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=demo.zzcms.net&sz=64
       description: ''
     - title: 开滚动的QQ代码
       url: http://www.lanrentuku.com/js/kefu-606.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.lanrentuku.com&sz=64
       description: ''
     - title: 360网站安全检测 - 在线安全检测，网站漏洞修复，网站后门检测
       url: http://webscan.360.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=webscan.360.cn&sz=64
       description: ''
     - title: 百度云加速 - 云时代的网站安全加速平台 | 免费网站加速_网站防火墙_防CC_防DDOS_免费CDN加速
       url: http://su.baidu.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=su.baidu.com&sz=64
       description: ''
     - title: 百度云观测 - 百度旗下网站云监测平台|免费安全检测|网站测速|漏洞扫描|网站检测
       url: http://ce.baidu.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=ce.baidu.com&sz=64
       description: ''
     - title: 兔展|微信H5页面_微场景制作工具|移动微杂志_电子邀请函创作平台
       url: http://www.rabbitpre.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.rabbitpre.com&sz=64
       description: ''
     - title: 微信公众平台图文排版工具_在线内容编辑软件_96微信编辑器
       url: http://bj.96weixin.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=bj.96weixin.com&sz=64
       description: ''
     - title: 135微信编辑器,微信排版,图文排版,一键秒刷,公众号图文编辑器,排版编辑器，文章排版，内容编辑器，在线使用无需下载。135编辑器，从1开始，做更好
       url: http://www.135editor.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.135editor.com&sz=64
       description: ''
     - title: 宝塔linux面板，一键安装LAMP/LNMP/SSL/Tomcat
       url: http://www.bt.cn/download
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.bt.cn&sz=64
       description: ''
     - title: jQuery网页特效最全网页模板和网站模板jQuery代码_17素材网
       url: http://www.17sucai.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.17sucai.com&sz=64
       description: ''
     - title: 远方的雪山-那一天，那一月，那一年，那一世……
       url: https://yfdxs.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=yfdxs.com&sz=64
       description: ''
     - title: 【h5模板|汽车行业|汽车销售|4s服务】H5模板 | 微信活动模板 | 人人秀H5页面制作工具 www.rrxiu.net
       url: https://www.rrxiu.net/store-245.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.rrxiu.net&sz=64
       description: ''
     - title: Client Area - Freenom免费域名
       url: https://my.freenom.com/clientarea.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=my.freenom.com&sz=64
       description: ''
     - title: 虚拟机实例 – 我的谷歌云 – My First Project – Google Cloud Console
       url: https://console.cloud.google.com/compute/instances?onCreate=true&project=pro-landing-246202
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=console.cloud.google.com&sz=64
       description: ''
     - title: US.KG 域名注册局 – NIC 半年续一次签
       url: https://dash.domain.digitalplat.org/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=dash.domain.digitalplat.org&sz=64
       description: ''
     - title: eu.org 永久免费域名
       url: https://nic.eu.org/arf/en/domain/edit/cnidm.eu.org/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=nic.eu.org&sz=64
       description: ''
     - title: hidns登录 不能托管CF cfan.hidns.vip
       url: https://www.hidoha.net/login
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.hidoha.net&sz=64
       description: ''
     - title: 我的域名 - GNAME管理中心-、不能cf托管-3个免费一年 可以续订
       url: https://www.gname.com/user#/admin_ym
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.gname.com&sz=64
       description: ''
     - title: CloudCone CD2 2T/月
       url: https://app.cloudcone.com/cloud
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=app.cloudcone.com&sz=64
       description: ''
     - title: 订阅管理系统 电报通知
       url: https://push.cnd.qzz.io/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=push.cnd.qzz.io&sz=64
       description: ''
     - title: 亚马逊aws
       url: https://us-east-1.console.aws.amazon.com/billing/home#/bills
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=us-east-1.console.aws.amazon.com&sz=64
       description: ''
     - title: 1Panel aws亚马逊HK
       url: http://43.199.202.197:30365/fu5502
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=43.199.202.197:30365&sz=64
       description: ''
     - title: WIPDF随机发票生成器
       url: https://wipdf.vercel.app/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=wipdf.vercel.app&sz=64
       description: ''
     - title: Lucky -14刀一年Web服务
       url: https://185.77.225.20:16601/#/web
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=185.77.225.20:16601&sz=64
       description: ''
     - title: S-UI 185.77.225.20 14刀
       url: http://185.77.225.20:2095/app/clients
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=185.77.225.20:2095&sz=64
       description: ''
     - title: 登录 ‹ 老付blog — WordPress
       url: https://cnidm.eu.org/wp-login.php?login-key=a74cf5
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=cnidm.eu.org&sz=64
       description: ''
     - title: 域名批量查询注册-域名批量扫描-未注册域名批量查询工具-西部数码
       url: https://www.west.cn/web/mi
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.west.cn&sz=64
       description: ''
     - title: 便宜域名 管理器应用程序 - Spaceship876855.xyz
       url: https://www.spaceship.com/zh/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.spaceship.com&sz=64
       description: ''
     - title: 客户专区 - DMIT, Inc.
       url: https://www.dmit.io/clientarea.php
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.dmit.io&sz=64
       description: ''
     - title: 1Panel dmit
       url: http://154.17.23.206:18888/fu5502
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=154.17.23.206:18888&sz=64
       description: ''
     - title: dmit宝塔Linux面板
       url: https://154.17.23.206:18888/fu5502
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=154.17.23.206:18888&sz=64
       description: ''
     - title: DMIT_Lucyk http://154.17.23.206:16601/
       url: https://lucyk.ncn.qzz.io:8443/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=lucyk.ncn.qzz.io:8443&sz=64
       description: ''
     - title: DNSHE | 永久免费的域名注册与 DNS 解析服务
       url: https://www.dnshe.com/?domain/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.dnshe.com&sz=64
       description: ''
     - title: 图床
       url: https://pic.ncn.qzz.io/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=pic.ncn.qzz.io&sz=64
       description: ''
     - title: Telegraph-Image|免费图床
       url: https://tg.ncn.qzz.io/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=tg.ncn.qzz.io&sz=64
       description: ''
     - title: ssh.ncn.qzz.io
       url: https://ssh.ncn.qzz.io/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=ssh.ncn.qzz.io&sz=64
       description: ''
     - title: Atlantic.Net 云服务 - 注册
       url: https://cloud.atlantic.net/?page=signup&code=5erce12ukctoipkh0i3768sa6r202601241949212738
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=cloud.atlantic.net&sz=64
       description: ''
 - taxonomy: 资源
   icon: fas fa-folder fa-lg
@@ -1703,433 +1703,433 @@
     links:
     - title: 网络剪贴板
       url: https://netcut.cn/fu5502
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=netcut.cn&sz=64
       description: ''
     - title: 百度网盘系统
       url: http://vip-bd.uicuo.com/svip?key=4eef17c9a39562a2
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=vip-bd.uicuo.com&sz=64
       description: ''
     - title: 무료 소프트웨어 공유 및 다운로드-매일 업데이트
       url: https://ko.taiwebs.com/?lang=CN
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=ko.taiwebs.com&sz=64
       description: ''
     - title: Авторские репаки от ELCHUPACABRA - REPACK скачать
       url: https://lrepacks.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=lrepacks.net&sz=64
       description: ''
     - title: 『精品软件区』
       url: https://www.52pojie.cn/forum-16-1.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.52pojie.cn&sz=64
       description: ''
     - title: 精易视频室 - 海量易语言在线视频教程精易论坛
       url: http://bbs.125.la/shipin-shipin.html?sid=15
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=bbs.125.la&sz=64
       description: ''
     - title: NtrQQ Forum - Powered by Discuz!
       url: http://bbs.ntrqq.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=bbs.ntrqq.net&sz=64
       description: ''
     - title: U盘数据恢复,内存卡数据恢复,硬盘数据恢复,文件恢复软件_U盘量产网
       url: http://www.upantool.com/hfxf/huifu/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.upantool.com&sz=64
       description: ''
     - title: 短信群发充值账号,在线充值短信,武汉广逸短信平台充值
       url: http://www.sogoto.com/html/110-1.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.sogoto.com&sz=64
       description: ''
     - title: 印象笔记网页版
       url: https://app.yinxiang.com/Home.action?login=true#st=p&n=3856d7ba-a267-4af9-b10c-9462177c518f
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=app.yinxiang.com&sz=64
       description: ''
     - title: CorelDRAW视频教程-我要自学网
       url: http://www.51zxw.net/list.aspx?cid=20
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.51zxw.net&sz=64
       description: ''
     - title: 软件街 - 最新版给力免费软件官方下载推荐
       url: http://www.softjie.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.softjie.cn&sz=64
       description: ''
     - title: 绿色资源网_绿色下载站_做最好的免费软件下载网站
       url: http://www.downcc.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.downcc.com&sz=64
       description: ''
     - title: 软件下载 - 脚本之家
       url: http://www.jb51.net/softs/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.jb51.net&sz=64
       description: ''
     - title: 电脑公司GHOST WIN7 32位 64位旗舰版系统下载 | 东海系统家园
       url: http://www.dhghost.cn/win7xitong
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.dhghost.cn&sz=64
       description: ''
     - title: MacType - 美化 Windows 字体的神器！(让字体渲染显示效果比苹果电脑更清晰炫丽) | 异次元软件下载
       url: http://www.iplaysoft.com/mactype.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.iplaysoft.com&sz=64
       description: ''
     - title: 未来软件园_精品绿色软件下载_免费共享-安全可靠的绿色软件下载站
       url: http://www.orsoon.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.orsoon.com&sz=64
       description: ''
     - title: 软件阁 - 原创绿色软件更新,精品软件共享
       url: http://www.lite6.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.lite6.com&sz=64
       description: ''
     - title: 安卓图标美化软件(Flat Style Bar Indicators) v0.7.1 汉化破解版下载 - 飘荡软件
       url: http://www.piaodown.com/soft/106510.htm
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.piaodown.com&sz=64
       description: ''
     - title: Global Potplayer视频播放器
       url: http://potplayer.daum.net/?lang=zh_CN
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=potplayer.daum.net&sz=64
       description: ''
     - title: 小马官网_小马激活工具|小马工具箱|小马PE系统|小马U盘启动|小马U盘装系统|小马U盘启动盘制作工具
       url: http://www.pccppc.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.pccppc.com&sz=64
       description: ''
     - title: 绿色软件 - 绿色先锋下载 - 绿色软件下载站
       url: http://www.greenxf.com/?ie
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.greenxf.com&sz=64
       description: ''
     - title: haneWIN NFS Server(优秀NFS服务器)V1.2.16官方版 - 雨林木风u盘系统_u盘启动盘制作工具官网
       url: http://www.ylmfu.com/soft/html/6434.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.ylmfu.com&sz=64
       description: ''
     - title: NAS / SSD / HDD - Chiphell - 分享与交流用户体验的最佳平台
       url: https://www.chiphell.com/forum-103-1.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.chiphell.com&sz=64
       description: ''
     - title: XBMC_KODI_XBMC中文插件_XBMC影视聚合_XBMC插件开发教程_中文官网论坛-高清范
       url: http://www.hdpfans.com/forum-801-1.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.hdpfans.com&sz=64
       description: ''
     - title: 百度云搜索，百度网盘资源下载，百度网盘搜索 - 搜百度盘
       url: http://www.sobaidupan.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.sobaidupan.com&sz=64
       description: ''
     - title: 大眼仔旭 - 爱软件 爱汉化 爱分享 博客型软件首页
       url: http://www.dayanzai.me/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.dayanzai.me&sz=64
       description: ''
     - title: th_sjy 汉化博客-专注软件汉化和精品资源分享 - www.th-sjy.com
       url: http://www.th-sjy.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.th-sjy.com&sz=64
       description: ''
     - title: MASTERkreatif | 免费下载软件完整版
       url: https://www.masterkreatif.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.masterkreatif.com&sz=64
       description: ''
     - title: Plex for Android 6.15.0.3828 [Unlocked].apk (com.plexapp.android)FREE_DOWNLOAD_CRACKED_ON_GOOGLE_PLAYHiAppHere
         Market
       url: http://m.hiapphere.com/apk-com.plexapp.android
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=m.hiapphere.com&sz=64
       description: ''
     - title: Y-OS工作室 –云OS，一切无限可能
       url: http://y-os.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=y-os.net&sz=64
       description: ''
     - title: MSDN 我告诉你
       url: http://www.msdn.hk/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.msdn.hk&sz=64
       description: ''
     - title: 首页_懒得勤快的博客_互联网分享精神
       url: https://masuit.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=masuit.com&sz=64
       description: ''
     - title: 夜雨聆风-专注于互联网资源分享，乐于分享，好资源不私藏！
       url: http://www.yeyulingfeng.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.yeyulingfeng.com&sz=64
       description: ''
     - title: 果核剥壳 - 还原软件的本质
       url: https://www.ghpym.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.ghpym.com&sz=64
       description: ''
     - title: 玉米系统官网_Win7旗舰版_Win10专业版_XP系统_Win8.1下载
       url: https://www.yumixitong.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.yumixitong.com&sz=64
       description: ''
     - title: 全民解析-VIP视频在线解析
       url: https://v.cnv3.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=v.cnv3.com&sz=64
       description: ''
     - title: CorelDraw Graphics Suite 2021 v23.0.0.363 多语言和谐版(Windows+MacOS)的历史版本_懒得勤快的博客_互联网分享精神
       url: https://masuit.com/1270/history
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=masuit.com&sz=64
       description: ''
     - title: Clash For Windows v0.18.2 客户端及汉化补丁 | 六音软件
       url: https://www.6yit.com/2651.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.6yit.com&sz=64
       description: ''
     - title: 4K Download | 免费且有用的个人电脑、macOS 和 Linux 应用程序
       url: https://www.4kdownload.com/zh-cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.4kdownload.com&sz=64
       description: ''
     - title: ucbug软件站 - 免费软件下载_绿色软件下载
       url: http://www.ucbug.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.ucbug.com&sz=64
       description: ''
     - title: 423Down
       url: https://www.423down.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.423down.com&sz=64
       description: ''
     - title: 文本转语音 | Microsoft Azure
       url: https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#features
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=azure.microsoft.com&sz=64
       description: ''
     - title: 小刀娱乐网-免费资源分享平台,全网干货共分享-好东西不私藏!
       url: https://www.x6g.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.x6g.com&sz=64
       description: ''
     - title: 六音
       url: https://www.6yit.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.6yit.com&sz=64
       description: ''
     - title: 交流岛资源网-专注网络资源收集
       url: https://www.jiaoliudao.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.jiaoliudao.com&sz=64
       description: ''
     - title: PS插件 - 趣猫资源网 | 一个有趣的MG分享站
       url: https://www.mgzyfx.com/?cat=186
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.mgzyfx.com&sz=64
       description: ''
     - title: Adobe全套软件下载地址
       url: https://www.yuque.com/islandgg13/tdg1oz/dzmses?
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.yuque.com&sz=64
       description: ''
     - title: 盒子地窖
       url: http://www.wmsio.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.wmsio.cn&sz=64
       description: ''
     - title: tvOS apps on TestFlight - Departures
       url: https://www.departures.to/tag/tvos/r/recFqoggP4W2HTsYg
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.departures.to&sz=64
       description: ''
     - title: 贝贝BiliBili - B站视频下载
       url: https://xbeibeix.com/api/bilibili/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=xbeibeix.com&sz=64
       description: ''
     - title: 黑洞| 书签导航
       url: https://hddh.link/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=hddh.link&sz=64
       description: ''
     - title: 苦瓜甘甜博客-爱软件、专汉化、精封装、乐分享
       url: https://www.kuguagantian.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.kuguagantian.com&sz=64
       description: ''
     - title: 果核剥壳 - 互联网的净土
       url: https://www.ghxi.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.ghxi.com&sz=64
       description: ''
     - title: دانلود Film Impact Premium Video Effects 5.2.2 پلاگین پریمیر
       url: https://soft98.ir/graphic/video-plugin/18095-film-impact-video-effects.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=soft98.ir&sz=64
       description: ''
     - title: "剪映V\uFEFFIP破解版 | Ai-皇帝"
       url: https://www.ai-hd.com/article/df3a220f-c7f6-4601-9cd7-8bde2b9d5fcd
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.ai-hd.com&sz=64
       description: ''
     - title: 设计宝藏 - 免费分享影视后期三维CG特效设计工具软件
       url: https://www.shejibaozang.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.shejibaozang.com&sz=64
       description: ''
     - title: 乐享网-乐于分享，收获快乐！
       url: https://www.lxapk.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.lxapk.com&sz=64
       description: ''
     - title: 下载93
       url: https://download93.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=download93.com&sz=64
       description: ''
     - title: Windows software, drivers & operating system - FileCR
       url: https://filecr.com/ms-windows/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=filecr.com&sz=64
       description: ''
     - title: 佛系软件 - 精品Windows,macOS破解软件下载
       url: https://foxirj.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=foxirj.com&sz=64
       description: ''
     - title: ZAPRO · 杂铺 - 高质量影视资讯与技术分享平台
       url: https://tmioe.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=tmioe.com&sz=64
       description: ''
     - title: 小众软件 - 分享免费、小巧、实用、有趣、绿色的软件
       url: https://www.appinn.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.appinn.com&sz=64
       description: ''
     - title: VST 乐器：合成器、效果器、预设、虚拟工作站 (DAW)、音乐网络出版物、图形和网页设计、音乐、软件、传单
       url: https://positiverecords.ru/index.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=positiverecords.ru&sz=64
       description: ''
     - title: 新片场 - 发现全球优质视频与创作人，与百万创作人一起成长
       url: https://www.xinpianchang.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.xinpianchang.com&sz=64
       description: ''
     - title: 软仓 | RuanCang.Net
       url: https://www.ruancang.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.ruancang.net&sz=64
       description: ''
     - title: 0DayDown - 关注资讯
       url: https://www.0daydown.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.0daydown.com&sz=64
       description: ''
     - title: 西部落 -放心软件搜索平台
       url: https://www.xibuluo.com/?fzg
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.xibuluo.com&sz=64
       description: ''
     - title: 无忧软件网 | 分享互联网优质资源，常用绿色破解版软件
       url: https://www.wycad.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.wycad.com&sz=64
       description: ''
     - title: windows系统下载UUP dump不忘初心中文站
       url: https://uupdump.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=uupdump.cn&sz=64
       description: ''
     - title: 网络剪贴板 - 极简的数据暂存和传送工具
       url: https://netcut.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=netcut.cn&sz=64
       description: ''
     - title: https://netcut.cn/1j06k18lh
       url: https://netcut.cn/1j06k18lh
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=netcut.cn&sz=64
       description: ''
     - title: mefcl - 分享纯净好资源
       url: https://www.mefcl.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.mefcl.com&sz=64
       description: ''
     - title: App Mod & Premium APK for Android
       url: https://liteapks.com/apps
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=liteapks.com&sz=64
       description: ''
     - title: 微博、秒拍、小咖秀、晃咖视频解析下载 - 保存视频到电脑、手机
       url: https://weibo.iiilab.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=weibo.iiilab.com&sz=64
       description: ''
     - title: FinalShell 离线激活工具
       url: https://finalshell.cnd.qzz.io/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=finalshell.cnd.qzz.io&sz=64
       description: ''
   - term: 黑苹果
     links:
     - title: MACYY-Mac破解软件分享中心
       url: https://www.macyy.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.macyy.cn&sz=64
       description: ''
     - title: 应用 - 精品MAC应用分享
       url: https://xclient.info/s/8/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=xclient.info&sz=64
       description: ''
     - title: Appstorrent - 適用於 macOS 的遊戲和應用程序
       url: https://appstorrent.ru/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=appstorrent.ru&sz=64
       description: ''
     - title: Mac下载排行榜-Mac软件排行榜-热门Mac软件-Mac软件推荐 - Mac下载 -Mac下载
       url: https://www.macz.com/rank/soft.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.macz.com&sz=64
       description: ''
     - title: 赤狐Mac_Mac软件免费下载_Mac软件下载网站_精品Mac软件下载
       url: https://www.foxmac.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.foxmac.com&sz=64
       description: ''
     - title: FCPX 软件 – FCPX资源站
       url: http://www.mfcpx.com/ruanjian/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.mfcpx.com&sz=64
       description: ''
     - title: dell7080MFF黑苹果抄作业_keylkeaf的博客-CSDN博客
       url: https://blog.csdn.net/keylkeaf/article/details/116944140
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=blog.csdn.net&sz=64
       description: ''
     - title: 超详细黑苹果安装图文教程送EFI配置合集及系统_黑苹果,镜像,EFI_互扯程序的博客-CSDN博客
       url: https://blog.csdn.net/mxw2552261/article/details/85815981
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=blog.csdn.net&sz=64
       description: ''
     - title: clover引导Windows和Mac OS双系统的设置方法教程--台州IT网
       url: http://www.tzit.net/htmlitjs/2019-03-23/3346.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.tzit.net&sz=64
       description: ''
     - title: 教程：6代Skylake 7代kabylake 台式机集显 HD630 新问题解决办法【黑苹果吧】_百度贴吧
       url: http://tieba.baidu.com/p/5122580716
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=tieba.baidu.com&sz=64
       description: ''
     - title: 'GitHub - tsingui/clover-efi: 分享整理一些黑苹果Clover驱动配置文件'
       url: https://github.com/tsingui/clover-efi
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 'dell-optiplex-7080mff-opencore: OpenCore EFI for Dell Optiplex 7080mff'
       url: https://github.com/jerryhan77/dell-optiplex-7080mff-opencore
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 黑果小兵的部落阁
       url: https://blog.daliansky.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=blog.daliansky.net&sz=64
       description: ''
     - title: 折腾 7080MFF 黑苹果 OpenCore - 简书
       url: https://www.jianshu.com/p/d7cfaae60509
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.jianshu.com&sz=64
       description: ''
     - title: 忘记mac苹果电脑开机密码了怎么办？_重置
       url: https://www.sohu.com/a/407265988_120440097
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.sohu.com&sz=64
       description: ''
     - title: 登录-赤狐Mac_Mac软件免费下载_Mac软件下载网站_精品Mac软件下载
       url: https://www.foxmac.com/login/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.foxmac.com&sz=64
       description: ''
     - title: 一条终端指令轻松解决Mac和Win双系统时差问题
       url: https://baijiahao.baidu.com/s?id=1718599155358528815&wfr=spider&for=pc
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=baijiahao.baidu.com&sz=64
       description: ''
     - title: mirrors / daliansky / xiaoxinpro-13-hackintosh · GitCode
       url: https://gitcode.net/mirrors/daliansky/xiaoxinpro-13-hackintosh?utm_source=csdn_github_accelerator
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=gitcode.net&sz=64
       description: ''
     - title: 小新pro13黑苹果配置实录_小白中的小白egg的博客-CSDN博客_小新pro13黑苹果
       url: https://blog.csdn.net/weixin_45518621/article/details/127600805
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=blog.csdn.net&sz=64
       description: ''
     - title: GitHub - daliansky/XiaoXinPro-13-hackintosh at 9ff032cfce644da032a37c0d2b82889e2fb23731
       url: https://github.com/daliansky/XiaoXinPro-13-hackintosh/tree/9ff032cfce644da032a37c0d2b82889e2fb23731
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: one-key-hidpi/README-zh.md at master · xzhih/one-key-hidpi · GitHub
       url: https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: EFI/Document/OC-引导多系统@OC-xlivans.md · master · mirrors / daliansky /
         xiaoxinpro-13-hackintosh · GitCode
       url: https://gitcode.net/mirrors/daliansky/xiaoxinpro-13-hackintosh/-/blob/master/EFI/Document/OC-%E5%BC%95%E5%AF%BC%E5%A4%9A%E7%B3%BB%E7%BB%9F@OC-xlivans.md
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=gitcode.net&sz=64
       description: ''
     - title: 小新Pro13成功安装黑苹果超详细教程，小白也会安装双系统！_iCanCode的博客-CSDN博客_小新pro13 黑苹果
       url: https://blog.csdn.net/iCanCode/article/details/108064539?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-108064539-blog-127600805.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-108064539-blog-127600805.pc_relevant_default&utm_relevant_index=5
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=blog.csdn.net&sz=64
       description: ''
     - title: 黑苹果换OC引导开机详细教程，适用小新Pro13_iCanCode的博客-CSDN博客_oc引导教程
       url: https://blog.csdn.net/iCanCode/article/details/108185783
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=blog.csdn.net&sz=64
       description: ''
     - title: (1条消息) OpenCore黑苹果引导开机声音与图形界面设置_豆豆本豆儿的博客-CSDN博客_opencore 图形界面
       url: https://blog.csdn.net/Z17362251225/article/details/125725730
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=blog.csdn.net&sz=64
       description: ''
     - title: 'GitHub - daliansky/XiaoXinPro-13-hackintosh: Lenovo XiaoXin Pro 13 2019
         Hackintosh'
       url: https://github.com/daliansky/XiaoXinPro-13-hackintosh
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: Intel网卡 · daliansky/XiaoXinPro-13-hackintosh Wiki · GitHub
       url: https://github.com/daliansky/XiaoXinPro-13-hackintosh/wiki/Intel%E7%BD%91%E5%8D%A1
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 主页 - 国光的黑苹果安装教程：手把手教你配置 OpenCore
       url: https://apple.sqlsec.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=apple.sqlsec.com&sz=64
       description: ''
     - title: 'GitHub - hackintosh-club/MSI-B760M-BOMBER-WIFI-OpenCore: MSI B760M BOMBER
         Hackintosh OpenCore MacOS 12 Monertey & 13 Ventura & 14 Sonoma'
       url: https://github.com/hackintosh-club/MSI-B760M-BOMBER-WIFI-OpenCore
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 全部游戏-SeeMac
       url: https://www.seemac.cn/yxfl/qbyx
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.seemac.cn&sz=64
       description: ''
 - taxonomy: 软路由/NAS/电视盒子
   icon: fas fa-folder fa-lg
@@ -2138,103 +2138,103 @@
     links:
     - title: 阿里云 - 上云就上阿里云
       url: https://www.aliyun.com/?utm_medium=text&utm_source=bdbrand&utm_campaign=bdbrand&utm_content=se_32492&accounttraceid=64d887d2-f508-4799-8beb-dbbe6d141267
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.aliyun.com&sz=64
       description: ''
     - title: Releases · MediaBrowser/Emby.Releases
       url: https://github.com/MediaBrowser/Emby.Releases/releases/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: dynu免费解析-后台控制中心
       url: https://www.dynu.com/zh-CN/ControlPanel
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.dynu.com&sz=64
       description: ''
     - title: DNSPod-免费智能DNS解析服务商-电信_网通_教育网,智能DNS
       url: https://www.dnspod.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.dnspod.cn&sz=64
       description: ''
     - title: 管理页面-公云pubyun
       url: http://www.pubyun.com/user/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.pubyun.com&sz=64
       description: ''
     - title: BBR+BBR魔改+Lotsever(锐速)一键脚本 for Centos/Debian/Ubuntu - Rat's Blog
       url: https://www.moerats.com/archives/387/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.moerats.com&sz=64
       description: ''
     - title: esirPG - Google 云端硬盘
       url: https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=drive.google.com&sz=64
       description: ''
     - title: esxi无直通卡情况下直通板载sata（2018-02-05） - 简书
       url: https://www.jianshu.com/p/ac56ddcf41d2
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.jianshu.com&sz=64
       description: ''
     - title: emby 破解版完全食用方法 - Yukino's 理想乡
       url: https://neko.re/archives/128.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=neko.re&sz=64
       description: ''
     - title: Public - Google 云端硬盘
       url: https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=drive.google.com&sz=64
       description: ''
     - title: unRAID中vm，设置硬盘直通。 - RSG-人生观
       url: https://www.lxg2016.com/53407.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.lxg2016.com&sz=64
       description: ''
     - title: 最好用的 V2Ray 一键安装脚本 & 管理脚本 - 233Blog
       url: https://233v2.com/post/16/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=233v2.com&sz=64
       description: ''
     - title: Jellyfin 刮削加速 - jellyfin-usage-cn
       url: https://nanashi.gitbook.io/jellyfin-usage-cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=nanashi.gitbook.io&sz=64
       description: ''
     - title: SmartTubeNext ——YouTube TV
       url: https://smartyoutubetv.github.io/#comment-3432484129
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=smartyoutubetv.github.io&sz=64
       description: ''
     - title: Plex
       url: https://plex.tv/web
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=plex.tv&sz=64
       description: ''
     - title: 黑群晖_群晖论坛_群晖DSM迅雷官方远程下载_群晖助手_黑群晖洗白教程 - www.nasyun.com
       url: http://www.nasyun.com/forum-71-1.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.nasyun.com&sz=64
       description: ''
     - title: 中国最大的NAS论坛,第一NAS垂直门户！ - Powered by Discuz!
       url: http://www.gebi1.com/forum-44-1.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.gebi1.com&sz=64
       description: ''
     - title: 小宝开源插件
       url: https://github.com/koolshare/koolshare.github.io
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 'GitHub - 1835588093/ADhosts: 手机电脑去广告 hosts&规则 PC&Android'
       url: https://github.com/1835588093/ADhosts
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: shadowsocks 梅林固件SSR
       url: https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=github.com&sz=64
       description: ''
     - title: 插件库
       url: https://downloads.openwrt.org/releases/packages-18.06/x86_64/packages/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=downloads.openwrt.org&sz=64
       description: ''
     - title: 小宝的openwrt新固件—KoolCenter 固件下载服务器
       url: http://fw.koolcenter.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=fw.koolcenter.com&sz=64
       description: ''
     - title: 我不是矿神 - 群晖,威联通,铁威马,万由UNAS,UNRAID,ESXI,PVE,OPENWRT
       url: https://imnks.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=imnks.com&sz=64
       description: ''
     - title: 爱快云 - 网络巡检 - 概览
       url: https://yun.ikuai8.com/#/networks
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=yun.ikuai8.com&sz=64
       description: ''
     - title: 提取文件 - 爱快历史版本
       url: http://scly.aoxuelingshuang.com:8889/down/NtVXpeZf8Pp6
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=scly.aoxuelingshuang.com:8889&sz=64
       description: ''
 - taxonomy: 都市妇产
   icon: fas fa-folder fa-lg
@@ -2243,72 +2243,72 @@
     links:
     - title: 39女性健康_中国专业女人健康网站
       url: http://woman.39.net/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=woman.39.net&sz=64
       description: ''
     - title: 女性健康,女性健康图片 - 昕薇网
       url: http://www.ixinwei.com/list/7.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.ixinwei.com&sz=64
       description: ''
     - title: 武汉都市妇产医院
       url: http://www.whdsyy.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.whdsyy.com&sz=64
       description: ''
     - title: 妈妈帮-妈妈们的怀孕育儿经验交流论坛社区
       url: https://www.mmbang.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.mmbang.com&sz=64
       description: ''
     - title: 妈妈网_官方网站，妈妈信赖的的育儿、生活等交流互动社区
       url: http://www.mama.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.mama.cn&sz=64
       description: ''
     - title: 短信服务公司 短信软件 四川短信群发平台-凌凯短信中心 400 6822 386
       url: https://sms.028lk.com/Msg/SmsSend
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=sms.028lk.com&sz=64
       description: ''
     - title: 女性_99健康网
       url: https://nv.99.com.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=nv.99.com.cn&sz=64
       description: ''
     - title: 女性健康，健康小知识 - 女性健康网
       url: https://www.women-health.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.women-health.cn&sz=64
       description: ''
     - title: 我的首页 微博-随时随地发现新鲜事
       url: https://weibo.com/fu5502/home?wvr=5
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=weibo.com&sz=64
       description: ''
     - title: Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片
       url: http://bigjpg.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=bigjpg.com&sz=64
       description: ''
     - title: 新浪短网址 短网址生成 网址缩短服务 - 短网址
       url: http://dwz.wailian.work/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=dwz.wailian.work&sz=64
       description: ''
     - title: 亿威苹果安卓福利在线网页工具
       url: http://app.wapev.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=app.wapev.com&sz=64
       description: ''
     - title: 可以刷的ios版本
       url: https://ipsw.me/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=ipsw.me&sz=64
       description: ''
     - title: 【小白教程】附带分享源+插件+常见问题解答 使用 Chimera 完整越狱 从下载到使用 一步到位 - iPhone XS 综合讨论区 -
         威锋论坛 - 威锋网
       url: https://bbs.feng.com/forum.php?mod=viewthread&tid=12192414&extra=&page=1
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=bbs.feng.com&sz=64
       description: ''
     - title: 'Chimera: Your device, your way.'
       url: https://chimera.sh/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=chimera.sh&sz=64
       description: ''
     - title: 诚旺超市-激情清仓配音_商场超市_妙音网
       url: http://www.miaoyin365.com/b/1/2018379.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.miaoyin365.com&sz=64
       description: ''
     - title: 在线文字转语音|免费生成语音-百度广播开放平台
       url: https://developer.baidu.com/vcast
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=developer.baidu.com&sz=64
       description: ''
 - taxonomy: 未分类
   icon: fas fa-folder fa-lg
@@ -2317,77 +2317,77 @@
     links:
     - title: 爱快云
       url: https://yun.ikuai8.com/#/login?redirect=%2F
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=yun.ikuai8.com&sz=64
       description: ''
     - title: iP138
       url: https://www.ip138.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.ip138.com&sz=64
       description: ''
     - title: fnOS - 飞牛 fnOS
       url: http://192.168.99.147:5666/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=192.168.99.147:5666&sz=64
       description: ''
     - title: FMedia Server
       url: http://192.168.99.147:9000/web/index.html#!/home
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=192.168.99.147:9000&sz=64
       description: ''
     - title: ITDOG - 在线ping_在线tcping_网站测速_HTTP测速_API测速_路由追踪_在线MTR_DNS查询_ITDOG-云邦畅想
       url: https://www.itdog.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.itdog.cn&sz=64
       description: ''
     - title: 抖音
       url: https://www.douyin.com/search/%E8%93%9D%E7%84%B0%E5%9B%BD%E9%99%85%E6%B1%BD%E8%BD%A6%E5%9F%8E?type=video
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.douyin.com&sz=64
       description: ''
     - title: 管理中心 - 后台管理系统 by HQCMS V5.0
       url: https://lanyan.demos.net.cn/index.php?m=&c=Index&a=index
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=lanyan.demos.net.cn&sz=64
       description: ''
     - title: Google搜
       url: https://www.google.com/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.google.com&sz=64
       description: ''
     - title: Google翻译
       url: https://translate.google.com.hk/?hl=zh-CN&tab=TT
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=translate.google.com.hk&sz=64
       description: ''
     - title: 精度IP地址归属地查询-IP风控值查询-原生IP查询-IP类型查询-家庭宽带IP查询-全球小鸡监控平台
       url: https://ping0.cc/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=ping0.cc&sz=64
       description: ''
     - title: 博思高智慧社区管理平台
       url: http://ykt.bsgoal.net.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=ykt.bsgoal.net.cn&sz=64
       description: ''
     - title: 车管停车管理
       url: http://saas.icecloud-car.com/login.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=saas.icecloud-car.com&sz=64
       description: ''
     - title: 杨公子的个人导航
       url: https://hiir.cn/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=hiir.cn&sz=64
       description: ''
     - title: 杨公子的博客
       url: https://www.hiir.cn:12580/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=www.hiir.cn:12580&sz=64
       description: ''
     - title: 钉钉企业注册，企业移动办公，企业通讯录，免费云邮箱，免费OA
       url: https://oa.dingtalk.com/?spm=a213l2.13146415.4929779444.75.7f1521c9YVcY2e#/login
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=oa.dingtalk.com&sz=64
       description: ''
     - title: 杀死标签
       url: chrome://kill/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=kill&sz=64
       description: ''
     - title: 宝塔Linux面板 公司的
       url: http://47.96.233.118:8888/b5cd6db6
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=47.96.233.118:8888&sz=64
       description: ''
     - title: 蓝焰智慧停车可视化大屏
       url: https://lanyan.demos.net.cn/Home/Visual/
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=lanyan.demos.net.cn&sz=64
       description: ''
     - title: 视频号助手
       url: https://channels.weixin.qq.com/login.html
-      logo: ''
+      logo: https://www.google.com/s2/favicons?domain=channels.weixin.qq.com&sz=64
       description: ''

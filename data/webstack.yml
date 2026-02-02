@@ -1,627 +1,2465 @@
----
-
-- taxonomy: 常用推荐
-  icon: far fa-star
-  links: 
-    - title: 语雀
-      logo: 语雀.webp
-      url: https://www.yuque.com/
-      description: 专业的云端知识库。
-    - title: QQ 邮箱
-      logo: qq邮箱.png
-      url: http://mail.qq.com/
-      description: 腾讯 QQ 邮箱。
-    - title: 开源中国
-      logo: 开源中国.jpg
-      url: https://www.oschina.net/
-      description: 中文开源技术交流社区。
-    - title: 公众号平台
-      logo: 微信公众号.png
-      url: https://mp.weixin.qq.com/
-      description: 再小的个体也有自己的品牌。
-    - title: GitHub
-      logo: github.png
-      url: https://github.com/
-      description: GitHub 开源社区。
-    - title: 搜狗微信
-      logo: 搜狗微信.jpg
-      url: https://weixin.sogou.com/
-      description: 搜狗微信搜索，一搜即达。
-    - title: 知乎
-      logo: 知乎.png
-      url: https://www.zhihu.com/
-      description: 知乎社区。
-    - title: V2EX
-      logo: v2ex.jpg
-      url: https://www.v2ex.com/
-      description: V2EX 创意工作者的社区。
-    - title: 关注我们
-      logo: 关注.jpg
-      url: https://www.bioitee.com
-      qrcode: qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！
-
-
-- taxonomy: 科研办公
-  icon: fas fa-flask fa-lg
+- taxonomy: 数码
+  icon: icon-desktop
   list:
-    - term: 生物信息
+    - term: 数码
       links:
-        - title: NCBI
-          logo: ncbi.jpg
-          url: https://www.ncbi.nlm.nih.gov/
-          description: National Center for Biotechnology Information.
-        - title: Bioconda
-          logo: bioconda.jpg
-          url: https://anaconda.org/bioconda/
-          description: "Bioconda :: Anaconda.org."
-        - title: CPAN
-          logo: cpan.jpg
-          url: https://metacpan.org/
-          description: Search the CPAN.
-        - title: Galaxy Project
-          logo: galaxy_project.png
-          url: https://galaxyproject.org/
-          description: Galaxy Community Hub.
-        - title: R Project
-          logo: r-project.jpg
-          url: https://www.r-project.org/
-          description: https://www.r-project.org
-        - title: Bioconductor
-          logo: bioconductor.jpg
-          url: http://www.bioconductor.org/
-          description: http://www.bioconductor.org
-    - term: 云服务器
+        - title: "手机游戏攻略第一发布-搞趣网攻略频道"
+          logo: "https://favicon.duckduckgo.com/ip3/gl.gao7.com.ico"
+          url: "http://gl.gao7.com/"
+          description: "手机游戏攻略第一发布-搞趣网攻略频道"
+    - term: 开发
       links:
-        - title: 阿里云
-          logo: 阿里云.jpg
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云。
-        - title: 腾讯云
-          logo: 腾讯云.webp
-          url: https://cloud.tencent.com/
-          description: 产业智变，云启未来。
-        - title: 华为云
-          logo: 华为云.png
-          url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云。
-        - title: 云筏科技
-          logo: 云筏.png
-          url: https://www.cloudraft.cn/
-          description: 你的生信科研好选择。
-        - title: 极云普惠云电脑
-          logo: 极云普惠云电脑.png
-          url: https://www.ji-cloud.cn/
-          description: 云电脑-云游戏-手机变电脑软件。
-        - title: 青椒云
-          logo: 青椒云.jpg
-          url: https://www.qingjiaocloud.com/
-          description: 云桌面,一站式云电脑服务平台。
-    - term: 办公学习
+        - title: "获取虚拟手机号码。短期手机号码。手机短信激活服务"
+          logo: "https://favicon.duckduckgo.com/ip3/sms-activate.org.ico"
+          url: "https://sms-activate.org/getNumber"
+          description: "获取虚拟手机号码。短期手机号码。手机短信激活服务"
+    - term: 素材
       links:
-        - title: 有道词典
-          logo: 有道词典.png
-          url: https://www.youdao.com/
-          description: 免费，即时的多语种在线翻译。
-        - title: 有道翻译
-          logo: 有道词典.png
-          url: http://fanyi.youdao.com/
-          description: 有道翻译。
-        - title: 谷歌翻译
-          logo: 谷歌翻译.jpg
-          url: https://translate.google.cn/
-          description: 谷歌翻译。
-        - title: ProcessOn
-          logo: ProcessOn.png
-          url: https://www.processon.com/
-          description: 免费在线作图、实时协作。
-        
-
-- taxonomy: 悠闲娱乐
-  icon: fas fa-film fa-lg
+        - title: "找字网-找字网,字体下载,字体在线预览后下载字体,免费中文字体下载,英文字体下载,电脑字体库下载,个性字体下载,实时字库预览"
+          logo: "https://favicon.duckduckgo.com/ip3/www.zhaozi.cn.ico"
+          url: "http://www.zhaozi.cn/"
+          description: "找字网-找字网,字体下载,字体在线预览后下载字体,免费中文字体下载,英文字体下载,电脑字体库下载,个性字体下载,实时字库预览"
+    - term: 黑苹果
+      links:
+        - title: "忘记mac苹果电脑开机密码了怎么办？_重置"
+          logo: "https://favicon.duckduckgo.com/ip3/www.sohu.com.ico"
+          url: "https://www.sohu.com/a/407265988_120440097"
+          description: "忘记mac苹果电脑开机密码了怎么办？_重置"
+        - title: "主页 - 国光的黑苹果安装教程：手把手教你配置 OpenCore"
+          logo: "https://favicon.duckduckgo.com/ip3/apple.sqlsec.com.ico"
+          url: "https://apple.sqlsec.com/"
+          description: "主页 - 国光的黑苹果安装教程：手把手教你配置 OpenCore"
+    - term: 资源
+      links:
+        - title: "电脑公司GHOST WIN7 32位 64位旗舰版系统下载 | 东海系统家园"
+          logo: "https://favicon.duckduckgo.com/ip3/www.dhghost.cn.ico"
+          url: "http://www.dhghost.cn/win7xitong"
+          description: "电脑公司GHOST WIN7 32位 64位旗舰版系统下载 | 东海系统家园"
+    - term: 杂项
+      links:
+        - title: "手机短信炸弹合集包【不断更新】 | 嘉靖博客"
+          logo: "https://favicon.duckduckgo.com/ip3/blog.liangjinjin.cn.ico"
+          url: "http://blog.liangjinjin.cn/?p=85"
+          description: "手机短信炸弹合集包【不断更新】 | 嘉靖博客"
+    - term: 娱乐
+      links:
+        - title: "在电脑上免费下载 torrent 游戏 | ByRutor"
+          logo: "https://favicon.duckduckgo.com/ip3/repack-byrutor.org.ico"
+          url: "https://repack-byrutor.org/"
+          description: "在电脑上免费下载 torrent 游戏 | ByRutor"
+    - term: 脚本
+      links:
+        - title: "唤醒我的Google Voice - IFTTT"
+          logo: "https://favicon.duckduckgo.com/ip3/ifttt.com.ico"
+          url: "https://ifttt.com/applets/88289967d-google-voice"
+          description: "唤醒我的Google Voice - IFTTT"
+    - term: 交互
+      links:
+        - title: "内涵段子【官网】之电脑版【内涵社区】内涵图,漫画,笑话,内涵图吧 - 内涵社区(neihanshequ.com)"
+          logo: "https://favicon.duckduckgo.com/ip3/neihanshequ.com.ico"
+          url: "http://neihanshequ.com/"
+          description: "内涵段子【官网】之电脑版【内涵社区】内涵图,漫画,笑话,内涵图吧 - 内涵社区(neihanshequ.com)"
+- taxonomy: AI
+  icon: icon-robot
   list:
-    - term: 影音视频
+    - term: 数码
       links:
-        - title: 腾讯视频
-          logo: 腾讯视频.png
-          url: http://v.qq.com/
-          description: 腾讯视频，海量视频在线观看。
-        - title: 优酷
-          logo: 优酷.png
-          url: http://www.youku.com/
-          description: 优酷 - 这个世界很酷。
-        - title: 爱奇艺
-          logo: 爱奇艺.png
-          url: https://www.iqiyi.com/
-          description: 爱奇艺在线视频。
-        - title: 哔哩哔哩
-          logo: 哔哩哔哩.png
-          url: https://www.bilibili.com/
-          description: Bilibili 视频弹幕网站。
-        - title: QQ 音乐
-          logo: QQ音乐.jpg
-          url: https://y.qq.com/
-          description: QQ 音乐，在线听歌。
-        - title: 网易云音乐
-          logo: 网易云音乐.jpg
-          url: https://music.163.com/
-          description: 163 网易云音乐。
-    - term: 游戏竞技
+        - title: "在线多引擎病毒扫描,在线杀毒-绿色下载吧"
+          logo: "https://favicon.duckduckgo.com/ip3/www.xiazaiba.com.ico"
+          url: "http://www.xiazaiba.com/virusscan.html"
+          description: "在线多引擎病毒扫描,在线杀毒-绿色下载吧"
+    - term: 开发
       links:
-        - title: 百度贴吧
-          logo: 百度贴吧.jpg
-          url: ttps://tieba.baidu.com/index.html
-          description: 百度贴吧。
-        - title: 台服战地
-          logo: 战地之王.png
-          url: https://ava.mangot5.com/ava/index
-          description: 台服 AVA 战地之王。
-   
-      
-- taxonomy: 素材资源
-  icon: far fa-folder-open fa-lg
+        - title: "https://chat.openai.com"
+          logo: "https://favicon.duckduckgo.com/ip3/chat.openai.com.ico"
+          url: "https://chat.openai.com/"
+          description: "https://chat.openai.com"
+        - title: "应用管理中心_腾讯开放平台 OPEN.QQ.COM"
+          logo: "https://favicon.duckduckgo.com/ip3/op.open.qq.com.ico"
+          url: "http://op.open.qq.com/index.php?mod=appinfo&act=main&appid=1103412532"
+          description: "应用管理中心_腾讯开放平台 OPEN.QQ.COM"
+        - title: "Perplexity pro 一年会员"
+          logo: "https://favicon.duckduckgo.com/ip3/www.perplexity.ai.ico"
+          url: "https://www.perplexity.ai/"
+          description: "Perplexity pro 一年会员"
+        - title: "百度开发者平台"
+          logo: "https://favicon.duckduckgo.com/ip3/app.baidu.com.ico"
+          url: "http://app.baidu.com/apps"
+          description: "百度开发者平台"
+        - title: "Cydia Impactor"
+          logo: "https://favicon.duckduckgo.com/ip3/www.cydiaimpactor.com.ico"
+          url: "http://www.cydiaimpactor.com/"
+          description: "Cydia Impactor"
+        - title: "自建Proxy来反代Telegram Bot API - 科技玩家"
+          logo: "https://favicon.duckduckgo.com/ip3/www.kejiwanjia.com.ico"
+          url: "https://www.kejiwanjia.com/jiaocheng/95460.html"
+          description: "自建Proxy来反代Telegram Bot API - 科技玩家"
+        - title: "Overview - OpenAI API"
+          logo: "https://favicon.duckduckgo.com/ip3/platform.openai.com.ico"
+          url: "https://platform.openai.com/overview"
+          description: "Overview - OpenAI API"
+        - title: "Coze: Next-Gen AI Chatbot Developing Platform"
+          logo: "https://favicon.duckduckgo.com/ip3/www.coze.com.ico"
+          url: "https://www.coze.com/"
+          description: "Coze: Next-Gen AI Chatbot Developing Platform"
+        - title: "使用 AI 创作艺术作品或修改图像"
+          logo: "https://favicon.duckduckgo.com/ip3/openart.ai.ico"
+          url: "https://openart.ai/home"
+          description: "使用 AI 创作艺术作品或修改图像"
+        - title: "stabilityai (Stability AI)"
+          logo: "https://favicon.duckduckgo.com/ip3/huggingface.co.ico"
+          url: "https://huggingface.co/stabilityai"
+          description: "stabilityai (Stability AI)"
+        - title: "LiblibAI·哩布哩布AI - 中国领先的AI创作平台"
+          logo: "https://favicon.duckduckgo.com/ip3/www.liblib.art.ico"
+          url: "https://www.liblib.art/modelinfo/8317151296294a64985531310ac8f0ae"
+          description: "LiblibAI·哩布哩布AI - 中国领先的AI创作平台"
+        - title: "eSheep(内测中) - 一站式的AIGC社区"
+          logo: "https://favicon.duckduckgo.com/ip3/www.esheep.com.ico"
+          url: "https://www.esheep.com/"
+          description: "eSheep(内测中) - 一站式的AIGC社区"
+        - title: "Civitai: The Home of Open-Source Generative AI"
+          logo: "https://favicon.duckduckgo.com/ip3/civitai.com.ico"
+          url: "https://civitai.com/"
+          description: "Civitai: The Home of Open-Source Generative AI"
+        - title: "Kimi 是一个有着超大“内存”的智能助手，可以一口气读完二十万字的小说，还会上网冲浪，快来跟他聊聊吧"
+          logo: "https://favicon.duckduckgo.com/ip3/kimi.moonshot.cn.ico"
+          url: "https://kimi.moonshot.cn/"
+          description: "Kimi 是一个有着超大“内存”的智能助手，可以一口气读完二十万字的小说，还会上网冲浪，快来跟他聊聊吧"
+        - title: "豆包 - 字节跳动旗下 AI 智能助手"
+          logo: "https://favicon.duckduckgo.com/ip3/www.doubao.com.ico"
+          url: "https://www.doubao.com/chat/"
+          description: "豆包 - 字节跳动旗下 AI 智能助手"
+        - title: "DeepSeek - 探索未至之境"
+          logo: "https://favicon.duckduckgo.com/ip3/chat.deepseek.com.ico"
+          url: "https://chat.deepseek.com/"
+          description: "DeepSeek - 探索未至之境"
+        - title: "可灵 AI - 新一代 AI 创意生产力平台"
+          logo: "https://favicon.duckduckgo.com/ip3/klingai.kuaishou.com.ico"
+          url: "https://klingai.kuaishou.com/"
+          description: "可灵 AI - 新一代 AI 创意生产力平台"
+        - title: "即梦AI - 一站式AI创作平台"
+          logo: "https://favicon.duckduckgo.com/ip3/jimeng.jianying.com.ico"
+          url: "https://jimeng.jianying.com/ai-tool/home/?utm_medium=baiduads&utm_source=pinzhuan&utm_campaign=title"
+          description: "即梦AI - 一站式AI创作平台"
+        - title: "灵图AI辅助设计平台_LingVisions_在线智能设计_AI绘画神器_灵图科技"
+          logo: "https://favicon.duckduckgo.com/ip3/www.lingvisions.com.ico"
+          url: "https://www.lingvisions.com/"
+          description: "灵图AI辅助设计平台_LingVisions_在线智能设计_AI绘画神器_灵图科技"
+        - title: "Viggle AI"
+          logo: "https://favicon.duckduckgo.com/ip3/www.viggle.ai.ico"
+          url: "https://www.viggle.ai/home"
+          description: "Viggle AI"
+        - title: "免费AI配音神器 - 文本转语音&声音克隆 | Noiz AI"
+          logo: "https://favicon.duckduckgo.com/ip3/noiz.ai.ico"
+          url: "https://noiz.ai/landing"
+          description: "免费AI配音神器 - 文本转语音&声音克隆 | Noiz AI"
+        - title: "谷歌人工智能工作室"
+          logo: "https://favicon.duckduckgo.com/ip3/aistudio.google.com.ico"
+          url: "https://aistudio.google.com/apps"
+          description: "谷歌人工智能工作室"
+    - term: 网建
+      links:
+        - title: "百度云加速 - 云时代的网站安全加速平台 | 免费网站加速_网站防火墙_防CC_防DDOS_免费CDN加速"
+          logo: "https://favicon.duckduckgo.com/ip3/su.baidu.com.ico"
+          url: "http://su.baidu.com/"
+          description: "百度云加速 - 云时代的网站安全加速平台 | 免费网站加速_网站防火墙_防CC_防DDOS_免费CDN加速"
+        - title: "百度云观测 - 百度旗下网站云监测平台|免费安全检测|网站测速|漏洞扫描|网站检测"
+          logo: "https://favicon.duckduckgo.com/ip3/ce.baidu.com.ico"
+          url: "http://ce.baidu.com/"
+          description: "百度云观测 - 百度旗下网站云监测平台|免费安全检测|网站测速|漏洞扫描|网站检测"
+        - title: "jQuery网页特效最全网页模板和网站模板jQuery代码_17素材网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.17sucai.com.ico"
+          url: "http://www.17sucai.com/"
+          description: "jQuery网页特效最全网页模板和网站模板jQuery代码_17素材网"
+        - title: "US.KG 域名注册局 – NIC  半年续一次签"
+          logo: "https://favicon.duckduckgo.com/ip3/dash.domain.digitalplat.org.ico"
+          url: "https://dash.domain.digitalplat.org/"
+          description: "US.KG 域名注册局 – NIC  半年续一次签"
+        - title: "eu.org 永久免费域名"
+          logo: "https://favicon.duckduckgo.com/ip3/nic.eu.org.ico"
+          url: "https://nic.eu.org/arf/en/domain/edit/cnidm.eu.org/"
+          description: "eu.org 永久免费域名"
+        - title: "DNSHE | 永久免费的域名注册与 DNS 解析服务"
+          logo: "https://favicon.duckduckgo.com/ip3/www.dnshe.com.ico"
+          url: "https://www.dnshe.com/?domain/"
+          description: "DNSHE | 永久免费的域名注册与 DNS 解析服务"
+    - term: 软路由/NAS/电视盒子
+      links:
+        - title: "阿里云 - 上云就上阿里云"
+          logo: "https://favicon.duckduckgo.com/ip3/www.aliyun.com.ico"
+          url: "https://www.aliyun.com/?utm_medium=text&utm_source=bdbrand&utm_campaign=bdbrand&utm_content=se_32492&accounttraceid=64d887d2-f508-4799-8beb-dbbe6d141267"
+          description: "阿里云 - 上云就上阿里云"
+        - title: "unRAID中vm，设置硬盘直通。 - RSG-人生观"
+          logo: "https://favicon.duckduckgo.com/ip3/www.lxg2016.com.ico"
+          url: "https://www.lxg2016.com/53407.html"
+          description: "unRAID中vm，设置硬盘直通。 - RSG-人生观"
+        - title: "我不是矿神 - 群晖,威联通,铁威马,万由UNAS,UNRAID,ESXI,PVE,OPENWRT"
+          logo: "https://favicon.duckduckgo.com/ip3/imnks.com.ico"
+          url: "https://imnks.com/"
+          description: "我不是矿神 - 群晖,威联通,铁威马,万由UNAS,UNRAID,ESXI,PVE,OPENWRT"
+        - title: "爱快云 - 网络巡检 - 概览"
+          logo: "https://favicon.duckduckgo.com/ip3/yun.ikuai8.com.ico"
+          url: "https://yun.ikuai8.com/#/networks"
+          description: "爱快云 - 网络巡检 - 概览"
+    - term: 素材
+      links:
+        - title: "AI Excel表格处理工具大全 | AI工具集"
+          logo: "https://favicon.duckduckgo.com/ip3/ai-bot.cn.ico"
+          url: "https://ai-bot.cn/favorites/ai-excel-sheet-tools/"
+          description: "AI Excel表格处理工具大全 | AI工具集"
+        - title: "百度创意专家"
+          logo: "https://favicon.duckduckgo.com/ip3/chuangyi.baidu.com.ico"
+          url: "http://chuangyi.baidu.com/?castk=LTE%3D"
+          description: "百度创意专家"
+        - title: "网站模板_jQuery_PHP_网站源码_网页素材_素材火"
+          logo: "https://favicon.duckduckgo.com/ip3/www.sucaihuo.com.ico"
+          url: "http://www.sucaihuo.com/"
+          description: "网站模板_jQuery_PHP_网站源码_网页素材_素材火"
+        - title: "免费logo在线制作-艺术字体在线生成-logo设计-U钙网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.uugai.com.ico"
+          url: "http://www.uugai.com/"
+          description: "免费logo在线制作-艺术字体在线生成-logo设计-U钙网"
+        - title: "美图秀秀网页版 官方网站_在线制作图片及图片处理工具"
+          logo: "https://favicon.duckduckgo.com/ip3/xiuxiu.web.meitu.com.ico"
+          url: "http://xiuxiu.web.meitu.com/main.html"
+          description: "美图秀秀网页版 官方网站_在线制作图片及图片处理工具"
+        - title: "爱给网_音效配乐_3D模型_视频素材_游戏素材_免费下载"
+          logo: "https://favicon.duckduckgo.com/ip3/www.aigei.com.ico"
+          url: "https://www.aigei.com/"
+          description: "爱给网_音效配乐_3D模型_视频素材_游戏素材_免费下载"
+        - title: "文本转AI真人语音，免费微软AI语音 - 在线工具 - ToolB"
+          logo: "https://favicon.duckduckgo.com/ip3/toolb.cn.ico"
+          url: "https://toolb.cn/textspeech"
+          description: "文本转AI真人语音，免费微软AI语音 - 在线工具 - ToolB"
+        - title: "找台词"
+          logo: "https://favicon.duckduckgo.com/ip3/www.zhaotaici.cn.ico"
+          url: "http://www.zhaotaici.cn/"
+          description: "找台词"
+        - title: "AI放大图片10倍-nightmareai/real-esrgan – Run with an API on Replicate"
+          logo: "https://favicon.duckduckgo.com/ip3/replicate.com.ico"
+          url: "https://replicate.com/nightmareai/real-esrgan"
+          description: "AI放大图片10倍-nightmareai/real-esrgan – Run with an API on Replicate"
+        - title: "视频素材-可商用Free Stock Video Footage HD Royalty-Free Videos Download"
+          logo: "https://favicon.duckduckgo.com/ip3/mazwai.com.ico"
+          url: "https://mazwai.com/"
+          description: "视频素材-可商用Free Stock Video Footage HD Royalty-Free Videos Download"
+        - title: "[法拍车视频素材]图片下载_法拍车视频素材设计模板大全(8237张)_【包图网】"
+          logo: "https://favicon.duckduckgo.com/ip3/ibaotu.com.ico"
+          url: "https://ibaotu.com/tupian/fapaiche/7-0-0-0-0-0-0.html?format_type=0"
+          description: "[法拍车视频素材]图片下载_法拍车视频素材设计模板大全(8237张)_【包图网】"
+        - title: "dashboard-icons/ICONS.md at main · walkxcode/dashboard-icons · GitHub"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/walkxcode/dashboard-icons/blob/main/ICONS.md"
+          description: "dashboard-icons/ICONS.md at main · walkxcode/dashboard-icons · GitHub"
+    - term: 黑苹果
+      links:
+        - title: "dell7080MFF黑苹果抄作业_keylkeaf的博客-CSDN博客"
+          logo: "https://favicon.duckduckgo.com/ip3/blog.csdn.net.ico"
+          url: "https://blog.csdn.net/keylkeaf/article/details/116944140"
+          description: "dell7080MFF黑苹果抄作业_keylkeaf的博客-CSDN博客"
+        - title: "超详细黑苹果安装图文教程送EFI配置合集及系统_黑苹果,镜像,EFI_互扯程序的博客-CSDN博客"
+          logo: "https://favicon.duckduckgo.com/ip3/blog.csdn.net.ico"
+          url: "https://blog.csdn.net/mxw2552261/article/details/85815981"
+          description: "超详细黑苹果安装图文教程送EFI配置合集及系统_黑苹果,镜像,EFI_互扯程序的博客-CSDN博客"
+        - title: "教程：6代Skylake 7代kabylake 台式机集显 HD630 新问题解决办法【黑苹果吧】_百度贴吧"
+          logo: "https://favicon.duckduckgo.com/ip3/tieba.baidu.com.ico"
+          url: "http://tieba.baidu.com/p/5122580716"
+          description: "教程：6代Skylake 7代kabylake 台式机集显 HD630 新问题解决办法【黑苹果吧】_百度贴吧"
+        - title: "一条终端指令轻松解决Mac和Win双系统时差问题"
+          logo: "https://favicon.duckduckgo.com/ip3/baijiahao.baidu.com.ico"
+          url: "https://baijiahao.baidu.com/s?id=1718599155358528815&wfr=spider&for=pc"
+          description: "一条终端指令轻松解决Mac和Win双系统时差问题"
+        - title: "小新pro13黑苹果配置实录_小白中的小白egg的博客-CSDN博客_小新pro13黑苹果"
+          logo: "https://favicon.duckduckgo.com/ip3/blog.csdn.net.ico"
+          url: "https://blog.csdn.net/weixin_45518621/article/details/127600805"
+          description: "小新pro13黑苹果配置实录_小白中的小白egg的博客-CSDN博客_小新pro13黑苹果"
+        - title: "小新Pro13成功安装黑苹果超详细教程，小白也会安装双系统！_iCanCode的博客-CSDN博客_小新pro13 黑苹果"
+          logo: "https://favicon.duckduckgo.com/ip3/blog.csdn.net.ico"
+          url: "https://blog.csdn.net/iCanCode/article/details/108064539?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-108064539-blog-127600805.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-3-108064539-blog-127600805.pc_relevant_default&utm_relevant_index=5"
+          description: "小新Pro13成功安装黑苹果超详细教程，小白也会安装双系统！_iCanCode的博客-CSDN博客_小新pro13 黑苹果"
+        - title: "黑苹果换OC引导开机详细教程，适用小新Pro13_iCanCode的博客-CSDN博客_oc引导教程"
+          logo: "https://favicon.duckduckgo.com/ip3/blog.csdn.net.ico"
+          url: "https://blog.csdn.net/iCanCode/article/details/108185783"
+          description: "黑苹果换OC引导开机详细教程，适用小新Pro13_iCanCode的博客-CSDN博客_oc引导教程"
+        - title: "(1条消息) OpenCore黑苹果引导开机声音与图形界面设置_豆豆本豆儿的博客-CSDN博客_opencore 图形界面"
+          logo: "https://favicon.duckduckgo.com/ip3/blog.csdn.net.ico"
+          url: "https://blog.csdn.net/Z17362251225/article/details/125725730"
+          description: "(1条消息) OpenCore黑苹果引导开机声音与图形界面设置_豆豆本豆儿的博客-CSDN博客_opencore 图形界面"
+    - term: 资源
+      links:
+        - title: "무료 소프트웨어 공유 및 다운로드-매일 업데이트"
+          logo: "https://favicon.duckduckgo.com/ip3/ko.taiwebs.com.ico"
+          url: "https://ko.taiwebs.com/?lang=CN"
+          description: "무료 소프트웨어 공유 및 다운로드-매일 업데이트"
+        - title: "百度云搜索，百度网盘资源下载，百度网盘搜索 - 搜百度盘"
+          logo: "https://favicon.duckduckgo.com/ip3/www.sobaidupan.com.ico"
+          url: "http://www.sobaidupan.com/"
+          description: "百度云搜索，百度网盘资源下载，百度网盘搜索 - 搜百度盘"
+        - title: "大眼仔旭 - 爱软件 爱汉化 爱分享 博客型软件首页"
+          logo: "https://favicon.duckduckgo.com/ip3/www.dayanzai.me.ico"
+          url: "http://www.dayanzai.me/"
+          description: "大眼仔旭 - 爱软件 爱汉化 爱分享 博客型软件首页"
+        - title: "剪映V﻿IP破解版 | Ai-皇帝"
+          logo: "https://favicon.duckduckgo.com/ip3/www.ai-hd.com.ico"
+          url: "https://www.ai-hd.com/article/df3a220f-c7f6-4601-9cd7-8bde2b9d5fcd"
+          description: "剪映V﻿IP破解版 | Ai-皇帝"
+    - term: 多媒体
+      links:
+        - title: "百度音乐-听到极致"
+          logo: "https://favicon.duckduckgo.com/ip3/play.baidu.com.ico"
+          url: "http://play.baidu.com/"
+          description: "百度音乐-听到极致"
+        - title: "百度音乐-听到极致"
+          logo: "https://favicon.duckduckgo.com/ip3/music.baidu.com.ico"
+          url: "http://music.baidu.com/"
+          description: "百度音乐-听到极致"
+    - term: 工具
+      links:
+        - title: "iStore扩展插件包X86"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/AUK9527/Are-u-ok/tree/main/x86"
+          description: "iStore扩展插件包X86"
+        - title: "Are-u-ok/apps at main · AUK9527/Are-u-ok · GitHub"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/AUK9527/Are-u-ok/tree/main/apps"
+          description: "Are-u-ok/apps at main · AUK9527/Are-u-ok · GitHub"
+        - title: "nexitally | Control Panel"
+          logo: "https://favicon.duckduckgo.com/ip3/nexitallysafe.com.ico"
+          url: "https://nexitallysafe.com/main.aspx"
+          description: "nexitally | Control Panel"
+        - title: "wukongdaily/RunFilesBuilder: 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于iStoreOS/ImmortalWrt用的run自解压包"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/wukongdaily/RunFilesBuilder"
+          description: "wukongdaily/RunFilesBuilder: 这是一个工作流。同步各位大佬项目里最新编译的ipk文件 生成适用于iStoreOS/ImmortalWrt用的run自解压包"
+    - term: GFW墙
+      links:
+        - title: "Waiting"
+          logo: "https://favicon.duckduckgo.com/ip3/mapi.yuansfer.com.ico"
+          url: "https://mapi.yuansfer.com/app-redirect-record/yuansfer-redirect-record/355778425248347336"
+          description: "Waiting"
+        - title: "Portainer | local 京东云"
+          logo: "https://favicon.duckduckgo.com/ip3/117.72.163.60:9000.ico"
+          url: "http://117.72.163.60:9000/#!/2/docker/containers"
+          description: "Portainer | local 京东云"
+    - term: 娱乐
+      links:
+        - title: "咸鱼单机-电脑单机游戏下载-switch游戏下载-免费单机下载-咸鱼单机官网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.xianyudanji.ai.ico"
+          url: "https://www.xianyudanji.ai/"
+          description: "咸鱼单机-电脑单机游戏下载-switch游戏下载-免费单机下载-咸鱼单机官网"
+    - term: PT
+      links:
+        - title: "TTG ::"
+          logo: "https://favicon.duckduckgo.com/ip3/totheglory.im.ico"
+          url: "https://totheglory.im/userdetails.php?id=163930"
+          description: "TTG ::"
+    - term: 脚本
+      links:
+        - title: "GitHub - SuMaiKaDe/bot"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/SuMaiKaDe/bot"
+          description: "GitHub - SuMaiKaDe/bot"
+    - term: 交互
+      links:
+        - title: "爱快云 - 网络巡检 - 概览"
+          logo: "https://favicon.duckduckgo.com/ip3/yun.ikuai8.com.ico"
+          url: "https://yun.ikuai8.com/#/"
+          description: "爱快云 - 网络巡检 - 概览"
+        - title: "百度地图"
+          logo: "https://favicon.duckduckgo.com/ip3/map.baidu.com.ico"
+          url: "http://map.baidu.com/?newmap=1&shareurl=1&l=14&tn=B_NORMAL_MAP&hb=B_SATELLITE_STREET&c=12302987,3368899&mapShareId=6706415d0f3bd0acf12d8303"
+          description: "百度地图"
+        - title: "GitHub - Mrs4s /百度下载：百度网盘不限速下载工具"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/Mrs4s/BaiduPanDownload"
+          description: "GitHub - Mrs4s /百度下载：百度网盘不限速下载工具"
+        - title: "Gate.io - The Gate of Blockchain Assets Exchange"
+          logo: "https://favicon.duckduckgo.com/ip3/gate.io.ico"
+          url: "https://gate.io/"
+          description: "Gate.io - The Gate of Blockchain Assets Exchange"
+        - title: "↖️首页-左上角是菜单← - 悟空百科"
+          logo: "https://favicon.duckduckgo.com/ip3/didiboy0702.gitbook.io.ico"
+          url: "https://didiboy0702.gitbook.io/wukongdaily/"
+          description: "↖️首页-左上角是菜单← - 悟空百科"
+    - term: 都市妇产
+      links:
+        - title: "Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片"
+          logo: "https://favicon.duckduckgo.com/ip3/bigjpg.com.ico"
+          url: "http://bigjpg.com/"
+          description: "Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片"
+        - title: "新浪短网址 短网址生成 网址缩短服务 - 短网址"
+          logo: "https://favicon.duckduckgo.com/ip3/dwz.wailian.work.ico"
+          url: "http://dwz.wailian.work/"
+          description: "新浪短网址 短网址生成 网址缩短服务 - 短网址"
+        - title: "在线文字转语音|免费生成语音-百度广播开放平台"
+          logo: "https://favicon.duckduckgo.com/ip3/developer.baidu.com.ico"
+          url: "https://developer.baidu.com/vcast"
+          description: "在线文字转语音|免费生成语音-百度广播开放平台"
+    - term: 书签栏
+      links:
+        - title: "爱快云"
+          logo: "https://favicon.duckduckgo.com/ip3/yun.ikuai8.com.ico"
+          url: "https://yun.ikuai8.com/#/login?redirect=%2F"
+          description: "爱快云"
+- taxonomy: 开发
+  icon: icon-code
   list:
-    - term: 网盘资源
+    - term: 数码
       links:
-        - title: 百度网盘
-          logo: 百度网盘.jpg
-          url: http://pan.baidu.com/
-          description: https://pan.baidu.com/.
-        - title: 阿里云盘
-          logo: 阿里云盘.png
-          url: https://www.aliyundrive.com/
-          description: 阿里云盘，你的数字世界。
-        - title: 天翼云盘
-          logo: 天翼云盘.jpg
-          url: https://cloud.189.cn/
-          description: 家庭云|网盘|文件备份|资源分享。
-        - title: 坚果云
-          logo: 坚果云.png
-          usrl: https://www.jianguoyun.com/
-          description: 坚果云官网。
-    - term: 图标素材
+        - title: "macOS Sonoma - 远景论坛 - 微软极客社区"
+          logo: "https://favicon.duckduckgo.com/ip3/bbs.pcbeta.com.ico"
+          url: "https://bbs.pcbeta.com/forum-571-1.html"
+          description: "macOS Sonoma - 远景论坛 - 微软极客社区"
+        - title: "电脑讨论(新) - Chiphell - 分享与交流用户体验"
+          logo: "https://favicon.duckduckgo.com/ip3/www.chiphell.com.ico"
+          url: "https://www.chiphell.com/forum-146-1.html"
+          description: "电脑讨论(新) - Chiphell - 分享与交流用户体验"
+        - title: "(3) LINUX DO - 新的理想型社区"
+          logo: "https://favicon.duckduckgo.com/ip3/linux.do.ico"
+          url: "https://linux.do/"
+          description: "(3) LINUX DO - 新的理想型社区"
+    - term: 开发
       links:
-        - title: Iconfinder
-          logo: Iconfinder.png
-          url: https://www.iconfinder.com
-          description: 2,100,000+ free and premium vector icons.
-        - title: iconfont
-          logo: iconfont.png
-          url: http://www.iconfont.cn/
-          description: 阿里巴巴矢量图标库。
-        - title: iconmonstr
-          logo: iconmonstr.png
-          url: https://iconmonstr.com/
-          description: Free simple icons for your next project.
-        - title: Icon Archive
-          logo: iconarchive.png
-          url: http://www.iconarchive.com/
-          description: Search 590,912 free icons.
-        - title: FindIcons
-          logo: FindIcons.png
-          url: https://findicons.com/
-          description: Search through 300,000 free icons.
-        - title: IcoMoonApp
-          logo: IcoMoonApp.png
-          url: https://icomoon.io/app/
-          description: Icon Font, SVG, PDF &amp; PNG Generator.
-        - title: easyicon
-          logo: easyicon.png
-          url: http://www.easyicon.net/
-          description: PNG、ICO、ICNS格式图标搜索、图标下载服务。
-        - title: flaticon
-          logo: flaticon.png
-          url: https://www.flaticon.com/
-          description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
-        - title: UICloud
-          logo: UICloud.png
-          url: http://ui-cloud.com/
-          description: The largest user interface design database in the world.
-        - title: Material icons
-          logo: Materialicons.png
-          url: https://material.io/icons/
-          description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
-        - title: Font Awesome Icon
-          logo: fontawesomeicon.png
-          url: https://fontawesome.com/icons/
-          description: The complete set of 675 icons in Font Awesome.
-        - title: ion icons
-          logo: ionicons.png
-          url: http://ionicons.com/
-          description: The premium icon font for Ionic Framework.
-        - title: Simpleline Icons
-          logo: simplelineicons.png
-          url: http://simplelineicons.com/
-          description: Simple line Icons pack.
-    - term: 图标设计
+        - title: "聊天 | M365 Copilot"
+          logo: "https://favicon.duckduckgo.com/ip3/m365.cloud.microsoft.ico"
+          url: "https://m365.cloud.microsoft/chat/?auth=2&home=1"
+          description: "聊天 | M365 Copilot"
+        - title: "发布·pwn20wndstuff / Undecimus·GitHub"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/pwn20wndstuff/Undecimus/releases"
+          description: "发布·pwn20wndstuff / Undecimus·GitHub"
+        - title: "autMan帮助文档"
+          logo: "https://favicon.duckduckgo.com/ip3/hdbjlizhe.github.io.ico"
+          url: "https://hdbjlizhe.github.io/fanli/"
+          description: "autMan帮助文档"
+        - title: "cloudflare DNS污染国内无法访问解决办法 - 科技玩家"
+          logo: "https://favicon.duckduckgo.com/ip3/www.kejiwanjia.com.ico"
+          url: "https://www.kejiwanjia.com/jiaocheng/94695.html"
+          description: "cloudflare DNS污染国内无法访问解决办法 - 科技玩家"
+        - title: "【免越狱】IOS第三方软件永久安装方法汇总！绕过证书限制！大部分系 统版本适用！附各种第三方软件分享：Tiktok、多开微信、unc0ver - 科技玩家"
+          logo: "https://favicon.duckduckgo.com/ip3/www.kejiwanjia.com.ico"
+          url: "https://www.kejiwanjia.com/jiaocheng/112423.html"
+          description: "【免越狱】IOS第三方软件永久安装方法汇总！绕过证书限制！大部分系 统版本适用！附各种第三方软件分享：Tiktok、多开微信、unc0ver - 科技玩家"
+        - title: "CasaOS - A simple, easy-to-use, elegant open-source home cloud system"
+          logo: "https://favicon.duckduckgo.com/ip3/www.casaos.io.ico"
+          url: "https://www.casaos.io/"
+          description: "CasaOS - A simple, easy-to-use, elegant open-source home cloud system"
+    - term: 网建
       links:
-        - title: Iconsfeed
-          logo: iconsfeed.png
-          url: http://www.iconsfeed.com/
-          description: iOS icons gallery.
-        - title: iOS Icon Gallery
-          logo: iosicongallery.png
-          url: http://iosicongallery.com/
-          description: Showcasing beautiful icon designs from the iOS App Store.
-        - title: World Vector Logo
-          logo: worldvectorlogo.png
-          url: https://worldvectorlogo.com/
-          description: Brand logos free to download.
-        - title: Instant Logo Search
-          logo: InstantLogoSearch.png
-          url: http://instantlogosearch.com/
-          description: Search & download thousands of logos instantly.
-    - term: 平面素材
+        - title: "Cloudflare | Web Performance & Security"
+          logo: "https://favicon.duckduckgo.com/ip3/dash.cloudflare.com.ico"
+          url: "https://dash.cloudflare.com/login?lang=zh-hans-cn"
+          description: "Cloudflare | Web Performance & Security"
+        - title: "1-2 CSS概念及语法-我要自学网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.51zxw.net.ico"
+          url: "http://www.51zxw.net/show.aspx?id=26170&cid=393"
+          description: "1-2 CSS概念及语法-我要自学网"
+        - title: "开滚动的QQ代码"
+          logo: "https://favicon.duckduckgo.com/ip3/www.lanrentuku.com.ico"
+          url: "http://www.lanrentuku.com/js/kefu-606.html"
+          description: "开滚动的QQ代码"
+        - title: "360网站安全检测 - 在线安全检测，网站漏洞修复，网站后门检测"
+          logo: "https://favicon.duckduckgo.com/ip3/webscan.360.cn.ico"
+          url: "http://webscan.360.cn/"
+          description: "360网站安全检测 - 在线安全检测，网站漏洞修复，网站后门检测"
+        - title: "宝塔linux面板，一键安装LAMP/LNMP/SSL/Tomcat"
+          logo: "https://favicon.duckduckgo.com/ip3/www.bt.cn.ico"
+          url: "http://www.bt.cn/download"
+          description: "宝塔linux面板，一键安装LAMP/LNMP/SSL/Tomcat"
+        - title: "【h5模板|汽车行业|汽车销售|4s服务】H5模板 | 微信活动模板 | 人人秀H5页面制作工具 www.rrxiu.net"
+          logo: "https://favicon.duckduckgo.com/ip3/www.rrxiu.net.ico"
+          url: "https://www.rrxiu.net/store-245.html"
+          description: "【h5模板|汽车行业|汽车销售|4s服务】H5模板 | 微信活动模板 | 人人秀H5页面制作工具 www.rrxiu.net"
+        - title: "虚拟机实例 – 我的谷歌云 – My First Project – Google Cloud Console"
+          logo: "https://favicon.duckduckgo.com/ip3/console.cloud.google.com.ico"
+          url: "https://console.cloud.google.com/compute/instances?onCreate=true&project=pro-landing-246202"
+          description: "虚拟机实例 – 我的谷歌云 – My First Project – Google Cloud Console"
+        - title: "CloudCone CD2 2T/月"
+          logo: "https://favicon.duckduckgo.com/ip3/app.cloudcone.com.ico"
+          url: "https://app.cloudcone.com/cloud"
+          description: "CloudCone CD2 2T/月"
+        - title: "Lucky -14刀一年Web服务"
+          logo: "https://favicon.duckduckgo.com/ip3/185.77.225.20:16601.ico"
+          url: "https://185.77.225.20:16601/#/web"
+          description: "Lucky -14刀一年Web服务"
+        - title: "域名批量查询注册-域名批量扫描-未注册域名批量查询工具-西部数码"
+          logo: "https://favicon.duckduckgo.com/ip3/www.west.cn.ico"
+          url: "https://www.west.cn/web/mi"
+          description: "域名批量查询注册-域名批量扫描-未注册域名批量查询工具-西部数码"
+        - title: "dmit宝塔Linux面板"
+          logo: "https://favicon.duckduckgo.com/ip3/154.17.23.206:18888.ico"
+          url: "https://154.17.23.206:18888/fu5502"
+          description: "dmit宝塔Linux面板"
+        - title: "Atlantic.Net 云服务 - 注册"
+          logo: "https://favicon.duckduckgo.com/ip3/cloud.atlantic.net.ico"
+          url: "https://cloud.atlantic.net/?page=signup&code=5erce12ukctoipkh0i3768sa6r202601241949212738"
+          description: "Atlantic.Net 云服务 - 注册"
+    - term: 软路由/NAS/电视盒子
       links:
-        - title: freepik
-          logo: freepik.png
-          url: https://www.freepik.com/
-          description: More than a million free vectors, PSD, photos and free icons.
-        - title: wallhalla
-          logo: wallhalla.png
-          url: https://wallhalla.com/
-          description: Find awesome high quality wallpapers for desktop and mobile in one place.
-        - title: 365PSD
-          logo: 365PSD.png
-          url: https://365psd.com/
-          description: Free PSD &amp; Graphics, Illustrations.
-        - title: Medialoot
-          logo: Medialoot.png
-          url: https://medialoot.com/
-          description: Free &amp; Premium Design Resources &mdash; Medialoot.
-        - title: 千图网
-          logo: qiantu.png
-          url: http://www.58pic.com/
-          description: 专注免费设计素材下载的网站.
-        - title: 千库网
-          logo: qianku.png
-          url: http://588ku.com/
-          description: 免费 png 图片背景素材下载。
-        - title: 我图网
-          logo: wotu.png
-          url: http://www.ooopic.com/
-          description: 我图网，提供图片素材及模板下载，专注正版设计作品交易。
-        - title: 90 设计
-          logo: 90sheji.png
-          url: http://90sheji.com/
-          description: 电商设计（淘宝美工）千图免费淘宝素材库。
-        - title: 昵图网
-          logo: nipic.png
-          url: http://www.nipic.com/
-          description: 原创素材共享平台。
-        - title: 懒人图库
-          logo: lanrentuku.png
-          url: http://www.lanrentuku.com/
-          description: 懒人图库专注于提供网页素材下载。
-        - title: 素材搜索
-          logo: sousucai.png
-          url: http://so.ui001.com/
-          description: 设计素材搜索聚合。
-        - title: PS 饭团网
-          logo: psefan.png
-          url: http://psefan.com/
-          description: 不一样的设计素材库！让自己的设计与众不同！
-        - title: 素材中国
-          logo: sccnn.png
-          url: http://www.sccnn.com/
-          description: 免费素材共享平台。
-    - term: 字体资源
+        - title: "Releases · MediaBrowser/Emby.Releases"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/MediaBrowser/Emby.Releases/releases/"
+          description: "Releases · MediaBrowser/Emby.Releases"
+        - title: "emby 破解版完全食用方法 - Yukino's 理想乡"
+          logo: "https://favicon.duckduckgo.com/ip3/neko.re.ico"
+          url: "https://neko.re/archives/128.html"
+          description: "emby 破解版完全食用方法 - Yukino's 理想乡"
+        - title: "Jellyfin 刮削加速 - jellyfin-usage-cn"
+          logo: "https://favicon.duckduckgo.com/ip3/nanashi.gitbook.io.ico"
+          url: "https://nanashi.gitbook.io/jellyfin-usage-cn/"
+          description: "Jellyfin 刮削加速 - jellyfin-usage-cn"
+        - title: "SmartTubeNext ——YouTube TV"
+          logo: "https://favicon.duckduckgo.com/ip3/smartyoutubetv.github.io.ico"
+          url: "https://smartyoutubetv.github.io/#comment-3432484129"
+          description: "SmartTubeNext ——YouTube TV"
+        - title: "Plex"
+          logo: "https://favicon.duckduckgo.com/ip3/plex.tv.ico"
+          url: "https://plex.tv/web"
+          description: "Plex"
+        - title: "黑群晖_群晖论坛_群晖DSM迅雷官方远程下载_群晖助手_黑群晖洗白教程 - www.nasyun.com"
+          logo: "https://favicon.duckduckgo.com/ip3/www.nasyun.com.ico"
+          url: "http://www.nasyun.com/forum-71-1.html"
+          description: "黑群晖_群晖论坛_群晖DSM迅雷官方远程下载_群晖助手_黑群晖洗白教程 - www.nasyun.com"
+        - title: "中国最大的NAS论坛,第一NAS垂直门户！ - Powered by Discuz!"
+          logo: "https://favicon.duckduckgo.com/ip3/www.gebi1.com.ico"
+          url: "http://www.gebi1.com/forum-44-1.html"
+          description: "中国最大的NAS论坛,第一NAS垂直门户！ - Powered by Discuz!"
+        - title: "小宝开源插件"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/koolshare/koolshare.github.io"
+          description: "小宝开源插件"
+        - title: "GitHub - 1835588093/ADhosts: 手机电脑去广告 hosts&规则 PC&Android"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/1835588093/ADhosts"
+          description: "GitHub - 1835588093/ADhosts: 手机电脑去广告 hosts&规则 PC&Android"
+        - title: "shadowsocks 梅林固件SSR"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm"
+          description: "shadowsocks 梅林固件SSR"
+    - term: 素材
       links:
-        - title: Google Font
-          url: https://fonts.google.com/
-          logo: googlefont.png
-          description: Making the web more beautiful, fast, and open through great typography.
-        - title: Typekit
-          url: https://typekit.com/
-          logo: typekit.png
-          description: Quality fonts from the world’s best foundries.
-        - title: 方正字库
-          url: http://www.foundertype.com/
-          logo: Fondertype.png
-          description: 方正字库官方网站。
-        - title: 字体传奇网
-          url: http://ziticq.com/
-          logo: ziticq.png
-          description: 中国首个字体品牌设计师交流网。
-        - title: 私藏字体
-          url: http://sicangziti.com/
-          logo: sicangziti.png
-          description: 优质字体免费下载站。
-        - title: Fontsquirrel
-          url: https://www.fontsquirrel.com/
-          logo: fontsquirrel.png
-          description: FREE fonts for graphic designers.
-        - title: Urban Fonts
-          url: https://www.urbanfonts.com/
-          logo: UrbanFonts.png
-          description: Download Free Fonts and Free Dingbats.
-        - title: Lost Type
-          url: http://www.losttype.com/
-          logo: losttype.png
-          description: Lost Type is a Collaborative Digital Type Foundry.
-        - title: FONTS2U
-          url: https://fonts2u.com/
-          logo: fonts2u.png
-          description: Download free fonts for Windows and Macintosh.
-        - title: Fontex
-          url: http://www.fontex.org/
-          logo: fontex.png
-          description: Free Fonts to Download + Premium Typefaces.
-        - title: FontM
-          url: http://fontm.com/
-          logo: FontM.png
-          description: Free Fonts
-        - title: My Fonts
-          url: http://www.myfonts.com/
-          logo: MyFonts.png
-          description: Fonts for Print, Products & Screens.
-        - title: Da Font
-          url: https://www.dafont.com/
-          logo: dafont.png
-          description: Archive of freely downloadable fonts.
-        - title: OnlineWebFonts
-          url: https://www.onlinewebfonts.com/
-          logo: OnlineWebFonts.png
-          description: WEB Free Fonts for Windows and Mac / Font free Download.
-        - title: Abstract Fonts
-          url: http://www.abstractfonts.com/
-          logo: abstractfonts.png
-          description: Abstract Fonts (13,866 free fonts).      
-      
-
-- taxonomy: 开发设计
-  icon: fas fa-tools fa-lg
-  list: 
-    - term: 图形创意
+        - title: "光厂(VJ师网)_正版视频素材下载"
+          logo: "https://favicon.duckduckgo.com/ip3/www.vjshi.com.ico"
+          url: "https://www.vjshi.com/"
+          description: "光厂(VJ师网)_正版视频素材下载"
+        - title: "psd素材_懒人图库"
+          logo: "https://favicon.duckduckgo.com/ip3/www.lanrentuku.com.ico"
+          url: "http://www.lanrentuku.com/psd/p3.html"
+          description: "psd素材_懒人图库"
+        - title: "网页图片特效_图片切换效果_图片切换特效_网页特效代码_网页特效代码大全_网页图片特效_网页特效代码集锦_图片切换效果_芯晴网页特效_让你的网页炫起来~~！网页特效代码集锦_网页特效代码"
+          logo: "https://favicon.duckduckgo.com/ip3/www.csrcode.cn.ico"
+          url: "http://www.csrcode.cn/html/txdm/txtx/index_3.htm"
+          description: "网页图片特效_图片切换效果_图片切换特效_网页特效代码_网页特效代码大全_网页图片特效_网页特效代码集锦_图片切换效果_芯晴网页特效_让你的网页炫起来~~！网页特效代码集锦_网页特效代码"
+        - title: "勇哥代码站 - 网页特效代码|网页制作特效|js特效代码大全"
+          logo: "https://favicon.duckduckgo.com/ip3/xu123.lingd.net.ico"
+          url: "http://xu123.lingd.net/"
+          description: "勇哥代码站 - 网页特效代码|网页制作特效|js特效代码大全"
+        - title: "中文字库__西西软件站"
+          logo: "https://favicon.duckduckgo.com/ip3/www.cr173.com.ico"
+          url: "http://www.cr173.com/fontlist/s_131_1.html"
+          description: "中文字库__西西软件站"
+        - title: "CorelDraw X6【CDR X6】官方简体中文版【32/64位】【64位WIN7亲测可用】 - 设计软件 - 思缘论坛 平面设计,Photoshop,PSD,矢量,模板,打造最好的素材和设计论坛"
+          logo: "https://favicon.duckduckgo.com/ip3/www.missyuan.com.ico"
+          url: "http://www.missyuan.com/thread-717286-1-1.html"
+          description: "CorelDraw X6【CDR X6】官方简体中文版【32/64位】【64位WIN7亲测可用】 - 设计软件 - 思缘论坛 平面设计,Photoshop,PSD,矢量,模板,打造最好的素材和设计论坛"
+        - title: "平面图标-FLAT ICON DESIGN -フラットアイコンデザイン- | フラットデザインに最適！WEBサイトやDTPですぐ使える商用利用可能なフラットアイコン素材がフリー（無料）ダウンロードできるサイト『FLAT ICON DESIGN』"
+          logo: "https://favicon.duckduckgo.com/ip3/flat-icon-design.com.ico"
+          url: "http://flat-icon-design.com/"
+          description: "平面图标-FLAT ICON DESIGN -フラットアイコンデザイン- | フラットデザインに最適！WEBサイトやDTPですぐ使える商用利用可能なフラットアイコン素材がフリー（無料）ダウンロードできるサイト『FLAT ICON DESIGN』"
+        - title: "12 个免费视频素材of the Best Free Stock Video Websites for Great Footage"
+          logo: "https://favicon.duckduckgo.com/ip3/blog.hootsuite.com.ico"
+          url: "https://blog.hootsuite.com/free-stock-videos-sites/"
+          description: "12 个免费视频素材of the Best Free Stock Video Websites for Great Footage"
+        - title: "免费库存视频素材高清 4K 下载免版税剪辑"
+          logo: "https://favicon.duckduckgo.com/ip3/www.videvo.net.ico"
+          url: "https://www.videvo.net/"
+          description: "免费库存视频素材高清 4K 下载免版税剪辑"
+        - title: "api接口"
+          logo: "https://favicon.duckduckgo.com/ip3/api.suyanw.cn.ico"
+          url: "https://api.suyanw.cn/"
+          description: "api接口"
+        - title: "Release MobaXterm_Portable_v24.3_chs · RipplePiam/MobaXterm-Chinese-Simplified"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/RipplePiam/MobaXterm-Chinese-Simplified/releases/tag/v0.24.3.10"
+          description: "Release MobaXterm_Portable_v24.3_chs · RipplePiam/MobaXterm-Chinese-Simplified"
+    - term: 黑苹果
       links:
-        - title: photoshop
-          url: https://www.adobe.com/cn/products/photoshop.html
-          logo: photoshop.png
-          description: Photoshop不需要解释
-        - title: Affinity Designer
-          url: https://affinity.serif.com/
-          logo: AffinityDesigner.png
-          description: 专业创意软件
-        - title: Illustrator
-          url: https://www.adobe.com/cn/products/illustrator/
-          logo: Illustrator.png
-          description: 矢量图形和插图。
-        - title: indesign
-          url: http://www.adobe.com/cn/products/indesign.html
-          logo: INDESIGN .png
-          description: 页面设计、布局和出版。
-        - title: cinema-4d
-          url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: cinema4d.png
-          description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
-        - title: 3ds-max
-          url: https://www.autodesk.com/products/3ds-max/overview
-          logo: 3dsmax.png
-          description: 3D modeling, animation, and rendering software
-        - title: Blender
-          url: https://www.blender.org/
-          logo: blender.png
-          description: Blender is the free and open source 3D creation suite.
-    - term: 界面设计
+        - title: "Mac下载排行榜-Mac软件排行榜-热门Mac软件-Mac软件推荐 - Mac下载 -Mac下载"
+          logo: "https://favicon.duckduckgo.com/ip3/www.macz.com.ico"
+          url: "https://www.macz.com/rank/soft.html"
+          description: "Mac下载排行榜-Mac软件排行榜-热门Mac软件-Mac软件推荐 - Mac下载 -Mac下载"
+        - title: "clover引导Windows和Mac OS双系统的设置方法教程--台州IT网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.tzit.net.ico"
+          url: "http://www.tzit.net/htmlitjs/2019-03-23/3346.html"
+          description: "clover引导Windows和Mac OS双系统的设置方法教程--台州IT网"
+        - title: "GitHub - tsingui/clover-efi: 分享整理一些黑苹果Clover驱动配置文件"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/tsingui/clover-efi"
+          description: "GitHub - tsingui/clover-efi: 分享整理一些黑苹果Clover驱动配置文件"
+        - title: "dell-optiplex-7080mff-opencore: OpenCore EFI for Dell Optiplex 7080mff"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/jerryhan77/dell-optiplex-7080mff-opencore"
+          description: "dell-optiplex-7080mff-opencore: OpenCore EFI for Dell Optiplex 7080mff"
+        - title: "mirrors / daliansky / xiaoxinpro-13-hackintosh · GitCode"
+          logo: "https://favicon.duckduckgo.com/ip3/gitcode.net.ico"
+          url: "https://gitcode.net/mirrors/daliansky/xiaoxinpro-13-hackintosh?utm_source=csdn_github_accelerator"
+          description: "mirrors / daliansky / xiaoxinpro-13-hackintosh · GitCode"
+        - title: "GitHub - daliansky/XiaoXinPro-13-hackintosh at 9ff032cfce644da032a37c0d2b82889e2fb23731"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/daliansky/XiaoXinPro-13-hackintosh/tree/9ff032cfce644da032a37c0d2b82889e2fb23731"
+          description: "GitHub - daliansky/XiaoXinPro-13-hackintosh at 9ff032cfce644da032a37c0d2b82889e2fb23731"
+        - title: "one-key-hidpi/README-zh.md at master · xzhih/one-key-hidpi · GitHub"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/xzhih/one-key-hidpi/blob/master/README-zh.md"
+          description: "one-key-hidpi/README-zh.md at master · xzhih/one-key-hidpi · GitHub"
+        - title: "EFI/Document/OC-引导多系统@OC-xlivans.md · master · mirrors / daliansky / xiaoxinpro-13-hackintosh · GitCode"
+          logo: "https://favicon.duckduckgo.com/ip3/gitcode.net.ico"
+          url: "https://gitcode.net/mirrors/daliansky/xiaoxinpro-13-hackintosh/-/blob/master/EFI/Document/OC-%E5%BC%95%E5%AF%BC%E5%A4%9A%E7%B3%BB%E7%BB%9F@OC-xlivans.md"
+          description: "EFI/Document/OC-引导多系统@OC-xlivans.md · master · mirrors / daliansky / xiaoxinpro-13-hackintosh · GitCode"
+        - title: "GitHub - daliansky/XiaoXinPro-13-hackintosh: Lenovo XiaoXin Pro 13 2019 Hackintosh"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/daliansky/XiaoXinPro-13-hackintosh"
+          description: "GitHub - daliansky/XiaoXinPro-13-hackintosh: Lenovo XiaoXin Pro 13 2019 Hackintosh"
+        - title: "Intel网卡 · daliansky/XiaoXinPro-13-hackintosh Wiki · GitHub"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/daliansky/XiaoXinPro-13-hackintosh/wiki/Intel%E7%BD%91%E5%8D%A1"
+          description: "Intel网卡 · daliansky/XiaoXinPro-13-hackintosh Wiki · GitHub"
+        - title: "GitHub - hackintosh-club/MSI-B760M-BOMBER-WIFI-OpenCore: MSI B760M BOMBER Hackintosh OpenCore MacOS 12 Monertey & 13 Ventura & 14 Sonoma"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/hackintosh-club/MSI-B760M-BOMBER-WIFI-OpenCore"
+          description: "GitHub - hackintosh-club/MSI-B760M-BOMBER-WIFI-OpenCore: MSI B760M BOMBER Hackintosh OpenCore MacOS 12 Monertey & 13 Ventura & 14 Sonoma"
+    - term: 资源
       links:
-        - title: Sketch
-          url: https://sketchapp.com/
-          logo: sketchapp.png
-          description: The digital design toolkit
-        - title: Adobe XD
-          url: http://www.adobe.com/products/xd.html
-          logo: ADOBEXDCC.png
-          description: Introducing Adobe XD. Design. Prototype. Experience.
-        - title: invisionapp
-          url: https://www.invisionapp.com/
-          logo: invisionapp.png
-          description: Powerful design prototyping tools
-        - title: marvelapp
-          url: https://marvelapp.com/
-          logo: marvelapp.png
-          description: Simple design, prototyping and collaboration
-        - title: Muse CC
-          url: https://creative.adobe.com/zh-cn/products/download/muse
-          logo: MuseCC.png
-          description: 无需利用编码即可进行网站设计。
-        - title: figma
-          url: https://www.figma.com/
-          logo: figma.png
-          description: Design, prototype, and gather feedback all in one place with Figma.
-    - term: 在线配色
+        - title: "『精品软件区』"
+          logo: "https://favicon.duckduckgo.com/ip3/www.52pojie.cn.ico"
+          url: "https://www.52pojie.cn/forum-16-1.html"
+          description: "『精品软件区』"
+        - title: "精易视频室 - 海量易语言在线视频教程精易论坛"
+          logo: "https://favicon.duckduckgo.com/ip3/bbs.125.la.ico"
+          url: "http://bbs.125.la/shipin-shipin.html?sid=15"
+          description: "精易视频室 - 海量易语言在线视频教程精易论坛"
+        - title: "短信群发充值账号,在线充值短信,武汉广逸短信平台充值"
+          logo: "https://favicon.duckduckgo.com/ip3/www.sogoto.com.ico"
+          url: "http://www.sogoto.com/html/110-1.html"
+          description: "短信群发充值账号,在线充值短信,武汉广逸短信平台充值"
+        - title: "MacType - 美化 Windows 字体的神器！(让字体渲染显示效果比苹果电脑更清晰炫丽) | 异次元软件下载"
+          logo: "https://favicon.duckduckgo.com/ip3/www.iplaysoft.com.ico"
+          url: "http://www.iplaysoft.com/mactype.html"
+          description: "MacType - 美化 Windows 字体的神器！(让字体渲染显示效果比苹果电脑更清晰炫丽) | 异次元软件下载"
+        - title: "haneWIN NFS Server(优秀NFS服务器)V1.2.16官方版 - 雨林木风u盘系统_u盘启动盘制作工具官网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.ylmfu.com.ico"
+          url: "http://www.ylmfu.com/soft/html/6434.html"
+          description: "haneWIN NFS Server(优秀NFS服务器)V1.2.16官方版 - 雨林木风u盘系统_u盘启动盘制作工具官网"
+        - title: "NAS / SSD / HDD - Chiphell - 分享与交流用户体验的最佳平台"
+          logo: "https://favicon.duckduckgo.com/ip3/www.chiphell.com.ico"
+          url: "https://www.chiphell.com/forum-103-1.html"
+          description: "NAS / SSD / HDD - Chiphell - 分享与交流用户体验的最佳平台"
+        - title: "XBMC_KODI_XBMC中文插件_XBMC影视聚合_XBMC插件开发教程_中文官网论坛-高清范"
+          logo: "https://favicon.duckduckgo.com/ip3/www.hdpfans.com.ico"
+          url: "http://www.hdpfans.com/forum-801-1.html"
+          description: "XBMC_KODI_XBMC中文插件_XBMC影视聚合_XBMC插件开发教程_中文官网论坛-高清范"
+        - title: "Clash For Windows v0.18.2 客户端及汉化补丁 | 六音软件"
+          logo: "https://favicon.duckduckgo.com/ip3/www.6yit.com.ico"
+          url: "https://www.6yit.com/2651.html"
+          description: "Clash For Windows v0.18.2 客户端及汉化补丁 | 六音软件"
+        - title: "4K Download | 免费且有用的个人电脑、macOS 和 Linux 应用程序"
+          logo: "https://favicon.duckduckgo.com/ip3/www.4kdownload.com.ico"
+          url: "https://www.4kdownload.com/zh-cn/"
+          description: "4K Download | 免费且有用的个人电脑、macOS 和 Linux 应用程序"
+        - title: "贝贝BiliBili - B站视频下载"
+          logo: "https://favicon.duckduckgo.com/ip3/xbeibeix.com.ico"
+          url: "https://xbeibeix.com/api/bilibili/"
+          description: "贝贝BiliBili - B站视频下载"
+        - title: "دانلود Film Impact Premium Video Effects 5.2.2 پلاگین پریمیر"
+          logo: "https://favicon.duckduckgo.com/ip3/soft98.ir.ico"
+          url: "https://soft98.ir/graphic/video-plugin/18095-film-impact-video-effects.html"
+          description: "دانلود Film Impact Premium Video Effects 5.2.2 پلاگین پریمیر"
+        - title: "VST 乐器：合成器、效果器、预设、虚拟工作站 (DAW)、音乐网络出版物、图形和网页设计、音乐、软件、传单"
+          logo: "https://favicon.duckduckgo.com/ip3/positiverecords.ru.ico"
+          url: "https://positiverecords.ru/index.html"
+          description: "VST 乐器：合成器、效果器、预设、虚拟工作站 (DAW)、音乐网络出版物、图形和网页设计、音乐、软件、传单"
+    - term: 直播源
       links:
-        - title: khroma
-          url: http://khroma.co/generator/
-          logo: khroma.png
-          description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
-        - title: uigradients
-          url: https://uigradients.com
-          logo: uigradients.png
-          description: Beautiful colored gradients.
-        - title: gradients
-          url: http://gradients.io/
-          logo: gradients.png
-          description: Curated gradients for designers and developers.
-        - title: Coolest
-          url: https://webkul.github.io/coolhue/
-          logo: Coolest.png
-          description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
-        - title: webgradients
-          url: https://webgradients.com/
-          logo: webgradients.png
-          description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
-        - title: grabient
-          url: https://www.grabient.com/
-          logo: grabient.png
-          description: 2017 Grabient by unfold.
-        - title: thedayscolor
-          url: http://www.thedayscolor.com/
-          logo: thedayscolor.png
-          description: The daily color digest
-        - title: flatuicolors
-          url: http://flatuicolors.com/
-          logo: flatuicolors.png
-          description: Copy Paste Color Pallette from Flat UI Theme.
-        - title: coolors
-          url: https://coolors.co/
-          logo: coolors.png
-          description: The super fast color schemes generator!
-        - title: colorhunt
-          url: http://www.colorhunt.co/
-          logo: colorhunt.png
-          description: Beautiful Color Palettes.
-        - title: Adobe Color CC
-          url: https://color.adobe.com/zh/create/color-wheel
-          logo: AdobeColorCC.png
-          description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
-        - title: flatuicolorpicker
-          url: http://www.flatuicolorpicker.com/
-          logo: flatuicolorpicker.png
-          description: Best Flat Colors For UI Design.
-        - title: trianglify
-          url: http://qrohlf.com/trianglify-generator/
-          logo: trianglify.png
-          description: Trianglify Generator.
-        - title: klart
-          url: https://klart.co/colors/
-          logo: klart.png
-          description: Beautiful colors and designs to your inbox every week.
-        - title: vanschneider
-          url: http://www.vanschneider.com/colors
-          logo: vanschneider.png
-          description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
-    - term: 在线工具
+        - title: "IPTV抓包数据解析工具 v3.1"
+          logo: "https://favicon.duckduckgo.com/ip3/gyssi.link.ico"
+          url: "https://gyssi.link/iptv/888.html"
+          description: "IPTV抓包数据解析工具 v3.1"
+    - term: 多媒体
       links:
-        - title: tinypng
-          url: https://tinypng.com/
-          logo: tinypng.png
-          description: Optimize your images with a perfect balance in quality and file size.
-        - title: goqr
-          url: http://goqr.me/
-          logo: goqr.png
-          description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
-        - title: ezgif
-          url: https://ezgif.com
-          logo: ezgif.png
-          description: simple online GIF maker and toolset for basic animated GIF editing.
-        - title: Android 9 patch
-          url: http://inloop.github.io/shadow4android/
-          logo: Android9patch.png
-          description: Android 9-patch shadow generator fully customizable shadows.
-        - title: screen sizes
-          url: http://screensiz.es/
-          logo: screensizes.png
-          description: Viewport Sizes and Pixel Densities for Popular Devices.
-        - title: svgomg
-          url: https://jakearchibald.github.io/svgomg/
-          logo: svgomg.png
-          description: SVG 在线压缩平台。
-        - title: 稿定抠图
-          url: https://www.gaoding.com
-          logo: gaoding.png
-          description: 免费在线抠图软件,图片快速换背景-抠白底图。
-        
-    - term: 谷歌插件
+        - title: "急诊室-纪实台-央视网_央视网(cctv.com)"
+          logo: "https://favicon.duckduckgo.com/ip3/jishi.cntv.cn.ico"
+          url: "http://jishi.cntv.cn/special/jizhenshi/index.shtml"
+          description: "急诊室-纪实台-央视网_央视网(cctv.com)"
+        - title: "主页·tianlula"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/tianlula/xindz002/wiki"
+          description: "主页·tianlula"
+        - title: "只身在荒岛 下载 - 奥视纪录片天地 - jlpcn.net"
+          logo: "https://favicon.duckduckgo.com/ip3/www.jlpcn.net.ico"
+          url: "http://www.jlpcn.net/vodhtml/1016.html"
+          description: "只身在荒岛 下载 - 奥视纪录片天地 - jlpcn.net"
+        - title: "钢琴歌曲 , Piano - 一听音乐网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.1ting.com.ico"
+          url: "http://www.1ting.com/genre/g131p0.html"
+          description: "钢琴歌曲 , Piano - 一听音乐网"
+        - title: "智能YouTube电视"
+          logo: "https://favicon.duckduckgo.com/ip3/smartyoutubetv.github.io.ico"
+          url: "https://smartyoutubetv.github.io/"
+          description: "智能YouTube电视"
+        - title: "api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=131186344"
+          logo: "https://favicon.duckduckgo.com/ip3/api.xiaoheihe.cn.ico"
+          url: "https://api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=131186344"
+          description: "api.xiaoheihe.cn/v3/bbs/app/api/web/share?link_id=131186344"
+    - term: 工具
       links:
-        - title: wappalyzer
-          url: https://www.wappalyzer.com/
-          logo: wappalyzer.png
-          description: Identify technology on websites.
-        - title: Panda
-          url: http://usepanda.com/
-          logo: usepanda.png
-          description: A smart news reader built for productivity.
-        - title: sizzy
-          url: https://sizzy.co/
-          logo: sizzy.png
-          description: A tool for developing responsive websites crazy-fast.
-        - title: csspeeper
-          url: https://csspeeper.com/
-          logo: csspeeper.png
-          description: Smart CSS viewer tailored for Designers.
-        - title: insight
-          url: http://insight.io/
-          logo: insight.png
-          description: IDE-like code search and navigation, on the cloud.
-        - title: mustsee
-          url: http://mustsee.earth/
-          logo: mustsee.png
-          description: Discover the world's most beautiful places at every opened tab.
-
-
-- taxonomy: 资讯学习
-  icon: fas fa-pencil-alt fa-lg
-  list: 
-    - term: 资讯书籍
+        - title: "YouTube 和视频网络扩展] 丰富您的体验和选择！🧰180 多个选项和巧妙的功能📌设置+忘记📌最长久的（但单独使用却很少见且很难。请帮助/加入🧩我们👨‍👩‍👧‍👧）..⋮{播放|内容发现|播放器|额外按钮|干扰|相关视频|短片|广告|质量|编解码器|全标签|全屏}"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/code-charity/youtube"
+          description: "YouTube 和视频网络扩展] 丰富您的体验和选择！🧰180 多个选项和巧妙的功能📌设置+忘记📌最长久的（但单独使用却很少见且很难。请帮助/加入🧩我们👨‍👩‍👧‍👧）..⋮{播放|内容发现|播放器|额外按钮|干扰|相关视频|短片|广告|质量|编解码器|全标签|全屏}"
+        - title: "从 YouTube 下载视频和播放列表"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/Tyrrrz/YoutubeDownloader"
+          description: "从 YouTube 下载视频和播放列表"
+        - title: "原版Shadowsocks - 一个安全的Socks5代理"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/shadowsocks"
+          description: "原版Shadowsocks - 一个安全的Socks5代理"
+        - title: "安卓历史版本、shadowsocks/"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/shadowsocks/shadowsocks-android/releases"
+          description: "安卓历史版本、shadowsocks/"
+        - title: "GitHub - 科学发现/welcome  ssr"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/Kejifaxian/welcome"
+          description: "GitHub - 科学发现/welcome  ssr"
+        - title: "Releases · Qv2ray/Qv2ray · GitHub"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/Qv2ray/Qv2ray/releases"
+          description: "Releases · Qv2ray/Qv2ray · GitHub"
+        - title: "sirpdboy X86_openwrt/README.md at master · sirpdboy/openwrt · GitHub"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/sirpdboy/openwrt/blob/master/README.md#%E5%9B%BA%E4%BB%B6%E4%B8%8B%E8%BD%BD"
+          description: "sirpdboy X86_openwrt/README.md at master · sirpdboy/openwrt · GitHub"
+        - title: "骷髅 骨头Releases · DHDAXCW/OpenWRT_x86_x64 · GitHub"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/DHDAXCW/OpenWRT_x86_x64/releases"
+          description: "骷髅 骨头Releases · DHDAXCW/OpenWRT_x86_x64 · GitHub"
+        - title: "GitHub - KTgo/iStoreOS"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/KTgo/iStoreOS"
+          description: "GitHub - KTgo/iStoreOS"
+        - title: "GitHub - linkease/istore-packages: 缓存一些软件包，以避免一些插件的未知的更新改动，带给固件的不稳定性。"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/linkease/istore-packages"
+          description: "GitHub - linkease/istore-packages: 缓存一些软件包，以避免一些插件的未知的更新改动，带给固件的不稳定性。"
+        - title: "Clash For Windows 客户端中文汉化教程 - 彧繎博客"
+          logo: "https://favicon.duckduckgo.com/ip3/opssh.cn.ico"
+          url: "https://opssh.cn/fenxiang/204.html"
+          description: "Clash For Windows 客户端中文汉化教程 - 彧繎博客"
+        - title: "GitHub - bleach1991/lede  这个openw X86好用"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/bleach1991/lede"
+          description: "GitHub - bleach1991/lede  这个openw X86好用"
+        - title: "黑洞加速防失联发布页 - 黑洞加速"
+          logo: "https://favicon.duckduckgo.com/ip3/x-go.gitbook.io.ico"
+          url: "https://x-go.gitbook.io/hdong"
+          description: "黑洞加速防失联发布页 - 黑洞加速"
+        - title: "Releases · zzzgydi/Clash Verge"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/zzzgydi/clash-verge/releases"
+          description: "Releases · zzzgydi/Clash Verge"
+        - title: "发布 Hitomi Downloader v3.7h · KurtBestor/Hitomi-Downloader · GitHub"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/KurtBestor/Hitomi-Downloader/releases/tag/v3.7h"
+          description: "发布 Hitomi Downloader v3.7h · KurtBestor/Hitomi-Downloader · GitHub"
+        - title: "GitHub - BlueSkyXN/AdGuardHomeRules: 高达百万级规则！由我原创&整理的AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/BlueSkyXN/AdGuardHomeRules"
+          description: "GitHub - BlueSkyXN/AdGuardHomeRules: 高达百万级规则！由我原创&整理的AdGuardHomeRules ADH广告拦截过滤规则！打造全网最强最全规则集"
+        - title: "Releases · MatsuriDayo/nekoray Windows版 好用多协议"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/MatsuriDayo/nekoray/releases/"
+          description: "Releases · MatsuriDayo/nekoray Windows版 好用多协议"
+        - title: "原版Shadowsocks - 一个安全的Socks5代理"
+          logo: "https://favicon.duckduckgo.com/ip3/shadowsocks.org.ico"
+          url: "http://shadowsocks.org/en/index.html"
+          description: "原版Shadowsocks - 一个安全的Socks5代理"
+        - title: "黑洞Cloud_地址发布页"
+          logo: "https://favicon.duckduckgo.com/ip3/a.hdyun.icu.ico"
+          url: "https://a.hdyun.icu/"
+          description: "黑洞Cloud_地址发布页"
+        - title: "KaringX/karing: Simple & Powerful proxy utility, Support routing rules for clash/sing-box"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/KaringX/karing"
+          description: "KaringX/karing: Simple & Powerful proxy utility, Support routing rules for clash/sing-box"
+    - term: GFW墙
       links:
-        - title: 微信读书
-          url: https://weread.qq.com/
-          logo: 微信读书.jpg
-          description: 微信读书电脑版。
-        - title: 书栈网
-          url: https://www.bookstack.cn/
-          logo: 书栈网.jpg
-          description: IT 互联网开源编程书籍免费阅读与下载。
-    - term: 博客论坛
+        - title: "OpenVZ 平台 Google BBR 一键安装脚本 | 扩软博客"
+          logo: "https://favicon.duckduckgo.com/ip3/blog.kuoruan.com.ico"
+          url: "https://blog.kuoruan.com/116.html"
+          description: "OpenVZ 平台 Google BBR 一键安装脚本 | 扩软博客"
+        - title: "PieCloud"
+          logo: "https://favicon.duckduckgo.com/ip3/speedpie.net.ico"
+          url: "https://speedpie.net/user/node"
+          description: "PieCloud"
+        - title: "immortalwrt/immortalwrt：针对中国大陆用户的开源OpenWrt变体。"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/immortalwrt/immortalwrt"
+          description: "immortalwrt/immortalwrt：针对中国大陆用户的开源OpenWrt变体。"
+        - title: "zashboard |▶【代理】◀251"
+          logo: "https://favicon.duckduckgo.com/ip3/tgg.zyweb.top:8443.ico"
+          url: "https://tgg.zyweb.top:8443/ui/zashboard/#/proxies"
+          description: "zashboard |▶【代理】◀251"
+        - title: "zashboard | ▶【代理】◀253"
+          logo: "https://favicon.duckduckgo.com/ip3/mb.zyweb.top:8443.ico"
+          url: "https://mb.zyweb.top:8443/ui/?hostname=mb.zyweb.top&port=8443&secret=fugang520123#/proxies"
+          description: "zashboard | ▶【代理】◀253"
+        - title: "ServerStatus US-CD2"
+          logo: "https://favicon.duckduckgo.com/ip3/185.77.225.20:8080.ico"
+          url: "http://185.77.225.20:8080/"
+          description: "ServerStatus US-CD2"
+        - title: "洛杉矶-DC2/2T=宝塔Linux面板"
+          logo: "https://favicon.duckduckgo.com/ip3/185.77.225.20:16204.ico"
+          url: "https://185.77.225.20:16204/d3c4fe24"
+          description: "洛杉矶-DC2/2T=宝塔Linux面板"
+        - title: "Sub Store 订阅地址"
+          logo: "https://favicon.duckduckgo.com/ip3/sub.ncn.qzz.io:8443.ico"
+          url: "https://sub.ncn.qzz.io:8443/subs?api=https://sub.ncn.qzz.io:8443/T3B9dgzBzdRbBF8Acfan"
+          description: "Sub Store 订阅地址"
+    - term: 杂项
       links:
-        - title: Inoreader
-          url: https://www.inoreader.com/
-          logo: inoreader.jpg
-          description: 重新掌控你的新闻订阅源。
-        - title: Hacker News
-          url: https://news.ycombinator.com/
-          logo: hacker-news.jpg
-          description: 一家关于计算机黑客和创业公司的社会化新闻网站。
-        - title: 经管之家
-          url: https://bbs.pinggu.org/
-          logo: 经管之家.jpg
-          description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
-        - title: 阮一峰的网络日志
-          url: http://www.ruanyifeng.com/blog/
-          logo: 阮一峰.png
-          description: 阮一峰，科技爱好者周刊。
-        - title: 酷壳
-          url: https://www.coolshell.cn/
-          logo: ''
-          description: 酷 壳 – CoolShell。
-    - term: 设计规范
+        - title: "数码之家－最具人气的拆机DIY社区"
+          logo: "https://favicon.duckduckgo.com/ip3/bbs.mydigit.cn.ico"
+          url: "http://bbs.mydigit.cn/index.php?m=bbs"
+          description: "数码之家－最具人气的拆机DIY社区"
+        - title: "GitHub - DDS-Derek/xiaoya-alist: 小雅Alist的相关周边"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/DDS-Derek/xiaoya-alist"
+          description: "GitHub - DDS-Derek/xiaoya-alist: 小雅Alist的相关周边"
+        - title: "mall.hb.189.cn/offermallsale/getBroadBandCityHB.shtml"
+          logo: "https://favicon.duckduckgo.com/ip3/mall.hb.189.cn.ico"
+          url: "http://mall.hb.189.cn/offermallsale/getBroadBandCityHB.shtml"
+          description: "mall.hb.189.cn/offermallsale/getBroadBandCityHB.shtml"
+    - term: 娱乐
       links:
-        - title: Design Guidelines
-          url: http://designguidelines.co/
-          logo: designguidelines.png
-          description: Design Guidelines &mdash; The way products are built.
-        - title: Awesome design systems
-          url: https://github.com/alexpate/awesome-design-systems
-          logo: awesome_design_systems.png
-          description:  A collection of awesome design systems.
-        - title: Material Design
-          url: https://material.io/guidelines/
-          logo: Material_Design.png
-          description: Introduction - Material Design.
-        - title: Human Interface Guidelines
-          url: https://developer.apple.com/ios/human-interface-guidelines
-          logo: human_interface_guidelines.png
-          description: Human Interface Guidelines iOS.
-        - title: Photoshop Etiquette
-          url: http://viggoz.com/photoshopetiquette/
-          logo: photoshopetiquette.png
-          description: PS礼仪-WEB设计指南。
-    - term: 视频教程
+        - title: "[6.12]-【右手出品】Xbox360 自制资源&教程汇总帖(爆发) - XBOX360软硬技术区 - A9VG电玩部落论坛"
+          logo: "https://favicon.duckduckgo.com/ip3/wap.a9vg.com.ico"
+          url: "http://wap.a9vg.com/thread-1421973-1-1.html"
+          description: "[6.12]-【右手出品】Xbox360 自制资源&教程汇总帖(爆发) - XBOX360软硬技术区 - A9VG电玩部落论坛"
+        - title: "XBOX360安装quickboot详细流程教程 _k73电玩之家"
+          logo: "https://favicon.duckduckgo.com/ip3/www.k73.com.ico"
+          url: "http://www.k73.com/3ds/13008.html"
+          description: "XBOX360安装quickboot详细流程教程 _k73电玩之家"
+        - title: "游侠网所有XBOX360下载索引(15年12月12更新) 3618款游戏 - 游侠TV游戏资源下载区 - 游侠NETSHOW论坛 - Powered by Discuz!"
+          logo: "https://favicon.duckduckgo.com/ip3/game.ali213.net.ico"
+          url: "http://game.ali213.net/thread-4870118-1-1.html"
+          description: "游侠网所有XBOX360下载索引(15年12月12更新) 3618款游戏 - 游侠TV游戏资源下载区 - 游侠NETSHOW论坛 - Powered by Discuz!"
+        - title: "【11.21.13】《暗黑破坏神3（Diablo 3 ）》[GOD][简体中文][4.7G][3DM轩辕汉化组内核汉化 基于TU3制作 已重传] - XBOX360/XBOXONE新作发布区 - 3DMGAME论坛 - Powered by Discuz!"
+          logo: "https://favicon.duckduckgo.com/ip3/bbs.3dmgame.com.ico"
+          url: "http://bbs.3dmgame.com/thread-4135574-1-1.html"
+          description: "【11.21.13】《暗黑破坏神3（Diablo 3 ）》[GOD][简体中文][4.7G][3DM轩辕汉化组内核汉化 基于TU3制作 已重传] - XBOX360/XBOXONE新作发布区 - 3DMGAME论坛 - Powered by Discuz!"
+        - title: "Xbox360之家 Xbox360游戏 Xbox360教程 Xbox360 - 电玩网 www.emu999.net"
+          logo: "https://favicon.duckduckgo.com/ip3/www.emu999.net.ico"
+          url: "http://www.emu999.net/XBOX360/index.html"
+          description: "Xbox360之家 Xbox360游戏 Xbox360教程 Xbox360 - 电玩网 www.emu999.net"
+        - title: "【尘埃JY】《古墓丽影：崛起》中文实况（简体中文+普通话配音+实况攻略+非速攻）【完结】内含多语言对比视频 - 《古墓丽影：崛起》 - 3DMGAME论坛 - Powered by Discuz!"
+          logo: "https://favicon.duckduckgo.com/ip3/bbs.3dmgame.com.ico"
+          url: "http://bbs.3dmgame.com/thread-4968384-1-1.html"
+          description: "【尘埃JY】《古墓丽影：崛起》中文实况（简体中文+普通话配音+实况攻略+非速攻）【完结】内含多语言对比视频 - 《古墓丽影：崛起》 - 3DMGAME论坛 - Powered by Discuz!"
+        - title: "英雄列表-英雄介绍-王者荣耀官方网站-腾讯游戏"
+          logo: "https://favicon.duckduckgo.com/ip3/pvp.qq.com.ico"
+          url: "http://pvp.qq.com/web201605/herolist.shtml"
+          description: "英雄列表-英雄介绍-王者荣耀官方网站-腾讯游戏"
+        - title: "装备介绍-王者荣耀官方网站-腾讯游戏"
+          logo: "https://favicon.duckduckgo.com/ip3/pvp.qq.com.ico"
+          url: "https://pvp.qq.com/web201605/item.shtml"
+          description: "装备介绍-王者荣耀官方网站-腾讯游戏"
+        - title: "发布 · Ryubing / Canary 发布频道 · GitLab"
+          logo: "https://favicon.duckduckgo.com/ip3/git.ryujinx.app.ico"
+          url: "https://git.ryujinx.app/ryubing/canary/-/releases"
+          description: "发布 · Ryubing / Canary 发布频道 · GitLab"
+    - term: PT
       links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place.
-        - title: doyoudo
-          url: http://doyoudo.com/
-          logo: doyoudo.png
-          description: 创意设计软件学习平台。
-        - title: 没位道
-          url: http://www.c945.com/web-ui-tutorial/
-          logo: web_ui_tutorial.png
-          description: WEB UI免费视频公开课。
-        - title: 慕课网
-          url: https://www.imooc.com/
-          logo: imooc.png
-          description: 程序员的梦工厂（有UI课程）。
-        
+        - title: "Cfan个人导航页 - Cloudflare Workers Nav"
+          logo: "https://favicon.duckduckgo.com/ip3/cnidm.eu.org.ico"
+          url: "https://cnidm.eu.org/"
+          description: "Cfan个人导航页 - Cloudflare Workers Nav"
+    - term: 脚本
+      links:
+        - title: "JD_Diy/README.md at master · chiupam/JD_Diy · GitHub"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/chiupam/JD_Diy/blob/master/README.md"
+          description: "JD_Diy/README.md at master · chiupam/JD_Diy · GitHub"
+        - title: "GitHub - shufflewzc/faker2: 不知名大佬备份"
+          logo: "https://favicon.duckduckgo.com/ip3/github.com.ico"
+          url: "https://github.com/shufflewzc/faker2"
+          description: "GitHub - shufflewzc/faker2: 不知名大佬备份"
+        - title: "解决 Docker 安装 Jellyfin 封面图和部分中文字幕变方块 - 川叶 :: 不舍昼夜"
+          logo: "https://favicon.duckduckgo.com/ip3/blog.lishun.me.ico"
+          url: "https://blog.lishun.me/docker-jellyfin-chinese-fonts"
+          description: "解决 Docker 安装 Jellyfin 封面图和部分中文字幕变方块 - 川叶 :: 不舍昼夜"
+    - term: 交互
+      links:
+        - title: "My private cloud"
+          logo: "https://favicon.duckduckgo.com/ip3/192.168.99.3.ico"
+          url: "http://192.168.99.3/index.html"
+          description: "My private cloud"
+        - title: "Dsm6 - Synology DiskStation"
+          logo: "https://favicon.duckduckgo.com/ip3/zyweb.top:5000.ico"
+          url: "http://zyweb.top:5000/"
+          description: "Dsm6 - Synology DiskStation"
+        - title: "CentOS/Linux 网卡设置 IP地址配置_Linux教程_Linux公社-Linux系统门户网站"
+          logo: "https://favicon.duckduckgo.com/ip3/www.linuxidc.com.ico"
+          url: "http://www.linuxidc.com/Linux/2015-02/112964.htm"
+          description: "CentOS/Linux 网卡设置 IP地址配置_Linux教程_Linux公社-Linux系统门户网站"
+        - title: "宽带自主智能提速"
+          logo: "https://favicon.duckduckgo.com/ip3/hb.189.cn.ico"
+          url: "http://hb.189.cn/pages/selfservice/business/co/speed/index.jsp"
+          description: "宽带自主智能提速"
+        - title: "https://raw.githubusercontent.com/vokins/yhosts/master/hosts"
+          logo: "https://favicon.duckduckgo.com/ip3/raw.githubusercontent.com.ico"
+          url: "https://raw.githubusercontent.com/vokins/yhosts/master/hosts"
+          description: "https://raw.githubusercontent.com/vokins/yhosts/master/hosts"
+        - title: "控制面板"
+          logo: "https://favicon.duckduckgo.com/ip3/vpscp.rectified.net.ico"
+          url: "https://vpscp.rectified.net/login.php"
+          description: "控制面板"
+        - title: "首页 - 大淘客推广中心"
+          logo: "https://favicon.duckduckgo.com/ip3/www.dataoke.com.ico"
+          url: "http://www.dataoke.com/pmc/index.html"
+          description: "首页 - 大淘客推广中心"
+        - title: "wordpress自动采集插件 my-autopost-pro v3.7破解版 | 资源分享部"
+          logo: "https://favicon.duckduckgo.com/ip3/ziyuanbu.cn.ico"
+          url: "http://ziyuanbu.cn/post-3002.html"
+          description: "wordpress自动采集插件 my-autopost-pro v3.7破解版 | 资源分享部"
+        - title: "Tint主题常见问题&常用代码插件 - 酷ACG资源网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.kuacg.com.ico"
+          url: "https://www.kuacg.com/18630.html"
+          description: "Tint主题常见问题&常用代码插件 - 酷ACG资源网"
+        - title: "CEX|Global Leading Digital Asset Exchange"
+          logo: "https://favicon.duckduckgo.com/ip3/www.cex.com.ico"
+          url: "https://www.cex.com/"
+          description: "CEX|Global Leading Digital Asset Exchange"
+        - title: "Vultr的SSD VPS服务器，云服务器和云托管 - Vultr.com"
+          logo: "https://favicon.duckduckgo.com/ip3/www.vultr.com.ico"
+          url: "https://www.vultr.com/?ref=7281374"
+          description: "Vultr的SSD VPS服务器，云服务器和云托管 - Vultr.com"
+        - title: "Teamviewer由商业许可证转换为免费许可证（增加改ID版本） | 轻时代"
+          logo: "https://favicon.duckduckgo.com/ip3/lighti.me.ico"
+          url: "https://lighti.me/539.html"
+          description: "Teamviewer由商业许可证转换为免费许可证（增加改ID版本） | 轻时代"
+        - title: "v.youku.com/v_show/id_XODMxNTY0MjA4.html"
+          logo: "https://favicon.duckduckgo.com/ip3/v.youku.com.ico"
+          url: "http://v.youku.com/v_show/id_XODMxNTY0MjA4.html"
+          description: "v.youku.com/v_show/id_XODMxNTY0MjA4.html"
+        - title: "K码礼包信息录入"
+          logo: "https://favicon.duckduckgo.com/ip3/tech-service.phicomm.com.ico"
+          url: "https://tech-service.phicomm.com/index.php/home/login/search.html"
+          description: "K码礼包信息录入"
+        - title: "unc0ver"
+          logo: "https://favicon.duckduckgo.com/ip3/unc0ver.dev.ico"
+          url: "https://unc0ver.dev/"
+          description: "unc0ver"
+    - term: 都市妇产
+      links:
+        - title: "女性健康,女性健康图片 - 昕薇网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.ixinwei.com.ico"
+          url: "http://www.ixinwei.com/list/7.html"
+          description: "女性健康,女性健康图片 - 昕薇网"
+        - title: "Chimera: Your device, your way."
+          logo: "https://favicon.duckduckgo.com/ip3/chimera.sh.ico"
+          url: "https://chimera.sh/"
+          description: "Chimera: Your device, your way."
+        - title: "诚旺超市-激情清仓配音_商场超市_妙音网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.miaoyin365.com.ico"
+          url: "http://www.miaoyin365.com/b/1/2018379.html"
+          description: "诚旺超市-激情清仓配音_商场超市_妙音网"
+    - term: 书签栏
+      links:
+        - title: "FMedia Server"
+          logo: "https://favicon.duckduckgo.com/ip3/192.168.99.147:9000.ico"
+          url: "http://192.168.99.147:9000/web/index.html#!/home"
+          description: "FMedia Server"
+        - title: "ITDOG - 在线ping_在线tcping_网站测速_HTTP测速_API测速_路由追踪_在线MTR_DNS查询_ITDOG-云邦畅想"
+          logo: "https://favicon.duckduckgo.com/ip3/www.itdog.cn.ico"
+          url: "https://www.itdog.cn/"
+          description: "ITDOG - 在线ping_在线tcping_网站测速_HTTP测速_API测速_路由追踪_在线MTR_DNS查询_ITDOG-云邦畅想"
+        - title: "车管停车管理"
+          logo: "https://favicon.duckduckgo.com/ip3/saas.icecloud-car.com.ico"
+          url: "http://saas.icecloud-car.com/login.html"
+          description: "车管停车管理"
+        - title: "宝塔Linux面板 公司的"
+          logo: "https://favicon.duckduckgo.com/ip3/47.96.233.118:8888.ico"
+          url: "http://47.96.233.118:8888/b5cd6db6"
+          description: "宝塔Linux面板 公司的"
+        - title: "视频号助手"
+          logo: "https://favicon.duckduckgo.com/ip3/channels.weixin.qq.com.ico"
+          url: "https://channels.weixin.qq.com/login.html"
+          description: "视频号助手"
+- taxonomy: 论坛
+  icon: icon-users
+  list:
+    - term: 数码
+      links:
+        - title: "iPhone 15 - 社区 - 威锋 - 千万果粉大本营"
+          logo: "https://favicon.duckduckgo.com/ip3/www.feng.com.ico"
+          url: "https://www.feng.com/forum/115"
+          description: "iPhone 15 - 社区 - 威锋 - 千万果粉大本营"
+        - title: "远景论坛-微软极客社区"
+          logo: "https://favicon.duckduckgo.com/ip3/bbs.pcbeta.com.ico"
+          url: "http://bbs.pcbeta.com/"
+          description: "远景论坛-微软极客社区"
+        - title: "充电头 - Powered by Discuz!"
+          logo: "https://favicon.duckduckgo.com/ip3/bbs.chongdiantou.com.ico"
+          url: "http://bbs.chongdiantou.com/default.php"
+          description: "充电头 - Powered by Discuz!"
+        - title: "《时经帖》—— 准备入手两年付费 SS 服务，搜罗这么多家，花眼求推荐！ - V2EX"
+          logo: "https://favicon.duckduckgo.com/ip3/www.v2ex.com.ico"
+          url: "http://www.v2ex.com/t/144975"
+          description: "《时经帖》—— 准备入手两年付费 SS 服务，搜罗这么多家，花眼求推荐！ - V2EX"
+        - title: "论坛 - 无忧启动论坛 - Powered by Discuz!"
+          logo: "https://favicon.duckduckgo.com/ip3/bbs.wuyou.net.ico"
+          url: "http://bbs.wuyou.net/forum.php"
+          description: "论坛 - 无忧启动论坛 - Powered by Discuz!"
+        - title: "NodeSeek"
+          logo: "https://favicon.duckduckgo.com/ip3/www.nodeseek.com.ico"
+          url: "https://www.nodeseek.com/"
+          description: "NodeSeek"
+    - term: 开发
+      links:
+        - title: "我的应用"
+          logo: "https://favicon.duckduckgo.com/ip3/open.weibo.com.ico"
+          url: "http://open.weibo.com/apps"
+          description: "我的应用"
+        - title: "Tuna - Updates | OBS Forums"
+          logo: "https://favicon.duckduckgo.com/ip3/obsproject.com.ico"
+          url: "https://obsproject.com/forum/resources/tuna.843/updates"
+          description: "Tuna - Updates | OBS Forums"
+    - term: 软路由/NAS/电视盒子
+      links:
+        - title: "最好用的 V2Ray 一键安装脚本 & 管理脚本 - 233Blog"
+          logo: "https://favicon.duckduckgo.com/ip3/233v2.com.ico"
+          url: "https://233v2.com/post/16/"
+          description: "最好用的 V2Ray 一键安装脚本 & 管理脚本 - 233Blog"
+    - term: 素材
+      links:
+        - title: "项目分享页"
+          logo: "https://favicon.duckduckgo.com/ip3/www.yueliu.cn.ico"
+          url: "https://www.yueliu.cn/v20/#/share/list/6300a2dbcd506?path=38705417"
+          description: "项目分享页"
+    - term: 黑苹果
+      links:
+        - title: "FCPX 软件 – FCPX资源站"
+          logo: "https://favicon.duckduckgo.com/ip3/www.mfcpx.com.ico"
+          url: "http://www.mfcpx.com/ruanjian/"
+          description: "FCPX 软件 – FCPX资源站"
+    - term: 资源
+      links:
+        - title: "NtrQQ Forum - Powered by Discuz!"
+          logo: "https://favicon.duckduckgo.com/ip3/bbs.ntrqq.net.ico"
+          url: "http://bbs.ntrqq.net/"
+          description: "NtrQQ Forum - Powered by Discuz!"
+        - title: "CorelDraw Graphics Suite 2021 v23.0.0.363 多语言和谐版(Windows+MacOS)的历史版本_懒得勤快的博客_互联网分享精神"
+          logo: "https://favicon.duckduckgo.com/ip3/masuit.com.ico"
+          url: "https://masuit.com/1270/history"
+          description: "CorelDraw Graphics Suite 2021 v23.0.0.363 多语言和谐版(Windows+MacOS)的历史版本_懒得勤快的博客_互联网分享精神"
+        - title: "PS插件 - 趣猫资源网 | 一个有趣的MG分享站"
+          logo: "https://favicon.duckduckgo.com/ip3/www.mgzyfx.com.ico"
+          url: "https://www.mgzyfx.com/?cat=186"
+          description: "PS插件 - 趣猫资源网 | 一个有趣的MG分享站"
+        - title: "微博、秒拍、小咖秀、晃咖视频解析下载 - 保存视频到电脑、手机"
+          logo: "https://favicon.duckduckgo.com/ip3/weibo.iiilab.com.ico"
+          url: "https://weibo.iiilab.com/"
+          description: "微博、秒拍、小咖秀、晃咖视频解析下载 - 保存视频到电脑、手机"
+    - term: 多媒体
+      links:
+        - title: "经.典评书相声7x24小时轮播 - 娛樂大放送 - 哔哩哔哩直播，二次元弹幕直播平台"
+          logo: "https://favicon.duckduckgo.com/ip3/live.bilibili.com.ico"
+          url: "https://live.bilibili.com/6617518?visit_id=8gvr05gka3c0"
+          description: "经.典评书相声7x24小时轮播 - 娛樂大放送 - 哔哩哔哩直播，二次元弹幕直播平台"
+        - title: "开播设置 - 个人中心 - bilibili link"
+          logo: "https://favicon.duckduckgo.com/ip3/link.bilibili.com.ico"
+          url: "https://link.bilibili.com/p/center/index?visit_id=6059uqvtk9w0#/my-room/start-live"
+          description: "开播设置 - 个人中心 - bilibili link"
+        - title: "哔哩哔哩饭贩"
+          logo: "https://favicon.duckduckgo.com/ip3/play-live.bilibili.com.ico"
+          url: "https://play-live.bilibili.com/"
+          description: "哔哩哔哩饭贩"
+        - title: "xp.1024hegongchang.org/bbs/"
+          logo: "https://favicon.duckduckgo.com/ip3/xp.1024hegongchang.org.ico"
+          url: "http://xp.1024hegongchang.org/bbs/"
+          description: "xp.1024hegongchang.org/bbs/"
+    - term: 杂项
+      links:
+        - title: "恩山无线论坛 - Powered by Discuz!"
+          logo: "https://favicon.duckduckgo.com/ip3/www.right.com.cn.ico"
+          url: "http://www.right.com.cn/forum/forum.php"
+          description: "恩山无线论坛 - Powered by Discuz!"
+        - title: "无线论坛!中国最大最专业的无线网络社区门户!Anywhere WLAN!随时随地无线! - Powered by Discuz!"
+          logo: "https://favicon.duckduckgo.com/ip3/forum.anywlan.com.ico"
+          url: "http://forum.anywlan.com/"
+          description: "无线论坛!中国最大最专业的无线网络社区门户!Anywhere WLAN!随时随地无线! - Powered by Discuz!"
+        - title: "V2EX"
+          logo: "https://favicon.duckduckgo.com/ip3/v2ex.com.ico"
+          url: "http://v2ex.com/"
+          description: "V2EX"
+        - title: "电脑 - Chiphell - 分享与交流用户体验的最佳平台"
+          logo: "https://favicon.duckduckgo.com/ip3/www.chiphell.com.ico"
+          url: "https://www.chiphell.com/forum.php?gid=3"
+          description: "电脑 - Chiphell - 分享与交流用户体验的最佳平台"
+    - term: 娱乐
+      links:
+        - title: "侠盗猎车5_3DM论坛_侠盗猎车5破解版下载_侠盗猎车5攻略秘籍_3DMGAME_侠盗猎车5汉化_侠盗猎车5中文版下载_GTA5 - Powered by Discuz!"
+          logo: "https://favicon.duckduckgo.com/ip3/bbs.3dmgame.com.ico"
+          url: "http://bbs.3dmgame.com/forum.php?mod=forumdisplay&fid=796&page=1"
+          description: "侠盗猎车5_3DM论坛_侠盗猎车5破解版下载_侠盗猎车5攻略秘籍_3DMGAME_侠盗猎车5汉化_侠盗猎车5中文版下载_GTA5 - Powered by Discuz!"
+        - title: "XBOX360 主机平台区 - A9VG电玩部落论坛"
+          logo: "https://favicon.duckduckgo.com/ip3/wap.a9vg.com.ico"
+          url: "http://wap.a9vg.com/forum.php?gid=349"
+          description: "XBOX360 主机平台区 - A9VG电玩部落论坛"
+        - title: "地图"
+          logo: "https://favicon.duckduckgo.com/ip3/www.bilibili.com.ico"
+          url: "https://www.bilibili.com/opus/1047735827124191239"
+          description: "地图"
+    - term: 脚本
+      links:
+        - title: "emby伪验证服务器 | OPENOS-服务器-路由器-黑群晖-NAS-网络存储-虚拟化"
+          logo: "https://favicon.duckduckgo.com/ip3/www.openos.org.ico"
+          url: "https://www.openos.org/threads/emby.3587/"
+          description: "emby伪验证服务器 | OPENOS-服务器-路由器-黑群晖-NAS-网络存储-虚拟化"
+    - term: 交互
+      links:
+        - title: "账户余额 - 全球领先的比特币/数字货币交易平台 | OKEX.com"
+          logo: "https://favicon.duckduckgo.com/ip3/www.okex.com.ico"
+          url: "https://www.okex.com/spot/trade/accountBalance.do"
+          description: "账户余额 - 全球领先的比特币/数字货币交易平台 | OKEX.com"
+        - title: "Project V · Project V 官方网站"
+          logo: "https://favicon.duckduckgo.com/ip3/www.v2ray.com.ico"
+          url: "https://www.v2ray.com/"
+          description: "Project V · Project V 官方网站"
+        - title: "MKOnlinePlayer v2.3 发布 & v2.32更新 | 孟坤博客"
+          logo: "https://favicon.duckduckgo.com/ip3/mkblog.cn.ico"
+          url: "https://mkblog.cn/1060/"
+          description: "MKOnlinePlayer v2.3 发布 & v2.32更新 | 孟坤博客"
+        - title: "MKOnlinePlayer v2.4"
+          logo: "https://favicon.duckduckgo.com/ip3/lab.mkblog.cn.ico"
+          url: "http://lab.mkblog.cn/music/"
+          description: "MKOnlinePlayer v2.4"
+    - term: 都市妇产
+      links:
+        - title: "我的首页 微博-随时随地发现新鲜事"
+          logo: "https://favicon.duckduckgo.com/ip3/weibo.com.ico"
+          url: "https://weibo.com/fu5502/home?wvr=5"
+          description: "我的首页 微博-随时随地发现新鲜事"
+        - title: "【小白教程】附带分享源+插件+常见问题解答 使用 Chimera 完整越狱 从下载到使用 一步到位 - iPhone XS 综合讨论区 - 威锋论坛 - 威锋网"
+          logo: "https://favicon.duckduckgo.com/ip3/bbs.feng.com.ico"
+          url: "https://bbs.feng.com/forum.php?mod=viewthread&tid=12192414&extra=&page=1"
+          description: "【小白教程】附带分享源+插件+常见问题解答 使用 Chimera 完整越狱 从下载到使用 一步到位 - iPhone XS 综合讨论区 - 威锋论坛 - 威锋网"
+- taxonomy: 其他
+  icon: icon-folder
+  list:
+    - term: 数码
+      links:
+        - title: "IT之家 - 数码，科技，生活 - 软媒旗下"
+          logo: "https://favicon.duckduckgo.com/ip3/www.ithome.com.ico"
+          url: "http://www.ithome.com/"
+          description: "IT之家 - 数码，科技，生活 - 软媒旗下"
+        - title: "Download APK Files Directly From Google Play - APK Downloader"
+          logo: "https://favicon.duckduckgo.com/ip3/apk-dl.com.ico"
+          url: "http://apk-dl.com/"
+          description: "Download APK Files Directly From Google Play - APK Downloader"
+        - title: "The Open GApps Project"
+          logo: "https://favicon.duckduckgo.com/ip3/opengapps.org.ico"
+          url: "http://opengapps.org/"
+          description: "The Open GApps Project"
+        - title: "话题_酷安网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.coolapk.com.ico"
+          url: "http://www.coolapk.com/topic/"
+          description: "话题_酷安网"
+    - term: 开发
+      links:
+        - title: "Google Gemini 会员截止2026-11"
+          logo: "https://favicon.duckduckgo.com/ip3/gemini.google.com.ico"
+          url: "https://gemini.google.com/app"
+          description: "Google Gemini 会员截止2026-11"
+        - title: "Comfy Workflows 工作流页面"
+          logo: "https://favicon.duckduckgo.com/ip3/comfyworkflows.com.ico"
+          url: "https://comfyworkflows.com/workflows"
+          description: "Comfy Workflows 工作流页面"
+        - title: "Cron - 在线Cron表达式生成器"
+          logo: "https://favicon.duckduckgo.com/ip3/cron.ciding.cc.ico"
+          url: "https://cron.ciding.cc/"
+          description: "Cron - 在线Cron表达式生成器"
+        - title: "Grok"
+          logo: "https://favicon.duckduckgo.com/ip3/grok.com.ico"
+          url: "https://grok.com/"
+          description: "Grok"
+    - term: 网建
+      links:
+        - title: "CSDN 下载频道 首页"
+          logo: "https://favicon.duckduckgo.com/ip3/download.csdn.net.ico"
+          url: "http://download.csdn.net/"
+          description: "CSDN 下载频道 首页"
+        - title: "搜虎精品社区 www.souho.net,搜虎商业源码,搜虎精品源码,搜虎源码下载,搜虎网站调试,搜虎网站建设,搜虎软件,搜虎精品,精益求精,免费共享！ - Powered by Discuz!"
+          logo: "https://favicon.duckduckgo.com/ip3/www.souho.net.ico"
+          url: "http://www.souho.net/index.php"
+          description: "搜虎精品社区 www.souho.net,搜虎商业源码,搜虎精品源码,搜虎源码下载,搜虎网站调试,搜虎网站建设,搜虎软件,搜虎精品,精益求精,免费共享！ - Powered by Discuz!"
+        - title: "站长下载 - 源码下载,站长工具,精品软件 - 中国站长站"
+          logo: "https://favicon.duckduckgo.com/ip3/down.chinaz.com.ico"
+          url: "http://down.chinaz.com/"
+          description: "站长下载 - 源码下载,站长工具,精品软件 - 中国站长站"
+        - title: "落伍者站长论坛 im286,为中国站长服务!"
+          logo: "https://favicon.duckduckgo.com/ip3/www.im286.com.ico"
+          url: "http://www.im286.com/"
+          description: "落伍者站长论坛 im286,为中国站长服务!"
+        - title: "zzcms专业做招商网的程序源码"
+          logo: "https://favicon.duckduckgo.com/ip3/demo.zzcms.net.ico"
+          url: "http://demo.zzcms.net/"
+          description: "zzcms专业做招商网的程序源码"
+        - title: "兔展|微信H5页面_微场景制作工具|移动微杂志_电子邀请函创作平台"
+          logo: "https://favicon.duckduckgo.com/ip3/www.rabbitpre.com.ico"
+          url: "http://www.rabbitpre.com/"
+          description: "兔展|微信H5页面_微场景制作工具|移动微杂志_电子邀请函创作平台"
+        - title: "微信公众平台图文排版工具_在线内容编辑软件_96微信编辑器"
+          logo: "https://favicon.duckduckgo.com/ip3/bj.96weixin.com.ico"
+          url: "http://bj.96weixin.com/"
+          description: "微信公众平台图文排版工具_在线内容编辑软件_96微信编辑器"
+        - title: "135微信编辑器,微信排版,图文排版,一键秒刷,公众号图文编辑器,排版编辑器，文章排版，内容编辑器，在线使用无需下载。135编辑器，从1开始，做更好"
+          logo: "https://favicon.duckduckgo.com/ip3/www.135editor.com.ico"
+          url: "http://www.135editor.com/"
+          description: "135微信编辑器,微信排版,图文排版,一键秒刷,公众号图文编辑器,排版编辑器，文章排版，内容编辑器，在线使用无需下载。135编辑器，从1开始，做更好"
+        - title: "远方的雪山-那一天，那一月，那一年，那一世……"
+          logo: "https://favicon.duckduckgo.com/ip3/yfdxs.com.ico"
+          url: "https://yfdxs.com/"
+          description: "远方的雪山-那一天，那一月，那一年，那一世……"
+        - title: "Client Area - Freenom免费域名"
+          logo: "https://favicon.duckduckgo.com/ip3/my.freenom.com.ico"
+          url: "https://my.freenom.com/clientarea.php"
+          description: "Client Area - Freenom免费域名"
+        - title: "hidns登录 不能托管CF cfan.hidns.vip"
+          logo: "https://favicon.duckduckgo.com/ip3/www.hidoha.net.ico"
+          url: "https://www.hidoha.net/login"
+          description: "hidns登录 不能托管CF cfan.hidns.vip"
+        - title: "我的域名 - GNAME管理中心-、不能cf托管-3个免费一年 可以续订"
+          logo: "https://favicon.duckduckgo.com/ip3/www.gname.com.ico"
+          url: "https://www.gname.com/user#/admin_ym"
+          description: "我的域名 - GNAME管理中心-、不能cf托管-3个免费一年 可以续订"
+        - title: "订阅管理系统 电报通知"
+          logo: "https://favicon.duckduckgo.com/ip3/push.cnd.qzz.io.ico"
+          url: "https://push.cnd.qzz.io/"
+          description: "订阅管理系统 电报通知"
+        - title: "亚马逊aws"
+          logo: "https://favicon.duckduckgo.com/ip3/us-east-1.console.aws.amazon.com.ico"
+          url: "https://us-east-1.console.aws.amazon.com/billing/home#/bills"
+          description: "亚马逊aws"
+        - title: "1Panel aws亚马逊HK"
+          logo: "https://favicon.duckduckgo.com/ip3/43.199.202.197:30365.ico"
+          url: "http://43.199.202.197:30365/fu5502"
+          description: "1Panel aws亚马逊HK"
+        - title: "WIPDF随机发票生成器"
+          logo: "https://favicon.duckduckgo.com/ip3/wipdf.vercel.app.ico"
+          url: "https://wipdf.vercel.app/"
+          description: "WIPDF随机发票生成器"
+        - title: "S-UI 185.77.225.20 14刀"
+          logo: "https://favicon.duckduckgo.com/ip3/185.77.225.20:2095.ico"
+          url: "http://185.77.225.20:2095/app/clients"
+          description: "S-UI 185.77.225.20 14刀"
+        - title: "登录 ‹ 老付blog — WordPress"
+          logo: "https://favicon.duckduckgo.com/ip3/cnidm.eu.org.ico"
+          url: "https://cnidm.eu.org/wp-login.php?login-key=a74cf5"
+          description: "登录 ‹ 老付blog — WordPress"
+        - title: "便宜域名  管理器应用程序 - Spaceship876855.xyz"
+          logo: "https://favicon.duckduckgo.com/ip3/www.spaceship.com.ico"
+          url: "https://www.spaceship.com/zh/"
+          description: "便宜域名  管理器应用程序 - Spaceship876855.xyz"
+        - title: "客户专区 - DMIT, Inc."
+          logo: "https://favicon.duckduckgo.com/ip3/www.dmit.io.ico"
+          url: "https://www.dmit.io/clientarea.php"
+          description: "客户专区 - DMIT, Inc."
+        - title: "1Panel dmit"
+          logo: "https://favicon.duckduckgo.com/ip3/154.17.23.206:18888.ico"
+          url: "http://154.17.23.206:18888/fu5502"
+          description: "1Panel dmit"
+        - title: "DMIT_Lucyk     http://154.17.23.206:16601/"
+          logo: "https://favicon.duckduckgo.com/ip3/lucyk.ncn.qzz.io:8443.ico"
+          url: "https://lucyk.ncn.qzz.io:8443/"
+          description: "DMIT_Lucyk     http://154.17.23.206:16601/"
+        - title: "图床"
+          logo: "https://favicon.duckduckgo.com/ip3/pic.ncn.qzz.io.ico"
+          url: "https://pic.ncn.qzz.io/"
+          description: "图床"
+        - title: "Telegraph-Image|免费图床"
+          logo: "https://favicon.duckduckgo.com/ip3/tg.ncn.qzz.io.ico"
+          url: "https://tg.ncn.qzz.io/"
+          description: "Telegraph-Image|免费图床"
+        - title: "ssh.ncn.qzz.io"
+          logo: "https://favicon.duckduckgo.com/ip3/ssh.ncn.qzz.io.ico"
+          url: "https://ssh.ncn.qzz.io/"
+          description: "ssh.ncn.qzz.io"
+    - term: 软路由/NAS/电视盒子
+      links:
+        - title: "dynu免费解析-后台控制中心"
+          logo: "https://favicon.duckduckgo.com/ip3/www.dynu.com.ico"
+          url: "https://www.dynu.com/zh-CN/ControlPanel"
+          description: "dynu免费解析-后台控制中心"
+        - title: "DNSPod-免费智能DNS解析服务商-电信_网通_教育网,智能DNS"
+          logo: "https://favicon.duckduckgo.com/ip3/www.dnspod.cn.ico"
+          url: "https://www.dnspod.cn/"
+          description: "DNSPod-免费智能DNS解析服务商-电信_网通_教育网,智能DNS"
+        - title: "管理页面-公云pubyun"
+          logo: "https://favicon.duckduckgo.com/ip3/www.pubyun.com.ico"
+          url: "http://www.pubyun.com/user/"
+          description: "管理页面-公云pubyun"
+        - title: "BBR+BBR魔改+Lotsever(锐速)一键脚本 for Centos/Debian/Ubuntu - Rat's Blog"
+          logo: "https://favicon.duckduckgo.com/ip3/www.moerats.com.ico"
+          url: "https://www.moerats.com/archives/387/"
+          description: "BBR+BBR魔改+Lotsever(锐速)一键脚本 for Centos/Debian/Ubuntu - Rat's Blog"
+        - title: "esirPG - Google 云端硬盘"
+          logo: "https://favicon.duckduckgo.com/ip3/drive.google.com.ico"
+          url: "https://drive.google.com/drive/folders/1dqNUrMf9n7i3y1aSh68U5Yf44WQ3KCuh"
+          description: "esirPG - Google 云端硬盘"
+        - title: "esxi无直通卡情况下直通板载sata（2018-02-05） - 简书"
+          logo: "https://favicon.duckduckgo.com/ip3/www.jianshu.com.ico"
+          url: "https://www.jianshu.com/p/ac56ddcf41d2"
+          description: "esxi无直通卡情况下直通板载sata（2018-02-05） - 简书"
+        - title: "Public - Google 云端硬盘"
+          logo: "https://favicon.duckduckgo.com/ip3/drive.google.com.ico"
+          url: "https://drive.google.com/drive/folders/14fgYztKnT2kjOo7Mpu_bTiqUqTYp6eYx"
+          description: "Public - Google 云端硬盘"
+        - title: "插件库"
+          logo: "https://favicon.duckduckgo.com/ip3/downloads.openwrt.org.ico"
+          url: "https://downloads.openwrt.org/releases/packages-18.06/x86_64/packages/"
+          description: "插件库"
+        - title: "小宝的openwrt新固件—KoolCenter 固件下载服务器"
+          logo: "https://favicon.duckduckgo.com/ip3/fw.koolcenter.com.ico"
+          url: "http://fw.koolcenter.com/"
+          description: "小宝的openwrt新固件—KoolCenter 固件下载服务器"
+        - title: "提取文件 - 爱快历史版本"
+          logo: "https://favicon.duckduckgo.com/ip3/scly.aoxuelingshuang.com:8889.ico"
+          url: "http://scly.aoxuelingshuang.com:8889/down/NtVXpeZf8Pp6"
+          description: "提取文件 - 爱快历史版本"
+    - term: 素材
+      links:
+        - title: "昵图网_素材设计共享平台 www.nipic.com"
+          logo: "https://favicon.duckduckgo.com/ip3/www.nipic.com.ico"
+          url: "http://www.nipic.com/"
+          description: "昵图网_素材设计共享平台 www.nipic.com"
+        - title: "识字体网-在线图片字体识别扫一扫网站"
+          logo: "https://favicon.duckduckgo.com/ip3/www.likefont.com.ico"
+          url: "https://www.likefont.com/"
+          description: "识字体网-在线图片字体识别扫一扫网站"
+        - title: "广告牌生成器 - BannerMaker"
+          logo: "https://favicon.duckduckgo.com/ip3/banner.alimama.com.ico"
+          url: "http://banner.alimama.com/"
+          description: "广告牌生成器 - BannerMaker"
+        - title: "ps字体下载大全_ps笔刷下载_ps滤镜插件下载_psd素材下载 - Photoshop资源站_Ps123.Net"
+          logo: "https://favicon.duckduckgo.com/ip3/www.ps123.net.ico"
+          url: "http://www.ps123.net/"
+          description: "ps字体下载大全_ps笔刷下载_ps滤镜插件下载_psd素材下载 - Photoshop资源站_Ps123.Net"
+        - title: "素材,素材中国,图片素材,矢量素材,音效素材,图标素材-素材中国站长站"
+          logo: "https://favicon.duckduckgo.com/ip3/sc.chinaz.com.ico"
+          url: "http://sc.chinaz.com/"
+          description: "素材,素材中国,图片素材,矢量素材,音效素材,图标素材-素材中国站长站"
+        - title: "UI设计_软件界面设计欣赏_后台界面-UI制造者-专注UI界面设计"
+          logo: "https://favicon.duckduckgo.com/ip3/www.uimaker.com.ico"
+          url: "http://www.uimaker.com/"
+          description: "UI设计_软件界面设计欣赏_后台界面-UI制造者-专注UI界面设计"
+        - title: "站酷（ZCOOL） - 设计师互动平台 - 交流设计.分享快乐"
+          logo: "https://favicon.duckduckgo.com/ip3/www.zcool.com.cn.ico"
+          url: "http://www.zcool.com.cn/"
+          description: "站酷（ZCOOL） - 设计师互动平台 - 交流设计.分享快乐"
+        - title: "网页特效代码(www.7stk.com)-提供最新免费网页制作特效代码"
+          logo: "https://favicon.duckduckgo.com/ip3/www.7stk.com.ico"
+          url: "http://www.7stk.com/"
+          description: "网页特效代码(www.7stk.com)-提供最新免费网页制作特效代码"
+        - title: "照片处理网 __ 首页-专业照片PS教程,photoshop模板下载,照片PS论坛交流,欧美剪贴scrapbook素材,照片模版下载"
+          logo: "https://favicon.duckduckgo.com/ip3/www.photops.com.ico"
+          url: "http://www.photops.com/"
+          description: "照片处理网 __ 首页-专业照片PS教程,photoshop模板下载,照片PS论坛交流,欧美剪贴scrapbook素材,照片模版下载"
+        - title: "织梦吧(DedeCMS8.COM) dede,织梦CMS模板下载,织梦建站视频,DedeCMS建站培训"
+          logo: "https://favicon.duckduckgo.com/ip3/www.dedecms8.com.ico"
+          url: "http://www.dedecms8.com/"
+          description: "织梦吧(DedeCMS8.COM) dede,织梦CMS模板下载,织梦建站视频,DedeCMS建站培训"
+        - title: "源码哥 (ymg.cc) - 精品源码分享，商业源码下载，免费VIP源码下载！"
+          logo: "https://favicon.duckduckgo.com/ip3/www.ymg.cc.ico"
+          url: "http://www.ymg.cc/"
+          description: "源码哥 (ymg.cc) - 精品源码分享，商业源码下载，免费VIP源码下载！"
+        - title: "千图网_中国最大免费素材下载网站"
+          logo: "https://favicon.duckduckgo.com/ip3/www.58pic.com.ico"
+          url: "http://www.58pic.com/"
+          description: "千图网_中国最大免费素材下载网站"
+        - title: "IconPng.com 爱看图标网，免费中文图标搜索引擎！"
+          logo: "https://favicon.duckduckgo.com/ip3/www.iconpng.com.ico"
+          url: "http://www.iconpng.com/"
+          description: "IconPng.com 爱看图标网，免费中文图标搜索引擎！"
+        - title: "经典版式设计,包装设计,字体设计欣赏,最新平面设计软件,ps滤镜,在线书法字体,日韩文字体,coreldraw教程免费下载_亿品元素设计资源"
+          logo: "https://favicon.duckduckgo.com/ip3/www.epinv.com.ico"
+          url: "http://www.epinv.com/"
+          description: "经典版式设计,包装设计,字体设计欣赏,最新平面设计软件,ps滤镜,在线书法字体,日韩文字体,coreldraw教程免费下载_亿品元素设计资源"
+        - title: "制图网，免费的专业在线制作Banner logo 站标 店招 店标 名片 闪字闪图等图片"
+          logo: "https://favicon.duckduckgo.com/ip3/www.makepic.net.ico"
+          url: "http://www.makepic.net/"
+          description: "制图网，免费的专业在线制作Banner logo 站标 店招 店标 名片 闪字闪图等图片"
+        - title: "草料二维码管理中心"
+          logo: "https://favicon.duckduckgo.com/ip3/user.cli.im.ico"
+          url: "http://user.cli.im/center"
+          description: "草料二维码管理中心"
+        - title: "微信公众号 文章排行榜-2016-09-25每日更新-微小宝"
+          logo: "https://favicon.duckduckgo.com/ip3/top.wxb.com.ico"
+          url: "http://top.wxb.com/"
+          description: "微信公众号 文章排行榜-2016-09-25每日更新-微小宝"
+        - title: "ppt模板,幻灯片模板,ppt素材,ppt图表,ppt特效,ppt教程——51PPT模板网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.51pptmoban.com.ico"
+          url: "http://www.51pptmoban.com/"
+          description: "ppt模板,幻灯片模板,ppt素材,ppt图表,ppt特效,ppt教程——51PPT模板网"
+        - title: "千库网-免费png图片背景素材库588ku.com"
+          logo: "https://favicon.duckduckgo.com/ip3/588ku.com.ico"
+          url: "http://588ku.com/"
+          description: "千库网-免费png图片背景素材库588ku.com"
+        - title: "PPT模板下载_免费PPT模板下载_精美免费PPT模板下载 - 优品PPT"
+          logo: "https://favicon.duckduckgo.com/ip3/www.ypppt.com.ico"
+          url: "http://www.ypppt.com/"
+          description: "PPT模板下载_免费PPT模板下载_精美免费PPT模板下载 - 优品PPT"
+        - title: "Logo设计在线制作神器，智能标志logo生成器 - LOGO生成.cn"
+          logo: "https://favicon.duckduckgo.com/ip3/www.logosc.cn.ico"
+          url: "http://www.logosc.cn/"
+          description: "Logo设计在线制作神器，智能标志logo生成器 - LOGO生成.cn"
+        - title: "字体大全-书法艺术字体字库大全-第一字体网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.diyiziti.com.ico"
+          url: "http://www.diyiziti.com/List"
+          description: "字体大全-书法艺术字体字库大全-第一字体网"
+        - title: "素材中国_免费素材共享平台www.sccnn.com"
+          logo: "https://favicon.duckduckgo.com/ip3/www.sccnn.com.ico"
+          url: "http://www.sccnn.com/"
+          description: "素材中国_免费素材共享平台www.sccnn.com"
+        - title: "PPT模板_PPT模板下载_幻灯片模板_PPT模版免费下载 -【第一PPT】"
+          logo: "https://favicon.duckduckgo.com/ip3/www.1ppt.com.ico"
+          url: "http://www.1ppt.com/"
+          description: "PPT模板_PPT模板下载_幻灯片模板_PPT模版免费下载 -【第一PPT】"
+        - title: "红动网 - 找设计！上红动"
+          logo: "https://favicon.duckduckgo.com/ip3/www.redocn.com.ico"
+          url: "http://www.redocn.com/"
+          description: "红动网 - 找设计！上红动"
+        - title: "觅元素_设计元素的免费下载网站_免抠素材51yuansu.com"
+          logo: "https://favicon.duckduckgo.com/ip3/www.51yuansu.com.ico"
+          url: "http://www.51yuansu.com/"
+          description: "觅元素_设计元素的免费下载网站_免抠素材51yuansu.com"
+        - title: "素材地址链接 下载 一天有限"
+          logo: "https://favicon.duckduckgo.com/ip3/downloader.la.ico"
+          url: "https://downloader.la/"
+          description: "素材地址链接 下载 一天有限"
+        - title: "B站分享的素材模板（不定时更新） - 幕布"
+          logo: "https://favicon.duckduckgo.com/ip3/mubu.com.ico"
+          url: "https://mubu.com/doc/5RKnESqLVzj#o-3bc1707cbb08e715d"
+          description: "B站分享的素材模板（不定时更新） - 幕布"
+        - title: "【图精灵】_免费PNG图片下载_高清背景图片素材_自由设计"
+          logo: "https://favicon.duckduckgo.com/ip3/616pic.com.ico"
+          url: "http://616pic.com/"
+          description: "【图精灵】_免费PNG图片下载_高清背景图片素材_自由设计"
+        - title: "淘声网 - toSound声音搜索引擎 - 免费音效素材资源|视频游戏配乐下载"
+          logo: "https://favicon.duckduckgo.com/ip3/www.tosound.com.ico"
+          url: "https://www.tosound.com/"
+          description: "淘声网 - toSound声音搜索引擎 - 免费音效素材资源|视频游戏配乐下载"
+        - title: "黑罐头: 一站式素材共享平台"
+          logo: "https://favicon.duckduckgo.com/ip3/www.heycan.com.ico"
+          url: "https://www.heycan.com/home"
+          description: "黑罐头: 一站式素材共享平台"
+        - title: "首页 — 我艹"
+          logo: "https://favicon.duckduckgo.com/ip3/wocaovee.com.ico"
+          url: "https://wocaovee.com/user##"
+          description: "首页 — 我艹"
+        - title: "33台词 - 通过台词找影片素材"
+          logo: "https://favicon.duckduckgo.com/ip3/33.agilestudio.cn.ico"
+          url: "http://33.agilestudio.cn/"
+          description: "33台词 - 通过台词找影片素材"
+        - title: "33搜帧 - 视频帧画面搜索引擎"
+          logo: "https://favicon.duckduckgo.com/ip3/fse.agilestudio.cn.ico"
+          url: "http://fse.agilestudio.cn/"
+          description: "33搜帧 - 视频帧画面搜索引擎"
+        - title: "ProcessOn思维导图、流程图-思维导图模板_思维导图软件免费下载_在线作图协作工具"
+          logo: "https://favicon.duckduckgo.com/ip3/www.processon.com.ico"
+          url: "https://www.processon.com/"
+          description: "ProcessOn思维导图、流程图-思维导图模板_思维导图软件免费下载_在线作图协作工具"
+        - title: "ProcessOn - 脑图流程图我的文件"
+          logo: "https://favicon.duckduckgo.com/ip3/www.processon.com.ico"
+          url: "https://www.processon.com/diagrams"
+          description: "ProcessOn - 脑图流程图我的文件"
+        - title: "iconfont-阿里巴巴矢量图标库"
+          logo: "https://favicon.duckduckgo.com/ip3/www.iconfont.cn.ico"
+          url: "https://www.iconfont.cn/"
+          description: "iconfont-阿里巴巴矢量图标库"
+        - title: "Illustrations | unDraw"
+          logo: "https://favicon.duckduckgo.com/ip3/undraw.co.ico"
+          url: "https://undraw.co/illustrations"
+          description: "Illustrations | unDraw"
+        - title: "Download 1000's of free SVG brand logos | VectorWiki"
+          logo: "https://favicon.duckduckgo.com/ip3/vectorwiki.com.ico"
+          url: "https://vectorwiki.com/"
+          description: "Download 1000's of free SVG brand logos | VectorWiki"
+        - title: "无版权可商用免费中文字体下载大全图文版 - 猫啃网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.maoken.com.ico"
+          url: "https://www.maoken.com/all-fonts-imgs"
+          description: "无版权可商用免费中文字体下载大全图文版 - 猫啃网"
+        - title: "汽车BGM--Power | Music Licensing | Musicbed"
+          logo: "https://favicon.duckduckgo.com/ip3/www.musicbed.com.ico"
+          url: "https://www.musicbed.com/playlists/power/3389"
+          description: "汽车BGM--Power | Music Licensing | Musicbed"
+        - title: "Openfootage Footage overview-视频"
+          logo: "https://favicon.duckduckgo.com/ip3/www.openfootage.net.ico"
+          url: "https://www.openfootage.net/"
+          description: "Openfootage Footage overview-视频"
+        - title: "混剪侠 - 剪辑师网址导航"
+          logo: "https://favicon.duckduckgo.com/ip3/www.yugaopian.cn.ico"
+          url: "https://www.yugaopian.cn/"
+          description: "混剪侠 - 剪辑师网址导航"
+        - title: "免费素材图片"
+          logo: "https://favicon.duckduckgo.com/ip3/www.pexels.com.ico"
+          url: "https://www.pexels.com/zh-cn/"
+          description: "免费素材图片"
+        - title: "超过 420 万张令人惊叹的免费图片可在任何地方使用 - Pixabay上的"
+          logo: "https://favicon.duckduckgo.com/ip3/pixabay.com.ico"
+          url: "https://pixabay.com/"
+          description: "超过 420 万张令人惊叹的免费图片可在任何地方使用 - Pixabay上的"
+        - title: "视频-图库图片、免版税图片、插图、矢量图和视频 - iStock"
+          logo: "https://favicon.duckduckgo.com/ip3/www.istockphoto.com.ico"
+          url: "https://www.istockphoto.com/"
+          description: "视频-图库图片、免版税图片、插图、矢量图和视频 - iStock"
+        - title: "Mixkit - 为您的下一个视频项目提供很棒的免费资源"
+          logo: "https://favicon.duckduckgo.com/ip3/mixkit.co.ico"
+          url: "https://mixkit.co/"
+          description: "Mixkit - 为您的下一个视频项目提供很棒的免费资源"
+        - title: "国外视频下载SaveTube - Best Online Video Downloader ( 4K, 8K, FHD, 1080p, HDR )"
+          logo: "https://favicon.duckduckgo.com/ip3/save.tube.ico"
+          url: "https://save.tube/en34/"
+          description: "国外视频下载SaveTube - Best Online Video Downloader ( 4K, 8K, FHD, 1080p, HDR )"
+        - title: "花瓣素材-设计素材图库-专业设计模版下载"
+          logo: "https://favicon.duckduckgo.com/ip3/huaban.com.ico"
+          url: "https://huaban.com/materials"
+          description: "花瓣素材-设计素材图库-专业设计模版下载"
+        - title: "免抠图片网|免抠素材|透明背景图片|免费图片素材|png图片|透明背景素材|设计素材"
+          logo: "https://favicon.duckduckgo.com/ip3/miankoutupian.com.ico"
+          url: "https://miankoutupian.com/"
+          description: "免抠图片网|免抠素材|透明背景图片|免费图片素材|png图片|透明背景素材|设计素材"
+        - title: "摄图新视界-正版商业图片下载平台-高清图片素材库"
+          logo: "https://favicon.duckduckgo.com/ip3/xsj.699pic.com.ico"
+          url: "https://xsj.699pic.com/"
+          description: "摄图新视界-正版商业图片下载平台-高清图片素材库"
+        - title: "zhaotuwang在线设计_在线作图_图片在线编辑器-找图网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.zhaotu.com.ico"
+          url: "https://www.zhaotu.com/"
+          description: "zhaotuwang在线设计_在线作图_图片在线编辑器-找图网"
+        - title: "新片场素材 - 正版视频素材,AE模板,音乐,图片素材交易平台"
+          logo: "https://favicon.duckduckgo.com/ip3/stock.xinpianchang.com.ico"
+          url: "https://stock.xinpianchang.com/"
+          description: "新片场素材 - 正版视频素材,AE模板,音乐,图片素材交易平台"
+        - title: "lmbox凌萌盒©|专业的国产中文Pr&Ae素材管理扩展"
+          logo: "https://favicon.duckduckgo.com/ip3/sockite.com.ico"
+          url: "https://sockite.com/lmbox/lab/"
+          description: "lmbox凌萌盒©|专业的国产中文Pr&Ae素材管理扩展"
+        - title: "胖胖座头鲸分享资源汇总 - 飞书云文档"
+          logo: "https://favicon.duckduckgo.com/ip3/s1xn7caf8w7.feishu.cn.ico"
+          url: "https://s1xn7caf8w7.feishu.cn/docx/I9cFdsimwouUnDxuWoYc0L6TnVb"
+          description: "胖胖座头鲸分享资源汇总 - 飞书云文档"
+        - title: "在线微信对话生成器"
+          logo: "https://favicon.duckduckgo.com/ip3/wechat.sxcto.com.ico"
+          url: "https://wechat.sxcto.com/"
+          description: "在线微信对话生成器"
+        - title: "高清免费视频素材下载"
+          logo: "https://favicon.duckduckgo.com/ip3/www.freepik.com.ico"
+          url: "https://www.freepik.com/"
+          description: "高清免费视频素材下载"
+        - title: "免费高清视频素材 | GA"
+          logo: "https://favicon.duckduckgo.com/ip3/ga.nasuyun.com.ico"
+          url: "https://ga.nasuyun.com/video"
+          description: "免费高清视频素材 | GA"
+        - title: "Browse icons | Dashboard Icons"
+          logo: "https://favicon.duckduckgo.com/ip3/dashboardicons.com.ico"
+          url: "https://dashboardicons.com/icons"
+          description: "Browse icons | Dashboard Icons"
+        - title: "工具邦"
+          logo: "https://favicon.duckduckgo.com/ip3/cn.piliapp.com.ico"
+          url: "https://cn.piliapp.com/"
+          description: "工具邦"
+        - title: "小鸟壁纸"
+          logo: "https://favicon.duckduckgo.com/ip3/front.birdpaper.cn.ico"
+          url: "https://front.birdpaper.cn/"
+          description: "小鸟壁纸"
+        - title: "视觉中国VCG.COM-正版商用图片,视频,音乐,字体,插画_素材库"
+          logo: "https://favicon.duckduckgo.com/ip3/www.vcg.com.ico"
+          url: "https://www.vcg.com/"
+          description: "视觉中国VCG.COM-正版商用图片,视频,音乐,字体,插画_素材库"
+        - title: "Iconify - home of open source icons"
+          logo: "https://favicon.duckduckgo.com/ip3/icon-sets.iconify.design.ico"
+          url: "https://icon-sets.iconify.design/"
+          description: "Iconify - home of open source icons"
+    - term: 资源
+      links:
+        - title: "网络剪贴板"
+          logo: "https://favicon.duckduckgo.com/ip3/netcut.cn.ico"
+          url: "https://netcut.cn/fu5502"
+          description: "网络剪贴板"
+        - title: "百度网盘系统"
+          logo: "https://favicon.duckduckgo.com/ip3/vip-bd.uicuo.com.ico"
+          url: "http://vip-bd.uicuo.com/svip?key=4eef17c9a39562a2"
+          description: "百度网盘系统"
+        - title: "Авторские репаки от ELCHUPACABRA - REPACK скачать"
+          logo: "https://favicon.duckduckgo.com/ip3/lrepacks.net.ico"
+          url: "https://lrepacks.net/"
+          description: "Авторские репаки от ELCHUPACABRA - REPACK скачать"
+        - title: "U盘数据恢复,内存卡数据恢复,硬盘数据恢复,文件恢复软件_U盘量产网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.upantool.com.ico"
+          url: "http://www.upantool.com/hfxf/huifu/"
+          description: "U盘数据恢复,内存卡数据恢复,硬盘数据恢复,文件恢复软件_U盘量产网"
+        - title: "印象笔记网页版"
+          logo: "https://favicon.duckduckgo.com/ip3/app.yinxiang.com.ico"
+          url: "https://app.yinxiang.com/Home.action?login=true#st=p&n=3856d7ba-a267-4af9-b10c-9462177c518f"
+          description: "印象笔记网页版"
+        - title: "CorelDRAW视频教程-我要自学网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.51zxw.net.ico"
+          url: "http://www.51zxw.net/list.aspx?cid=20"
+          description: "CorelDRAW视频教程-我要自学网"
+        - title: "软件街 - 最新版给力免费软件官方下载推荐"
+          logo: "https://favicon.duckduckgo.com/ip3/www.softjie.cn.ico"
+          url: "http://www.softjie.cn/"
+          description: "软件街 - 最新版给力免费软件官方下载推荐"
+        - title: "绿色资源网_绿色下载站_做最好的免费软件下载网站"
+          logo: "https://favicon.duckduckgo.com/ip3/www.downcc.com.ico"
+          url: "http://www.downcc.com/"
+          description: "绿色资源网_绿色下载站_做最好的免费软件下载网站"
+        - title: "软件下载 - 脚本之家"
+          logo: "https://favicon.duckduckgo.com/ip3/www.jb51.net.ico"
+          url: "http://www.jb51.net/softs/"
+          description: "软件下载 - 脚本之家"
+        - title: "未来软件园_精品绿色软件下载_免费共享-安全可靠的绿色软件下载站"
+          logo: "https://favicon.duckduckgo.com/ip3/www.orsoon.com.ico"
+          url: "http://www.orsoon.com/"
+          description: "未来软件园_精品绿色软件下载_免费共享-安全可靠的绿色软件下载站"
+        - title: "软件阁 - 原创绿色软件更新,精品软件共享"
+          logo: "https://favicon.duckduckgo.com/ip3/www.lite6.com.ico"
+          url: "http://www.lite6.com/"
+          description: "软件阁 - 原创绿色软件更新,精品软件共享"
+        - title: "安卓图标美化软件(Flat Style Bar Indicators) v0.7.1 汉化破解版下载 - 飘荡软件"
+          logo: "https://favicon.duckduckgo.com/ip3/www.piaodown.com.ico"
+          url: "http://www.piaodown.com/soft/106510.htm"
+          description: "安卓图标美化软件(Flat Style Bar Indicators) v0.7.1 汉化破解版下载 - 飘荡软件"
+        - title: "Global Potplayer视频播放器"
+          logo: "https://favicon.duckduckgo.com/ip3/potplayer.daum.net.ico"
+          url: "http://potplayer.daum.net/?lang=zh_CN"
+          description: "Global Potplayer视频播放器"
+        - title: "小马官网_小马激活工具|小马工具箱|小马PE系统|小马U盘启动|小马U盘装系统|小马U盘启动盘制作工具"
+          logo: "https://favicon.duckduckgo.com/ip3/www.pccppc.com.ico"
+          url: "http://www.pccppc.com/"
+          description: "小马官网_小马激活工具|小马工具箱|小马PE系统|小马U盘启动|小马U盘装系统|小马U盘启动盘制作工具"
+        - title: "绿色软件 - 绿色先锋下载 - 绿色软件下载站"
+          logo: "https://favicon.duckduckgo.com/ip3/www.greenxf.com.ico"
+          url: "http://www.greenxf.com/?ie"
+          description: "绿色软件 - 绿色先锋下载 - 绿色软件下载站"
+        - title: "th_sjy 汉化博客-专注软件汉化和精品资源分享 - www.th-sjy.com"
+          logo: "https://favicon.duckduckgo.com/ip3/www.th-sjy.com.ico"
+          url: "http://www.th-sjy.com/"
+          description: "th_sjy 汉化博客-专注软件汉化和精品资源分享 - www.th-sjy.com"
+        - title: "MASTERkreatif | 免费下载软件完整版"
+          logo: "https://favicon.duckduckgo.com/ip3/www.masterkreatif.com.ico"
+          url: "https://www.masterkreatif.com/"
+          description: "MASTERkreatif | 免费下载软件完整版"
+        - title: "Plex for Android 6.15.0.3828 [Unlocked].apk (com.plexapp.android)FREE_DOWNLOAD_CRACKED_ON_GOOGLE_PLAYHiAppHere Market"
+          logo: "https://favicon.duckduckgo.com/ip3/m.hiapphere.com.ico"
+          url: "http://m.hiapphere.com/apk-com.plexapp.android"
+          description: "Plex for Android 6.15.0.3828 [Unlocked].apk (com.plexapp.android)FREE_DOWNLOAD_CRACKED_ON_GOOGLE_PLAYHiAppHere Market"
+        - title: "Y-OS工作室 –云OS，一切无限可能"
+          logo: "https://favicon.duckduckgo.com/ip3/y-os.net.ico"
+          url: "http://y-os.net/"
+          description: "Y-OS工作室 –云OS，一切无限可能"
+        - title: "MSDN 我告诉你"
+          logo: "https://favicon.duckduckgo.com/ip3/www.msdn.hk.ico"
+          url: "http://www.msdn.hk/"
+          description: "MSDN 我告诉你"
+        - title: "首页_懒得勤快的博客_互联网分享精神"
+          logo: "https://favicon.duckduckgo.com/ip3/masuit.com.ico"
+          url: "https://masuit.com/"
+          description: "首页_懒得勤快的博客_互联网分享精神"
+        - title: "夜雨聆风-专注于互联网资源分享，乐于分享，好资源不私藏！"
+          logo: "https://favicon.duckduckgo.com/ip3/www.yeyulingfeng.com.ico"
+          url: "http://www.yeyulingfeng.com/"
+          description: "夜雨聆风-专注于互联网资源分享，乐于分享，好资源不私藏！"
+        - title: "果核剥壳 - 还原软件的本质"
+          logo: "https://favicon.duckduckgo.com/ip3/www.ghpym.com.ico"
+          url: "https://www.ghpym.com/"
+          description: "果核剥壳 - 还原软件的本质"
+        - title: "玉米系统官网_Win7旗舰版_Win10专业版_XP系统_Win8.1下载"
+          logo: "https://favicon.duckduckgo.com/ip3/www.yumixitong.com.ico"
+          url: "https://www.yumixitong.com/"
+          description: "玉米系统官网_Win7旗舰版_Win10专业版_XP系统_Win8.1下载"
+        - title: "全民解析-VIP视频在线解析"
+          logo: "https://favicon.duckduckgo.com/ip3/v.cnv3.com.ico"
+          url: "https://v.cnv3.com/"
+          description: "全民解析-VIP视频在线解析"
+        - title: "ucbug软件站 - 免费软件下载_绿色软件下载"
+          logo: "https://favicon.duckduckgo.com/ip3/www.ucbug.com.ico"
+          url: "http://www.ucbug.com/"
+          description: "ucbug软件站 - 免费软件下载_绿色软件下载"
+        - title: "423Down"
+          logo: "https://favicon.duckduckgo.com/ip3/www.423down.com.ico"
+          url: "https://www.423down.com/"
+          description: "423Down"
+        - title: "文本转语音 | Microsoft Azure"
+          logo: "https://favicon.duckduckgo.com/ip3/azure.microsoft.com.ico"
+          url: "https://azure.microsoft.com/zh-cn/services/cognitive-services/text-to-speech/#features"
+          description: "文本转语音 | Microsoft Azure"
+        - title: "小刀娱乐网-免费资源分享平台,全网干货共分享-好东西不私藏!"
+          logo: "https://favicon.duckduckgo.com/ip3/www.x6g.com.ico"
+          url: "https://www.x6g.com/"
+          description: "小刀娱乐网-免费资源分享平台,全网干货共分享-好东西不私藏!"
+        - title: "六音"
+          logo: "https://favicon.duckduckgo.com/ip3/www.6yit.com.ico"
+          url: "https://www.6yit.com/"
+          description: "六音"
+        - title: "交流岛资源网-专注网络资源收集"
+          logo: "https://favicon.duckduckgo.com/ip3/www.jiaoliudao.com.ico"
+          url: "https://www.jiaoliudao.com/"
+          description: "交流岛资源网-专注网络资源收集"
+        - title: "Adobe全套软件下载地址"
+          logo: "https://favicon.duckduckgo.com/ip3/www.yuque.com.ico"
+          url: "https://www.yuque.com/islandgg13/tdg1oz/dzmses?"
+          description: "Adobe全套软件下载地址"
+        - title: "盒子地窖"
+          logo: "https://favicon.duckduckgo.com/ip3/www.wmsio.cn.ico"
+          url: "http://www.wmsio.cn/"
+          description: "盒子地窖"
+        - title: "tvOS apps on TestFlight - Departures"
+          logo: "https://favicon.duckduckgo.com/ip3/www.departures.to.ico"
+          url: "https://www.departures.to/tag/tvos/r/recFqoggP4W2HTsYg"
+          description: "tvOS apps on TestFlight - Departures"
+        - title: "黑洞| 书签导航"
+          logo: "https://favicon.duckduckgo.com/ip3/hddh.link.ico"
+          url: "https://hddh.link/"
+          description: "黑洞| 书签导航"
+        - title: "苦瓜甘甜博客-爱软件、专汉化、精封装、乐分享"
+          logo: "https://favicon.duckduckgo.com/ip3/www.kuguagantian.com.ico"
+          url: "https://www.kuguagantian.com/"
+          description: "苦瓜甘甜博客-爱软件、专汉化、精封装、乐分享"
+        - title: "果核剥壳 - 互联网的净土"
+          logo: "https://favicon.duckduckgo.com/ip3/www.ghxi.com.ico"
+          url: "https://www.ghxi.com/"
+          description: "果核剥壳 - 互联网的净土"
+        - title: "设计宝藏 - 免费分享影视后期三维CG特效设计工具软件"
+          logo: "https://favicon.duckduckgo.com/ip3/www.shejibaozang.com.ico"
+          url: "https://www.shejibaozang.com/"
+          description: "设计宝藏 - 免费分享影视后期三维CG特效设计工具软件"
+        - title: "乐享网-乐于分享，收获快乐！"
+          logo: "https://favicon.duckduckgo.com/ip3/www.lxapk.com.ico"
+          url: "https://www.lxapk.com/"
+          description: "乐享网-乐于分享，收获快乐！"
+        - title: "下载93"
+          logo: "https://favicon.duckduckgo.com/ip3/download93.com.ico"
+          url: "https://download93.com/"
+          description: "下载93"
+        - title: "Windows software, drivers & operating system - FileCR"
+          logo: "https://favicon.duckduckgo.com/ip3/filecr.com.ico"
+          url: "https://filecr.com/ms-windows/"
+          description: "Windows software, drivers & operating system - FileCR"
+        - title: "佛系软件 - 精品Windows,macOS破解软件下载"
+          logo: "https://favicon.duckduckgo.com/ip3/foxirj.com.ico"
+          url: "https://foxirj.com/"
+          description: "佛系软件 - 精品Windows,macOS破解软件下载"
+        - title: "ZAPRO · 杂铺 - 高质量影视资讯与技术分享平台"
+          logo: "https://favicon.duckduckgo.com/ip3/tmioe.com.ico"
+          url: "https://tmioe.com/"
+          description: "ZAPRO · 杂铺 - 高质量影视资讯与技术分享平台"
+        - title: "小众软件 - 分享免费、小巧、实用、有趣、绿色的软件"
+          logo: "https://favicon.duckduckgo.com/ip3/www.appinn.com.ico"
+          url: "https://www.appinn.com/"
+          description: "小众软件 - 分享免费、小巧、实用、有趣、绿色的软件"
+        - title: "新片场 - 发现全球优质视频与创作人，与百万创作人一起成长"
+          logo: "https://favicon.duckduckgo.com/ip3/www.xinpianchang.com.ico"
+          url: "https://www.xinpianchang.com/"
+          description: "新片场 - 发现全球优质视频与创作人，与百万创作人一起成长"
+        - title: "软仓 | RuanCang.Net"
+          logo: "https://favicon.duckduckgo.com/ip3/www.ruancang.net.ico"
+          url: "https://www.ruancang.net/"
+          description: "软仓 | RuanCang.Net"
+        - title: "0DayDown - 关注资讯"
+          logo: "https://favicon.duckduckgo.com/ip3/www.0daydown.com.ico"
+          url: "https://www.0daydown.com/"
+          description: "0DayDown - 关注资讯"
+        - title: "西部落 -放心软件搜索平台"
+          logo: "https://favicon.duckduckgo.com/ip3/www.xibuluo.com.ico"
+          url: "https://www.xibuluo.com/?fzg"
+          description: "西部落 -放心软件搜索平台"
+        - title: "无忧软件网 | 分享互联网优质资源，常用绿色破解版软件"
+          logo: "https://favicon.duckduckgo.com/ip3/www.wycad.com.ico"
+          url: "https://www.wycad.com/"
+          description: "无忧软件网 | 分享互联网优质资源，常用绿色破解版软件"
+        - title: "windows系统下载UUP dump不忘初心中文站"
+          logo: "https://favicon.duckduckgo.com/ip3/uupdump.cn.ico"
+          url: "https://uupdump.cn/"
+          description: "windows系统下载UUP dump不忘初心中文站"
+        - title: "网络剪贴板 - 极简的数据暂存和传送工具"
+          logo: "https://favicon.duckduckgo.com/ip3/netcut.cn.ico"
+          url: "https://netcut.cn/"
+          description: "网络剪贴板 - 极简的数据暂存和传送工具"
+        - title: "https://netcut.cn/1j06k18lh"
+          logo: "https://favicon.duckduckgo.com/ip3/netcut.cn.ico"
+          url: "https://netcut.cn/1j06k18lh"
+          description: "https://netcut.cn/1j06k18lh"
+        - title: "mefcl - 分享纯净好资源"
+          logo: "https://favicon.duckduckgo.com/ip3/www.mefcl.com.ico"
+          url: "https://www.mefcl.com/"
+          description: "mefcl - 分享纯净好资源"
+        - title: "App Mod & Premium APK for Android"
+          logo: "https://favicon.duckduckgo.com/ip3/liteapks.com.ico"
+          url: "https://liteapks.com/apps"
+          description: "App Mod & Premium APK for Android"
+        - title: "FinalShell 离线激活工具"
+          logo: "https://favicon.duckduckgo.com/ip3/finalshell.cnd.qzz.io.ico"
+          url: "https://finalshell.cnd.qzz.io/"
+          description: "FinalShell 离线激活工具"
+    - term: 黑苹果
+      links:
+        - title: "MACYY-Mac破解软件分享中心"
+          logo: "https://favicon.duckduckgo.com/ip3/www.macyy.cn.ico"
+          url: "https://www.macyy.cn/"
+          description: "MACYY-Mac破解软件分享中心"
+        - title: "应用 - 精品MAC应用分享"
+          logo: "https://favicon.duckduckgo.com/ip3/xclient.info.ico"
+          url: "https://xclient.info/s/8/"
+          description: "应用 - 精品MAC应用分享"
+        - title: "Appstorrent - 適用於 macOS 的遊戲和應用程序"
+          logo: "https://favicon.duckduckgo.com/ip3/appstorrent.ru.ico"
+          url: "https://appstorrent.ru/"
+          description: "Appstorrent - 適用於 macOS 的遊戲和應用程序"
+        - title: "赤狐Mac_Mac软件免费下载_Mac软件下载网站_精品Mac软件下载"
+          logo: "https://favicon.duckduckgo.com/ip3/www.foxmac.com.ico"
+          url: "https://www.foxmac.com/"
+          description: "赤狐Mac_Mac软件免费下载_Mac软件下载网站_精品Mac软件下载"
+        - title: "黑果小兵的部落阁"
+          logo: "https://favicon.duckduckgo.com/ip3/blog.daliansky.net.ico"
+          url: "https://blog.daliansky.net/"
+          description: "黑果小兵的部落阁"
+        - title: "折腾 7080MFF 黑苹果 OpenCore - 简书"
+          logo: "https://favicon.duckduckgo.com/ip3/www.jianshu.com.ico"
+          url: "https://www.jianshu.com/p/d7cfaae60509"
+          description: "折腾 7080MFF 黑苹果 OpenCore - 简书"
+        - title: "登录-赤狐Mac_Mac软件免费下载_Mac软件下载网站_精品Mac软件下载"
+          logo: "https://favicon.duckduckgo.com/ip3/www.foxmac.com.ico"
+          url: "https://www.foxmac.com/login/"
+          description: "登录-赤狐Mac_Mac软件免费下载_Mac软件下载网站_精品Mac软件下载"
+        - title: "全部游戏-SeeMac"
+          logo: "https://favicon.duckduckgo.com/ip3/www.seemac.cn.ico"
+          url: "https://www.seemac.cn/yxfl/qbyx"
+          description: "全部游戏-SeeMac"
+    - term: 直播源
+      links:
+        - title: "直播源批量测试工具2025 - M3U8播放检测 | IPTV流畅度测试 [Allinone]"
+          logo: "https://favicon.duckduckgo.com/ip3/tools.iptv-search.com.ico"
+          url: "http://tools.iptv-search.com/"
+          description: "直播源批量测试工具2025 - M3U8播放检测 | IPTV流畅度测试 [Allinone]"
+        - title: "直播源转换工具,TXT转M3U,M3U转TXT"
+          logo: "https://favicon.duckduckgo.com/ip3/xhztv.pro.ico"
+          url: "https://xhztv.pro/m3u2txt"
+          description: "直播源转换工具,TXT转M3U,M3U转TXT"
+        - title: "提供EPG的频道列表，实时更新"
+          logo: "https://favicon.duckduckgo.com/ip3/epg.51zmt.top:8000.ico"
+          url: "http://epg.51zmt.top:8000/"
+          description: "提供EPG的频道列表，实时更新"
+        - title: "直播源测试工具,TXT/M3U格式测试"
+          logo: "https://favicon.duckduckgo.com/ip3/xhztv.pro.ico"
+          url: "https://xhztv.pro/tvtester"
+          description: "直播源测试工具,TXT/M3U格式测试"
+        - title: "直播源格式转换器"
+          logo: "https://favicon.duckduckgo.com/ip3/jh.d7g.cn.ico"
+          url: "http://jh.d7g.cn/"
+          description: "直播源格式转换器"
+        - title: "B站弹幕姬 - 开源、简洁的B站直播弹幕工具"
+          logo: "https://favicon.duckduckgo.com/ip3/www.danmuji.org.ico"
+          url: "https://www.danmuji.org/"
+          description: "B站弹幕姬 - 开源、简洁的B站直播弹幕工具"
+    - term: 多媒体
+      links:
+        - title: "网易云音乐 听见好时光"
+          logo: "https://favicon.duckduckgo.com/ip3/music.163.com.ico"
+          url: "http://music.163.com/"
+          description: "网易云音乐 听见好时光"
+        - title: "网盘小站-阿里云盘资源共享第一站"
+          logo: "https://favicon.duckduckgo.com/ip3/wpxz.top.ico"
+          url: "https://wpxz.top/"
+          description: "网盘小站-阿里云盘资源共享第一站"
+        - title: "每天一小时纪录片-好看的纪录片全集下载_1080P高清纪录片大全"
+          logo: "https://favicon.duckduckgo.com/ip3/www.onehourlife.com.ico"
+          url: "http://www.onehourlife.com/"
+          description: "每天一小时纪录片-好看的纪录片全集下载_1080P高清纪录片大全"
+        - title: "豆瓣电影"
+          logo: "https://favicon.duckduckgo.com/ip3/movie.douban.com.ico"
+          url: "https://movie.douban.com/"
+          description: "豆瓣电影"
+        - title: "降央卓玛 -《中国之声-经典珍藏版》BSCD[FLAC]_eD2k地址_其它音乐_音乐下载_ED2000资源共享"
+          logo: "https://favicon.duckduckgo.com/ip3/www.ed2000.com.ico"
+          url: "http://www.ed2000.com/ShowFile.asp?FileID=324402"
+          description: "降央卓玛 -《中国之声-经典珍藏版》BSCD[FLAC]_eD2k地址_其它音乐_音乐下载_ED2000资源共享"
+        - title: "中国自制视频"
+          logo: "https://favicon.duckduckgo.com/ip3/mybigbangtheory.space.ico"
+          url: "http://mybigbangtheory.space/Cazn2"
+          description: "中国自制视频"
+        - title: "字幕下载！！！！ - Sub HD"
+          logo: "https://favicon.duckduckgo.com/ip3/subhd.com.ico"
+          url: "http://subhd.com/"
+          description: "字幕下载！！！！ - Sub HD"
+        - title: "Pornhub"
+          logo: "https://favicon.duckduckgo.com/ip3/cn.pornhub.com.ico"
+          url: "https://cn.pornhub.com/"
+          description: "Pornhub"
+        - title: "中国自制视频"
+          logo: "https://favicon.duckduckgo.com/ip3/91.vido.ws.ico"
+          url: "http://91.vido.ws/"
+          description: "中国自制视频"
+        - title: "BT Kitty - 专业BT种子搜索神器、下载利器，免费下载各种BT种子"
+          logo: "https://favicon.duckduckgo.com/ip3/btkitty.biz.ico"
+          url: "http://btkitty.biz/"
+          description: "BT Kitty - 专业BT种子搜索神器、下载利器，免费下载各种BT种子"
+        - title: "BT福利 - 最好用的BT种子搜索引擎"
+          logo: "https://favicon.duckduckgo.com/ip3/www.btfuli.net.ico"
+          url: "http://www.btfuli.net/"
+          description: "BT福利 - 最好用的BT种子搜索引擎"
+        - title: "m.youjizz.com"
+          logo: "https://favicon.duckduckgo.com/ip3/m.youjizz.com.ico"
+          url: "http://m.youjizz.com/"
+          description: "m.youjizz.com"
+        - title: "M.MyFreeCams.com - Mobile Site Beta"
+          logo: "https://favicon.duckduckgo.com/ip3/m.myfreecams.com.ico"
+          url: "http://m.myfreecams.com/models"
+          description: "M.MyFreeCams.com - Mobile Site Beta"
+        - title: "草榴社區主論壇 - t66y.com"
+          logo: "https://favicon.duckduckgo.com/ip3/t66y.com.ico"
+          url: "http://t66y.com/index.php"
+          description: "草榴社區主論壇 - t66y.com"
+        - title: "喜马拉雅FM,中国最大的音频分享平台，随时随地听我想听!"
+          logo: "https://favicon.duckduckgo.com/ip3/www.ximalaya.com.ico"
+          url: "http://www.ximalaya.com/"
+          description: "喜马拉雅FM,中国最大的音频分享平台，随时随地听我想听!"
+        - title: "中国高清论坛-btchina联盟|mkv电影下载|3d电影下载|1080p、720P高清电影下载|mp4电影下载|高清动漫下载 - Powered by Discuz!"
+          logo: "https://favicon.duckduckgo.com/ip3/www.49lou.com.ico"
+          url: "http://www.49lou.com/"
+          description: "中国高清论坛-btchina联盟|mkv电影下载|3d电影下载|1080p、720P高清电影下载|mp4电影下载|高清动漫下载 - Powered by Discuz!"
+        - title: "字幕库(zimuku) -- 字幕下载网站"
+          logo: "https://favicon.duckduckgo.com/ip3/www.zimuku.cn.ico"
+          url: "http://www.zimuku.cn/"
+          description: "字幕库(zimuku) -- 字幕下载网站"
+        - title: "SongTasty - 用音乐倾听彼此"
+          logo: "https://favicon.duckduckgo.com/ip3/songtasty.com.ico"
+          url: "https://songtasty.com/"
+          description: "SongTasty - 用音乐倾听彼此"
+        - title: "DJ多多"
+          logo: "https://favicon.duckduckgo.com/ip3/www.djduoduo.com.ico"
+          url: "https://www.djduoduo.com/share/index.php"
+          description: "DJ多多"
+        - title: "中国高清网 | 高清电影网|720P|1080P|蓝光原盘|磁力链迅雷下载高清的电影天堂"
+          logo: "https://favicon.duckduckgo.com/ip3/gaoqing.la.ico"
+          url: "http://gaoqing.la/"
+          description: "中国高清网 | 高清电影网|720P|1080P|蓝光原盘|磁力链迅雷下载高清的电影天堂"
+        - title: "熊猫无损音乐免费下载网站-WAV|FLAC|MP3|APE,提供在线简谱,在线歌词,最新最全免费的无损音乐下载网站www.xmwav.com"
+          logo: "https://favicon.duckduckgo.com/ip3/www.xmwav.com.ico"
+          url: "https://www.xmwav.com/"
+          description: "熊猫无损音乐免费下载网站-WAV|FLAC|MP3|APE,提供在线简谱,在线歌词,最新最全免费的无损音乐下载网站www.xmwav.com"
+        - title: "书伴 – 你的电子书伴侣"
+          logo: "https://favicon.duckduckgo.com/ip3/bookfere.com.ico"
+          url: "https://bookfere.com/"
+          description: "书伴 – 你的电子书伴侣"
+        - title: "Nexus mods 和社区中的游戏"
+          logo: "https://favicon.duckduckgo.com/ip3/www.nexusmods.com.ico"
+          url: "https://www.nexusmods.com/games"
+          description: "Nexus mods 和社区中的游戏"
+        - title: "LIBVIO在线影院"
+          logo: "https://favicon.duckduckgo.com/ip3/www.libvio.vip.ico"
+          url: "https://www.libvio.vip/"
+          description: "LIBVIO在线影院"
+        - title: "DJ多多 - 这曲600万人上头《2019顶级嗨曲》多年以后你和谁深情似海！"
+          logo: "https://favicon.duckduckgo.com/ip3/www.djduoduo.com.ico"
+          url: "http://www.djduoduo.com/share/index.php?id=521562&plf=ios&src="
+          description: "DJ多多 - 这曲600万人上头《2019顶级嗨曲》多年以后你和谁深情似海！"
+        - title: "肥羊影视/教程汇总"
+          logo: "https://favicon.duckduckgo.com/ip3/pan.v1.mk.ico"
+          url: "https://pan.v1.mk/%E6%AF%8F%E6%9C%9F%E8%A7%86%E9%A2%91%E4%B8%AD%E7%94%A8%E5%88%B0%E7%9A%84%E6%96%87%E4%BB%B6%E5%88%86%E4%BA%AB/allinone%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%96%87%E4%BB%B6/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md"
+          description: "肥羊影视/教程汇总"
+        - title: "影视 - 我的小站-阿里云盘资源共享站"
+          logo: "https://favicon.duckduckgo.com/ip3/pan666.net.ico"
+          url: "https://pan666.net/t/video"
+          description: "影视 - 我的小站-阿里云盘资源共享站"
+    - term: 工具
+      links:
+        - title: "定制适用于您设备的OpenWrt固件"
+          logo: "https://favicon.duckduckgo.com/ip3/supes.top.ico"
+          url: "https://supes.top/?version=22.03&target=x86%2F64&id=generic"
+          description: "定制适用于您设备的OpenWrt固件"
+        - title: "Bleach OpenWrt | lede/x86_64"
+          logo: "https://favicon.duckduckgo.com/ip3/openwrt.mpdn.fun:8443.ico"
+          url: "https://openwrt.mpdn.fun:8443/?dir=lede%2Fx86_64"
+          description: "Bleach OpenWrt | lede/x86_64"
+        - title: "两元店"
+          logo: "https://favicon.duckduckgo.com/ip3/xn--5hqx9equq.com.ico"
+          url: "https://xn--5hqx9equq.com/#/dashboard"
+          description: "两元店"
+        - title: "Service Configuration - Just My Socks"
+          logo: "https://favicon.duckduckgo.com/ip3/justmysocks.net.ico"
+          url: "https://justmysocks.net/members/sunshine.php?serviceId=664761&page=home"
+          description: "Service Configuration - Just My Socks"
+        - title: "赔钱机场"
+          logo: "https://favicon.duckduckgo.com/ip3/xn--mes358aby2apfg.com.ico"
+          url: "https://xn--mes358aby2apfg.com/#/plan"
+          description: "赔钱机场"
+    - term: 公共VPN分享
+      links:
+        - title: "VPN Gate: 公共 VPN 中继服务器列表"
+          logo: "https://favicon.duckduckgo.com/ip3/www.vpngate.net.ico"
+          url: "https://www.vpngate.net/cn/#LIST"
+          description: "VPN Gate: 公共 VPN 中继服务器列表"
+        - title: "所有国家代理服务器 - SOCKS5"
+          logo: "https://favicon.duckduckgo.com/ip3/free-proxy.cz.ico"
+          url: "http://free-proxy.cz/en/proxylist/country/all/socks5/ping/all"
+          description: "所有国家代理服务器 - SOCKS5"
+        - title: "免费袜子 - 袜子代理 - 袜子5名单 - 袜子4名单 - 美国袜子 - 活袜子代理 - 新鲜袜子代理"
+          logo: "https://favicon.duckduckgo.com/ip3/www.gatherproxy.com.ico"
+          url: "http://www.gatherproxy.com/sockslist"
+          description: "免费袜子 - 袜子代理 - 袜子5名单 - 袜子4名单 - 美国袜子 - 活袜子代理 - 新鲜袜子代理"
+        - title: "免费的SOCKS代理服务器列表，socks4和socks5代理"
+          logo: "https://favicon.duckduckgo.com/ip3/spys.one.ico"
+          url: "http://spys.one/en/socks-proxy-list/"
+          description: "免费的SOCKS代理服务器列表，socks4和socks5代理"
+        - title: "高级代理服务| 主页"
+          logo: "https://favicon.duckduckgo.com/ip3/premproxy.com.ico"
+          url: "https://premproxy.com/"
+          description: "高级代理服务| 主页"
+        - title: "VPN Gate: 公共 VPN 中继服务器列表"
+          logo: "https://favicon.duckduckgo.com/ip3/www.vpngate.net.ico"
+          url: "https://www.vpngate.net/cn/"
+          description: "VPN Gate: 公共 VPN 中继服务器列表"
+    - term: GFW墙
+      links:
+        - title: "ETtoday新聞雲 | Today is my day"
+          logo: "https://favicon.duckduckgo.com/ip3/www.ettoday.net.ico"
+          url: "https://www.ettoday.net/?from=logo"
+          description: "ETtoday新聞雲 | Today is my day"
+        - title: "首页 | 路透中文网"
+          logo: "https://favicon.duckduckgo.com/ip3/cn.reuters.com.ico"
+          url: "http://cn.reuters.com/"
+          description: "首页 | 路透中文网"
+        - title: "https://www.youtube.com"
+          logo: "https://favicon.duckduckgo.com/ip3/www.youtube.com.ico"
+          url: "https://www.youtube.com/"
+          description: "https://www.youtube.com"
+        - title: "Google Play 上的 Andr​​oid 应用"
+          logo: "https://favicon.duckduckgo.com/ip3/play.google.com.ico"
+          url: "https://play.google.com/store"
+          description: "Google Play 上的 Andr​​oid 应用"
+        - title: "Google AdSense"
+          logo: "https://favicon.duckduckgo.com/ip3/www.google.com.ico"
+          url: "https://www.google.com/adsense/"
+          description: "Google AdSense"
+        - title: "华尔街日报中文网_突发新闻，商业，经济，金融，财经，国际新闻，多媒体，视频_华尔街日报中文版_WSJ_The Wall Street Journal"
+          logo: "https://favicon.duckduckgo.com/ip3/cn.wsj.com.ico"
+          url: "http://cn.wsj.com/gb/index.asp"
+          description: "华尔街日报中文网_突发新闻，商业，经济，金融，财经，国际新闻，多媒体，视频_华尔街日报中文版_WSJ_The Wall Street Journal"
+        - title: "192.168.99.3:25500/sub  订阅转换地址"
+          logo: "https://favicon.duckduckgo.com/ip3/192.168.99.3:25500.ico"
+          url: "http://192.168.99.3:25500/sub"
+          description: "192.168.99.3:25500/sub  订阅转换地址"
+        - title: "Cfan•Home"
+          logo: "https://favicon.duckduckgo.com/ip3/h.10588.dpdns.org:8443.ico"
+          url: "https://h.10588.dpdns.org:8443/"
+          description: "Cfan•Home"
+        - title: "Kindle天气台历"
+          logo: "https://favicon.duckduckgo.com/ip3/kw6.netlify.app.ico"
+          url: "https://kw6.netlify.app/"
+          description: "Kindle天气台历"
+        - title: "CF-fqdl(订阅中心）黑"
+          logo: "https://favicon.duckduckgo.com/ip3/fqdl.ncn.qzz.io.ico"
+          url: "https://fqdl.ncn.qzz.io/cfan"
+          description: "CF-fqdl(订阅中心）黑"
+        - title: "Shadowsocks 订阅中心"
+          logo: "https://favicon.duckduckgo.com/ip3/ss.cnidm.eu.org.ico"
+          url: "https://ss.cnidm.eu.org/17bb1db8-81ef-4274-bfc6-0a90c4ad7a98"
+          description: "Shadowsocks 订阅中心"
+        - title: "Snippets订阅链接"
+          logo: "https://favicon.duckduckgo.com/ip3/snip.cnidm.eu.org.ico"
+          url: "https://snip.cnidm.eu.org/32f09d72-4af9-42df-866b-2733e7a290b4"
+          description: "Snippets订阅链接"
+        - title: "LaoWang Sub-converter - 订阅转换器"
+          logo: "https://favicon.duckduckgo.com/ip3/sub-dl.vercel.app.ico"
+          url: "https://sub-dl.vercel.app/converter"
+          description: "LaoWang Sub-converter - 订阅转换器"
+    - term: 杂项
+      links:
+        - title: "老付 骑行11.89公里，时间39分26秒 - 行者骑行软件"
+          logo: "https://favicon.duckduckgo.com/ip3/www.imxingzhe.com.ico"
+          url: "http://www.imxingzhe.com/xing/629901/"
+          description: "老付 骑行11.89公里，时间39分26秒 - 行者骑行软件"
+        - title: "Speedtest.net 测速测速测速测速测速测速"
+          logo: "https://favicon.duckduckgo.com/ip3/www.speedtest.net.ico"
+          url: "http://www.speedtest.net/"
+          description: "Speedtest.net 测速测速测速测速测速测速"
+        - title: "淘宝联盟-我的舞台！致力于成为全球领先的开放、分享和责任的电子商务联盟！"
+          logo: "https://favicon.duckduckgo.com/ip3/pub.alimama.com.ico"
+          url: "http://pub.alimama.com/myunion.htm?spm=0.0.0.0.b4bX4B#!/promo/self/items"
+          description: "淘宝联盟-我的舞台！致力于成为全球领先的开放、分享和责任的电子商务联盟！"
+        - title: "网页短信轰炸机-在线短信轰炸机-免费短信轰炸机-迷你轰炸平台-免费网页电话"
+          logo: "https://favicon.duckduckgo.com/ip3/www.80x08.com.ico"
+          url: "http://www.80x08.com/sms/"
+          description: "网页短信轰炸机-在线短信轰炸机-免费短信轰炸机-迷你轰炸平台-免费网页电话"
+        - title: "迅雷远程下载，随时随地，想下就下"
+          logo: "https://favicon.duckduckgo.com/ip3/yuancheng.xunlei.com.ico"
+          url: "http://yuancheng.xunlei.com/"
+          description: "迅雷远程下载，随时随地，想下就下"
+        - title: "网站测速|网站速度测试|网速测试|电信|联通|网通|全国|监控|CDN|PING|DNS 17CE.COM"
+          logo: "https://favicon.duckduckgo.com/ip3/www.17ce.com.ico"
+          url: "https://www.17ce.com/"
+          description: "网站测速|网站速度测试|网速测试|电信|联通|网通|全国|监控|CDN|PING|DNS 17CE.COM"
+        - title: "中国科学技术大学测速网站"
+          logo: "https://favicon.duckduckgo.com/ip3/test.ustc.edu.cn.ico"
+          url: "https://test.ustc.edu.cn/"
+          description: "中国科学技术大学测速网站"
+        - title: "家庭网络中枢地址-roxmox Virtual Environment"
+          logo: "https://favicon.duckduckgo.com/ip3/192.168.99.2:8006.ico"
+          url: "https://192.168.99.2:8006/#v1:0:=qemu%2F101:4:::::8::"
+          description: "家庭网络中枢地址-roxmox Virtual Environment"
+        - title: "奈飞测速"
+          logo: "https://favicon.duckduckgo.com/ip3/fast.com.ico"
+          url: "https://fast.com/#"
+          description: "奈飞测速"
+        - title: "Check My NAT测试"
+          logo: "https://favicon.duckduckgo.com/ip3/www.checkmynat.com.ico"
+          url: "https://www.checkmynat.com/"
+          description: "Check My NAT测试"
+        - title: "俄勒冈州地址生成器 - 美国地址生成器 - 美国身份生成器"
+          logo: "https://favicon.duckduckgo.com/ip3/www.meiguodizhi.com.ico"
+          url: "https://www.meiguodizhi.com/usa-address/oregon"
+          description: "俄勒冈州地址生成器 - 美国地址生成器 - 美国身份生成器"
+        - title: "随机信用卡号生成器 -生成后虚拟卡后再去验证01-验证02 Namsogen"
+          logo: "https://favicon.duckduckgo.com/ip3/namso-gen.com.ico"
+          url: "https://namso-gen.com/?tab=advance&network=random"
+          description: "随机信用卡号生成器 -生成后虚拟卡后再去验证01-验证02 Namsogen"
+        - title: "虚拟卡验证01---史上最佳免费信用卡验证工具 | chkr.cc"
+          logo: "https://favicon.duckduckgo.com/ip3/chkr.cc.ico"
+          url: "https://chkr.cc/"
+          description: "虚拟卡验证01---史上最佳免费信用卡验证工具 | chkr.cc"
+        - title: "虚拟卡验证02   支付 - 模拟"
+          logo: "https://favicon.duckduckgo.com/ip3/mock.payate.com.ico"
+          url: "https://mock.payate.com/"
+          description: "虚拟卡验证02   支付 - 模拟"
+    - term: 娱乐
+      links:
+        - title: "游民星空 - 大型单机游戏媒体 提供最具特色单机游戏资讯、下载"
+          logo: "https://favicon.duckduckgo.com/ip3/www.gamersky.com.ico"
+          url: "http://www.gamersky.com/"
+          description: "游民星空 - 大型单机游戏媒体 提供最具特色单机游戏资讯、下载"
+        - title: "XBOX360中文网_微软XBOX360_XBOX360游戏下载 - 多玩XBOX360专区 - tv.duowan.com/xbox360"
+          logo: "https://favicon.duckduckgo.com/ip3/tv.duowan.com.ico"
+          url: "http://tv.duowan.com/xbox360/"
+          description: "XBOX360中文网_微软XBOX360_XBOX360游戏下载 - 多玩XBOX360专区 - tv.duowan.com/xbox360"
+        - title: "XboxUnity interface | Access to title updates, covers and link rooms"
+          logo: "https://favicon.duckduckgo.com/ip3/xboxunity.net.ico"
+          url: "http://xboxunity.net/"
+          description: "XboxUnity interface | Access to title updates, covers and link rooms"
+        - title: "王者荣耀直播_王者荣耀视频解说攻略_游戏直播平台_虎牙直播"
+          logo: "https://favicon.duckduckgo.com/ip3/www.huya.com.ico"
+          url: "https://www.huya.com/g/wzry#tag332"
+          description: "王者荣耀直播_王者荣耀视频解说攻略_游戏直播平台_虎牙直播"
+        - title: "王者荣耀装备数据库_装备_物品_道具_18183王者荣耀专区"
+          logo: "https://favicon.duckduckgo.com/ip3/db.18183.com.ico"
+          url: "http://db.18183.com/wzry/equip/"
+          description: "王者荣耀装备数据库_装备_物品_道具_18183王者荣耀专区"
+        - title: "单机游戏_单机游戏下载_单机游戏门户_游侠网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.ali213.net.ico"
+          url: "https://www.ali213.net/"
+          description: "单机游戏_单机游戏下载_单机游戏门户_游侠网"
+        - title: "单机资源下载_一键下载安装游戏资源,辅助工具_3DM下载"
+          logo: "https://favicon.duckduckgo.com/ip3/dl.3dmgame.com.ico"
+          url: "https://dl.3dmgame.com/"
+          description: "单机资源下载_一键下载安装游戏资源,辅助工具_3DM下载"
+        - title: "Switch520"
+          logo: "https://favicon.duckduckgo.com/ip3/www.gamer520.com.ico"
+          url: "https://www.gamer520.com/"
+          description: "Switch520"
+        - title: "单机游戏_单机游戏下载_单机游戏大全中文版下载_3DM游戏网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.3dmgame.com.ico"
+          url: "https://www.3dmgame.com/"
+          description: "单机游戏_单机游戏下载_单机游戏大全中文版下载_3DM游戏网"
+        - title: "vika.cn/share/shrp3sCcnRU2WRTqnmcUh/fodDZQSfi9d35"
+          logo: "https://favicon.duckduckgo.com/ip3/vika.cn.ico"
+          url: "https://vika.cn/share/shrp3sCcnRU2WRTqnmcUh/fodDZQSfi9d35"
+          description: "vika.cn/share/shrp3sCcnRU2WRTqnmcUh/fodDZQSfi9d35"
+        - title: "switch520–专业的switch游戏下载网站"
+          logo: "https://favicon.duckduckgo.com/ip3/www.520switch.com.ico"
+          url: "https://www.520switch.com/"
+          description: "switch520–专业的switch游戏下载网站"
+        - title: "PC游戏|飞星游戏网 - 高质量单机游戏网盘下载站 | 免费Steam资源"
+          logo: "https://favicon.duckduckgo.com/ip3/www.feixing66.cc.ico"
+          url: "https://www.feixing66.cc/pc"
+          description: "PC游戏|飞星游戏网 - 高质量单机游戏网盘下载站 | 免费Steam资源"
+        - title: "Switch固件和key"
+          logo: "https://favicon.duckduckgo.com/ip3/prodkeys.net.ico"
+          url: "https://prodkeys.net/"
+          description: "Switch固件和key"
+    - term: PT
+      links:
+        - title: "馒头——M-Team - TP :: 用户详情- fu5502 - Powered by NexusPHP"
+          logo: "https://favicon.duckduckgo.com/ip3/kp.m-team.cc.ico"
+          url: "https://kp.m-team.cc/"
+          description: "馒头——M-Team - TP :: 用户详情- fu5502 - Powered by NexusPHP"
+        - title: "春天——SSD :: 首页 - Powered by NexusPHP"
+          logo: "https://favicon.duckduckgo.com/ip3/springsunday.net.ico"
+          url: "https://springsunday.net/index.php"
+          description: "春天——SSD :: 首页 - Powered by NexusPHP"
+        - title: "PT时间 :: 登录 - Powered by NexusPHP"
+          logo: "https://favicon.duckduckgo.com/ip3/www.pttime.org.ico"
+          url: "https://www.pttime.org/attendance.php"
+          description: "PT时间 :: 登录 - Powered by NexusPHP"
+        - title: "猪猪网 :: 种子 - Powered by NexusPHP"
+          logo: "https://favicon.duckduckgo.com/ip3/piggo.me.ico"
+          url: "https://piggo.me/torrents.php"
+          description: "猪猪网 :: 种子 - Powered by NexusPHP"
+        - title: "比特校园——BTSCHOOL :: 用户详情 -  比特校园PT小乐园 - Powered by NexusPHP"
+          logo: "https://favicon.duckduckgo.com/ip3/pt.btschool.club.ico"
+          url: "https://pt.btschool.club/"
+          description: "比特校园——BTSCHOOL :: 用户详情 -  比特校园PT小乐园 - Powered by NexusPHP"
+        - title: "海棠PT :: 论坛 - Powered by NexusPHP"
+          logo: "https://favicon.duckduckgo.com/ip3/www.htpt.cc.ico"
+          url: "https://www.htpt.cc/torrents.php"
+          description: "海棠PT :: 论坛 - Powered by NexusPHP"
+        - title: "时光——HDTIME :: 种子 高清时间 | pt｜下载｜10bit |HDTimePT - Powered by NexusPHP"
+          logo: "https://favicon.duckduckgo.com/ip3/hdtime.org.ico"
+          url: "https://hdtime.org/torrents.php"
+          description: "时光——HDTIME :: 种子 高清时间 | pt｜下载｜10bit |HDTimePT - Powered by NexusPHP"
+        - title: "海豚首页 :: Great Poster Wall"
+          logo: "https://favicon.duckduckgo.com/ip3/greatposterwall.com.ico"
+          url: "https://greatposterwall.com/index.php"
+          description: "海豚首页 :: Great Poster Wall"
+        - title: "高清杜比-HD Dolby :: RSS订阅 - Powered by NexusPHP"
+          logo: "https://favicon.duckduckgo.com/ip3/www.hddolby.com.ico"
+          url: "https://www.hddolby.com/getrss.php"
+          description: "高清杜比-HD Dolby :: RSS订阅 - Powered by NexusPHP"
+        - title: "高清视界HDArea: High Definition Area|高清视界 - Powered by NexusPHP"
+          logo: "https://favicon.duckduckgo.com/ip3/www.hdarea.co.ico"
+          url: "https://www.hdarea.co/torrents.php"
+          description: "高清视界HDArea: High Definition Area|高清视界 - Powered by NexusPHP"
+        - title: "我堡OurBits - Powered by NexusPHP"
+          logo: "https://favicon.duckduckgo.com/ip3/ourbits.club.ico"
+          url: "https://ourbits.club/login.php"
+          description: "我堡OurBits - Powered by NexusPHP"
+        - title: "CHDBits :: 首页 - Powered by NexusPHP"
+          logo: "https://favicon.duckduckgo.com/ip3/ptchdbits.co.ico"
+          url: "https://ptchdbits.co/index.php"
+          description: "CHDBits :: 首页 - Powered by NexusPHP"
+        - title: "新闻 :: HappyFappy"
+          logo: "https://favicon.duckduckgo.com/ip3/www.happyfappy.org.ico"
+          url: "https://www.happyfappy.org/"
+          description: "新闻 :: HappyFappy"
+        - title: "ＰＴ之友俱乐部 :: 种子 PTerClub"
+          logo: "https://favicon.duckduckgo.com/ip3/pterclub.net.ico"
+          url: "https://pterclub.net/torrents.php"
+          description: "ＰＴ之友俱乐部 :: 种子 PTerClub"
+    - term: 脚本
+      links:
+        - title: "Emby Premiere 白嫖方案 | (๑•̀ㅂ•́)و✧ | Phoenix Xie"
+          logo: "https://favicon.duckduckgo.com/ip3/blog.phoenixxie.xyz.ico"
+          url: "https://blog.phoenixxie.xyz/Emby_Premiere_%E7%99%BD%E5%AB%96%E6%96%B9%E6%A1%88.(%E0%B9%91%E2%80%A2%CC%80%E3%85%82%E2%80%A2%CC%81)%D9%88%E2%9C%A7/"
+          description: "Emby Premiere 白嫖方案 | (๑•̀ㅂ•́)و✧ | Phoenix Xie"
+    - term: 交互
+      links:
+        - title: "AC68U-192.168.99.1"
+          logo: "https://favicon.duckduckgo.com/ip3/192.168.99.1.ico"
+          url: "http://192.168.99.1/"
+          description: "AC68U-192.168.99.1"
+        - title: "192.168.99.3    Synology DiskStation"
+          logo: "https://favicon.duckduckgo.com/ip3/192.168.99.3:5000.ico"
+          url: "http://192.168.99.3:5000/"
+          description: "192.168.99.3    Synology DiskStation"
+        - title: "dsm2018 - Synology DiskStation"
+          logo: "https://favicon.duckduckgo.com/ip3/fu5502.f3322.net:5000.ico"
+          url: "http://fu5502.f3322.net:5000/"
+          description: "dsm2018 - Synology DiskStation"
+        - title: "Dsm6 - Synology DiskStation"
+          logo: "https://favicon.duckduckgo.com/ip3/fu5502.iask.in:5000.ico"
+          url: "http://fu5502.iask.in:5000/"
+          description: "Dsm6 - Synology DiskStation"
+        - title: "我的签到"
+          logo: "https://favicon.duckduckgo.com/ip3/192.168.99.3:8888.ico"
+          url: "http://192.168.99.3:8888/my/"
+          description: "我的签到"
+        - title: "公开的签到模板"
+          logo: "https://favicon.duckduckgo.com/ip3/qiandao.today.ico"
+          url: "https://qiandao.today/tpls/public"
+          description: "公开的签到模板"
+        - title: "桥转路由设置"
+          logo: "https://favicon.duckduckgo.com/ip3/192.168.1.1:8080.ico"
+          url: "http://192.168.1.1:8080/bridge_route.gch"
+          description: "桥转路由设置"
+        - title: "黑洞云 Pro"
+          logo: "https://favicon.duckduckgo.com/ip3/blackholeservices.com.ico"
+          url: "https://blackholeservices.com/#/dashboard"
+          description: "黑洞云 Pro"
+        - title: "控制台"
+          logo: "https://favicon.duckduckgo.com/ip3/www.dnspod.cn.ico"
+          url: "https://www.dnspod.cn/console/user/security"
+          description: "控制台"
+        - title: "NC返回"
+          logo: "https://favicon.duckduckgo.com/ip3/www.niuxsd.cn.ico"
+          url: "http://www.niuxsd.cn/auth/login"
+          description: "NC返回"
+        - title: "提交票 - ChangeIP"
+          logo: "https://favicon.duckduckgo.com/ip3/www.changeip.com.ico"
+          url: "https://www.changeip.com/accounts/submitticket.php?step=2&deptid=1"
+          description: "提交票 - ChangeIP"
+        - title: "逗比根据地 - 世界那么逗，我想出去看看"
+          logo: "https://favicon.duckduckgo.com/ip3/doub.io.ico"
+          url: "https://doub.io/"
+          description: "逗比根据地 - 世界那么逗，我想出去看看"
+        - title: "小浩博客 - 关注互联网及网站建设"
+          logo: "https://favicon.duckduckgo.com/ip3/www.xhsay.com.ico"
+          url: "https://www.xhsay.com/"
+          description: "小浩博客 - 关注互联网及网站建设"
+        - title: "莲山课件--免费课件--首页"
+          logo: "https://favicon.duckduckgo.com/ip3/www.5ykj.com.ico"
+          url: "http://www.5ykj.com/"
+          description: "莲山课件--免费课件--首页"
+        - title: "客户区 - Hostens"
+          logo: "https://favicon.duckduckgo.com/ip3/billing.hostens.com.ico"
+          url: "https://billing.hostens.com/clientarea/"
+          description: "客户区 - Hostens"
+        - title: "试用活动网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.trylist.com.ico"
+          url: "http://www.trylist.com/shiyong/"
+          description: "试用活动网"
+        - title: "免费试用 | 免费赠品 - Free9免费资源网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.free9.net.ico"
+          url: "http://www.free9.net/others/gift/"
+          description: "免费试用 | 免费赠品 - Free9免费资源网"
+        - title: "ParaEx"
+          logo: "https://favicon.duckduckgo.com/ip3/www.paraex.me.ico"
+          url: "https://www.paraex.me/my/pwds"
+          description: "ParaEx"
+        - title: "CF"
+          logo: "https://favicon.duckduckgo.com/ip3/www.cfquantum.org.ico"
+          url: "https://www.cfquantum.org/account/info"
+          description: "CF"
+        - title: "godaddy产品"
+          logo: "https://favicon.duckduckgo.com/ip3/account.godaddy.com.ico"
+          url: "https://account.godaddy.com/products/#/"
+          description: "godaddy产品"
+        - title: "AppCan文档中心-AppCanIDE安装下载"
+          logo: "https://favicon.duckduckgo.com/ip3/newdocx.appcan.cn.ico"
+          url: "http://newdocx.appcan.cn/newdocx/docx?type=1236_1234"
+          description: "AppCan文档中心-AppCanIDE安装下载"
+        - title: "热销市场"
+          logo: "https://favicon.duckduckgo.com/ip3/re.1688.com.ico"
+          url: "https://re.1688.com/"
+          description: "热销市场"
+        - title: "超级简历 WonderCV"
+          logo: "https://favicon.duckduckgo.com/ip3/www.wondercv.com.ico"
+          url: "https://www.wondercv.com/zh-CN/cvs/mcu1OQI/editor###"
+          description: "超级简历 WonderCV"
+        - title: "checkra1n硬件漏洞越狱"
+          logo: "https://favicon.duckduckgo.com/ip3/checkra.in.ico"
+          url: "https://checkra.in/"
+          description: "checkra1n硬件漏洞越狱"
+        - title: "宝塔Windows面板"
+          logo: "https://favicon.duckduckgo.com/ip3/127.0.0.1:8888.ico"
+          url: "http://127.0.0.1:8888/Gxam5jXP/"
+          description: "宝塔Windows面板"
+        - title: "节点列表 — 我艹"
+          logo: "https://favicon.duckduckgo.com/ip3/gowocaoveego.xyz.ico"
+          url: "https://gowocaoveego.xyz/"
+          description: "节点列表 — 我艹"
+    - term: 都市妇产
+      links:
+        - title: "39女性健康_中国专业女人健康网站"
+          logo: "https://favicon.duckduckgo.com/ip3/woman.39.net.ico"
+          url: "http://woman.39.net/"
+          description: "39女性健康_中国专业女人健康网站"
+        - title: "武汉都市妇产医院"
+          logo: "https://favicon.duckduckgo.com/ip3/www.whdsyy.com.ico"
+          url: "http://www.whdsyy.com/"
+          description: "武汉都市妇产医院"
+        - title: "妈妈帮-妈妈们的怀孕育儿经验交流论坛社区"
+          logo: "https://favicon.duckduckgo.com/ip3/www.mmbang.com.ico"
+          url: "https://www.mmbang.com/"
+          description: "妈妈帮-妈妈们的怀孕育儿经验交流论坛社区"
+        - title: "妈妈网_官方网站，妈妈信赖的的育儿、生活等交流互动社区"
+          logo: "https://favicon.duckduckgo.com/ip3/www.mama.cn.ico"
+          url: "http://www.mama.cn/"
+          description: "妈妈网_官方网站，妈妈信赖的的育儿、生活等交流互动社区"
+        - title: "短信服务公司 短信软件 四川短信群发平台-凌凯短信中心 400 6822 386"
+          logo: "https://favicon.duckduckgo.com/ip3/sms.028lk.com.ico"
+          url: "https://sms.028lk.com/Msg/SmsSend"
+          description: "短信服务公司 短信软件 四川短信群发平台-凌凯短信中心 400 6822 386"
+        - title: "女性_99健康网"
+          logo: "https://favicon.duckduckgo.com/ip3/nv.99.com.cn.ico"
+          url: "https://nv.99.com.cn/"
+          description: "女性_99健康网"
+        - title: "女性健康，健康小知识 - 女性健康网"
+          logo: "https://favicon.duckduckgo.com/ip3/www.women-health.cn.ico"
+          url: "https://www.women-health.cn/"
+          description: "女性健康，健康小知识 - 女性健康网"
+        - title: "亿威苹果安卓福利在线网页工具"
+          logo: "https://favicon.duckduckgo.com/ip3/app.wapev.com.ico"
+          url: "http://app.wapev.com/"
+          description: "亿威苹果安卓福利在线网页工具"
+        - title: "可以刷的ios版本"
+          logo: "https://favicon.duckduckgo.com/ip3/ipsw.me.ico"
+          url: "https://ipsw.me/"
+          description: "可以刷的ios版本"
+    - term: 书签栏
+      links:
+        - title: "iP138"
+          logo: "https://favicon.duckduckgo.com/ip3/www.ip138.com.ico"
+          url: "https://www.ip138.com/"
+          description: "iP138"
+        - title: "fnOS - 飞牛 fnOS"
+          logo: "https://favicon.duckduckgo.com/ip3/192.168.99.147:5666.ico"
+          url: "http://192.168.99.147:5666/"
+          description: "fnOS - 飞牛 fnOS"
+        - title: "抖音"
+          logo: "https://favicon.duckduckgo.com/ip3/www.douyin.com.ico"
+          url: "https://www.douyin.com/search/%E8%93%9D%E7%84%B0%E5%9B%BD%E9%99%85%E6%B1%BD%E8%BD%A6%E5%9F%8E?type=video"
+          description: "抖音"
+        - title: "管理中心 - 后台管理系统 by HQCMS V5.0"
+          logo: "https://favicon.duckduckgo.com/ip3/lanyan.demos.net.cn.ico"
+          url: "https://lanyan.demos.net.cn/index.php?m=&c=Index&a=index"
+          description: "管理中心 - 后台管理系统 by HQCMS V5.0"
+        - title: "Google搜"
+          logo: "https://favicon.duckduckgo.com/ip3/www.google.com.ico"
+          url: "https://www.google.com/"
+          description: "Google搜"
+        - title: "Google翻译"
+          logo: "https://favicon.duckduckgo.com/ip3/translate.google.com.hk.ico"
+          url: "https://translate.google.com.hk/?hl=zh-CN&tab=TT"
+          description: "Google翻译"
+        - title: "精度IP地址归属地查询-IP风控值查询-原生IP查询-IP类型查询-家庭宽带IP查询-全球小鸡监控平台"
+          logo: "https://favicon.duckduckgo.com/ip3/ping0.cc.ico"
+          url: "https://ping0.cc/"
+          description: "精度IP地址归属地查询-IP风控值查询-原生IP查询-IP类型查询-家庭宽带IP查询-全球小鸡监控平台"
+        - title: "博思高智慧社区管理平台"
+          logo: "https://favicon.duckduckgo.com/ip3/ykt.bsgoal.net.cn.ico"
+          url: "http://ykt.bsgoal.net.cn/"
+          description: "博思高智慧社区管理平台"
+        - title: "杨公子的个人导航"
+          logo: "https://favicon.duckduckgo.com/ip3/hiir.cn.ico"
+          url: "https://hiir.cn/"
+          description: "杨公子的个人导航"
+        - title: "杨公子的博客"
+          logo: "https://favicon.duckduckgo.com/ip3/www.hiir.cn:12580.ico"
+          url: "https://www.hiir.cn:12580/"
+          description: "杨公子的博客"
+        - title: "钉钉企业注册，企业移动办公，企业通讯录，免费云邮箱，免费OA"
+          logo: "https://favicon.duckduckgo.com/ip3/oa.dingtalk.com.ico"
+          url: "https://oa.dingtalk.com/?spm=a213l2.13146415.4929779444.75.7f1521c9YVcY2e#/login"
+          description: "钉钉企业注册，企业移动办公，企业通讯录，免费云邮箱，免费OA"
+        - title: "蓝焰智慧停车可视化大屏"
+          logo: "https://favicon.duckduckgo.com/ip3/lanyan.demos.net.cn.ico"
+          url: "https://lanyan.demos.net.cn/Home/Visual/"
+          description: "蓝焰智慧停车可视化大屏"
+    - term: 默认
+      links:
+        - title: "打开新的标签页"
+          logo: "https://favicon.duckduckgo.com/ip3/newtab.ico"
+          url: "chrome-native://newtab/"
+          description: "打开新的标签页"
